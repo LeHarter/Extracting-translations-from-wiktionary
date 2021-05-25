@@ -6,3 +6,6 @@ python English_article2xml.py enwiktionary-20210420-pages-articles.xml
 
 This is an example how to run the article2xml files. They take an wiktionary dump file in the appropiate language (Catalan_article2xml.py needs a dump file of the Catalan wiktionary and Swedish_article2xml.py a dump file of the Swedish wiktionary etc.). The output is a xml-file called articles.xml
 ## Readin Files
+python English_readin_romance.py article.xml
+
+This is an example how to run the readin files. They take an articel.xml file as argument and produce dictionaries. Note that the article.xml file has to extracted from the wiktionary in the correct language. Englisch_readin_romance.py and English_reading_northgermanic need an article.xml file from the English wiktioanry, Catalan_readin.py needs a article.xml file extracted from the Catalan wiktionary, etc.
