@@ -7,6 +7,7 @@ import sys
 
 mpattern1 = re.compile("\[\[(.*?)\]\]")
 mpattern2 = re.compile("\|(.*?)}}")
+qpattern = re.compile("{{qualifier\|.*?}}")
 
 #file = 'articles.xml'
 file = sys.argv[1]
@@ -34,7 +35,8 @@ for article in articles:
                             for sp in ['Romanian','Catalan','Italian','Occitan']:
                                 if sp in tr.text:
                                     liste = []
-                                    for tw in mpattern1.findall(tr.text)+mpattern2.findall(tr.text):
+                                    text = qpattern.sub("", tr.text)
+                                    for tw in mpattern1.findall(tr.text)+mpattern2.findall(text):
                                         if "|" in tw:
                                             if (tw.split("|")[-1] in ["u","n-p","n","f","m","?","f-p","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-1]):
                                                 if (tw.split("|")[-2] in  ["u","n-p","n","f","f-p","m","?","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-2]):
