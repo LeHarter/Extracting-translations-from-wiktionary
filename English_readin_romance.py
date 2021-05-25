@@ -3,12 +3,14 @@ from collections import defaultdict
 import re
 import json
 import codecs
+import sys
 
 mpattern1 = re.compile("\[\[(.*?)\]\]")
 mpattern2 = re.compile("\|(.*?)}}")
 
-
-data = ET.parse('articles.xml')
+#file = 'articles.xml'
+file = sys.argv[1]
+data = ET.parse(file)
 root = data.getroot()
 articles = root.findall('article')
 

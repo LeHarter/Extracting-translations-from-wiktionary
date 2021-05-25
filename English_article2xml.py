@@ -21,7 +21,6 @@ def articleformat_to_xml(text,word):
                 language = x.group(1)
                 level = 2
                 article += "\t\t<language info=\""+language+"\">\n"
-            # to do: LevelUp
         elif level == 2: #within a language
             x = pos_pattern.match(line)
             if x:
