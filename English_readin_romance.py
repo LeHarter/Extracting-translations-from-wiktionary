@@ -36,21 +36,37 @@ for article in articles:
                                 if sp in tr.text:
                                     liste = []
                                     text = qpattern.sub("", tr.text)
-                                    for tw in mpattern1.findall(tr.text)+mpattern2.findall(text):
-                                        if "|" in tw:
-                                            if (tw.split("|")[-1] in ["u","n-p","n","f","m","?","f-p","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-1]):
-                                                if (tw.split("|")[-2] in  ["u","n-p","n","f","f-p","m","?","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-2]):
-                                                    try:
-                                                        tw.split("|")[-3].replace("[","").replace("]","")
-                                                    except IndexError:
-                                                        liste = mpattern1.findall(tr.text)
+                                    for tw in mpattern2.findall(text):
+                                        if not "[" in tw:
+                                            if "|" in tw:
+                                                if (tw.split("|")[-1] in ["u","n-p","n","f","m","?","f-p","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-1]):
+                                                    if (tw.split("|")[-2] in  ["u","n-p","n","f","f-p","m","?","m-p","m-s","c","p"]) or ("=" in tw.split("|")[-2]):
+                                                        try:
+                                                            tw.split("|")[-3].replace("[","").replace("]","")
+                                                        except IndexError:
+                                                            liste = mpattern1.findall(tr.text)
                                                         
+                                                    else:
+                                                        liste.append(tw.split("|")[-2].replace("[","").replace("]",""))
                                                 else:
-                                                    liste.append(tw.split("|")[-2].replace("[","").replace("]",""))
+                                                    liste.append(tw.split("|")[-1].replace("[","").replace("]",""))
                                             else:
-                                                liste.append(tw.split("|")[-1].replace("[","").replace("]",""))
+                                                liste.append(tw.replace("[","").replace("]",""))
                                         else:
-                                            liste.append(tw.replace("[","").replace("]",""))
+                                            if "|" in tw:
+                                                twlist = tw.split("|")
+                                                if twlist[-1] in ["u","n-p","n","f","m","?","f-p","m-p","m-s","c","p"] or ("=" in twlist[-1]):
+                                                    if twlist[-2] in ["u","n-p","n","f","m","?","f-p","m-p","m-s","c","p"] or ("=" in twlist[-2]):
+                                                        tw2 = twlist[-3]
+                                                    else:
+                                                        tw2 = twlist[-2]
+                                                else:
+                                                    tw2 = twlist[-1]
+                                                if "[" in tw2:
+                                                    #print(word,tw2,tw2.replace("(","").replace(")","").replace("[","").replace("]",""))
+                                                    liste.append(tw2.replace("(","").replace(")","").replace("[","").replace("]","").strip())
+                                            else:
+                                                print(tw)
                                     translationsdict[sp][pos][word].append((meaning,liste))
                                     for x in liste:
                                         if not "/" in x:
