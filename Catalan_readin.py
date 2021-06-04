@@ -42,8 +42,7 @@ for article in articles:
                                 if "{{"+sp+"}}" in tr.text:
                                     sp = languagedict[sp]
                                     liste = []
-                                    for tw in mpattern2.findall(tr.text):#+mpattern2.findall(tr.text):
-                                        #print(word,tw,tr.text)
+                                    for tw in mpattern2.findall(tr.text):
                                         if "|" in tw:
                                             if tw.split("|")[-1] in ["n","f","m","?","c","n-p","p","f-p","m-f","m-p"]:
                                                 if tw.split("|")[-2] in ["n","f","m","?","c","n-p","p","f-p","m-f","m-p"]:
