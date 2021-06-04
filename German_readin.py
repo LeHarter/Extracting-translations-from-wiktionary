@@ -5,6 +5,7 @@ import json
 import codecs
 import sys
 
+TEST = ["Kartoffel","Handy","Sonne","Weihnachtsmann","Aufnahme","legen","Ausfahrt","Popcorn","Klappe","Kescher","Patin","Hiobsbotschaft","Farre","rentieren","Nuckel"]
 # file = 'articles.xml'
 file = sys.argv[1]
 
@@ -13,7 +14,7 @@ sprachendict = {"nb":"Norwegian Bokmål","no":"Norwegisch","sv":"Schwedisch","is
 
 mpattern1 = re.compile("\[\[(.*?)\]\]")
 mpattern2 = re.compile("\|(.*?)}}")
-
+qpattern = re.compile("{{reg\.\|.*?}}")
 
 data = ET.parse(file)
 root = data.getroot()
@@ -42,7 +43,8 @@ for article in articles:
                                 if sp in tr.text:
                                     sp = sprachendict[sp.replace('{','').replace('}','')]
                                     liste = []
-                                    for tw in mpattern1.findall(tr.text)+mpattern2.findall(tr.text):
+                                    text = qpattern.sub("", tr.text)
+                                    for tw in mpattern2.findall(text):
                                         if tw not in "1234567890":
                                             if not ":" in tw:
                                                 if "|" in tw:
@@ -55,6 +57,7 @@ for article in articles:
                                                         liste.append(tw.split("|")[-1].replace("[","").replace("]",""))
                                                 else:
                                                     liste.append(tw.replace("[","").replace("]",""))
+                                        
                                     translationsdict[sp][pos][word].append((meaning,liste))
                                     for x in liste:
                                         if not "/" in x:
@@ -69,7 +72,6 @@ for article in articles:
                     pos = p.attrib['info']
                     for m in p.findall('meaning'):
                         liste = []
-                        #print("\t",m.text)
                         try:
                             meaning = m.text.replace("[","").replace("]","").replace("1","").replace("2","").replace("3","").replace("4","").replace("5","").replace("6","").replace("7","").replace("8","").replace("9","")
                             if " of|" in meaning:
@@ -97,7 +99,8 @@ for article in articles:
                                     else:
                                         inferenz[element][pos][sprache].append((mea,word))
                         except AttributeError:
-                            print(m.text)
+                            pass
+                            #print(m.text)
 
                 
 
