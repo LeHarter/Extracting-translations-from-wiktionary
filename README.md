@@ -9,3 +9,7 @@ This is an example how to run the article2xml files. They take an wiktionary dum
 python English_readin_romance.py article.xml
 
 This is an example how to run the readin files. They take an articel.xml file as argument and produce dictionaries. Note that the article.xml file has to extracted from the wiktionary in the correct language. Englisch_readin_romance.py and English_reading_northgermanic need an article.xml file from the English wiktioanry, Catalan_readin.py needs a article.xml file extracted from the Catalan wiktionary, etc.
+
+## Comparisons with other dictionaries
+### Comparison with Muse
+Please go into the MuseComparison folder. There you can see the Muse dictionaries with languages we also available in our dictionarie and the python file overlap.py
