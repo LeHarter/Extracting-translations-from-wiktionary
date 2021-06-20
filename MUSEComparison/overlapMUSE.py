@@ -2,7 +2,7 @@ import codecs
 import sys
 
 pathtomy = sys.argv[1]#"dictionariesEnglishOld/Romance/English-Romanian.txt"#"dictionariesEnglishOld/North-Germanic/English-Swedish.txt"
-pathtomuse = sys.argv[2]#"MUSEComparison/en-ro.txt"
+pathtomuse = sys.argv[2]#"MUSEComparison/en-sw.txt"
 
 setmuse = set()
 setmy = set()
