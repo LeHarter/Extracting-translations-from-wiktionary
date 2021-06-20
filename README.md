@@ -13,5 +13,6 @@ This is an example how to run the readin files. They take an articel.xml file as
 ## Comparisons with other dictionaries
 ### Comparison with Muse
 Please go into the MUSEcomparison folder. There you can see the Muse dictionaries with languages that are also available in our dictionaries and the python file overlapMUSE.py. This file can be used to compare our dictionaries with the MUSE ones. It can be started like that:
+
 python overlapMUSE.py path_to path_to_wiki_dictionary_file path_to_MUSE_dictionary_file
 ### Comparison with Apertium
