@@ -16,3 +16,4 @@ Please go into the MUSEcomparison folder. There you can see the Muse dictionarie
 
 python overlapMUSE.py path_to path_to_wiki_dictionary_file path_to_MUSE_dictionary_file
 ### Comparison with Apertium
+In the Apertium folder are the relevant arpertium .dix files as well as python scripts that make the .dix files readable. In addition they comput the overlap between the .dix file and the dictionary extracted from the wiktionaries. When running those python files they have to be in the same file as the corresponing .dix file and the corresponding wictionary dictionary.
