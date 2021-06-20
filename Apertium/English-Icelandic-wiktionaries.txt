@@ -1,0 +1,5870 @@
+African	afrískur	Adjective
+Algerian	alsírskur	Adjective
+American	amerískur	Adjective
+American	bandarískur	Adjective
+Andorran	andorrskur	Adjective
+Arabic	arabíska	Adjective
+Arctic	Norðurheimskautssvæðið 	Adjective
+Arctic	Norðurskautssvæðið	Adjective
+Arctic	arktískur	Adjective
+Arctic	f-p	Adjective
+Arctic	hánorrænn	Adjective
+Arctic	norðurheimskauts-	Adjective
+Arctic	norðurpóls-	Adjective
+Arctic	norðurskauts-	Adjective
+Armenian	armenskur	Adjective
+Asian	asískur	Adjective
+Australian	ástralskur	Adjective
+Baltic	Eystrasaltslöndin	Adjective
+Basque	baskneskur	Adjective
+Beninese	benínskur	Adjective
+Berber	berberskur	Adjective
+Bulgarian	búlgarskur	Adjective
+Bulgarian	búlgverskur	Adjective
+Calvinist	kalvínskur	Adjective
+Cape Verdean	grænhöfðeyskur	Adjective
+Catalan	katalónskur	Adjective
+Catholic	kaþólskur	Adjective
+Chinese	kínverskur	Adjective
+Christian	kristinn	Adjective
+Cuban	kúbverskur	Adjective
+Dalmatian	dalmatískur	Adjective
+Danish	danskur	Adjective
+Deaf	colloquial	Adjective
+Deaf	döff	Adjective
+Deaf	heyrnarlaus	Adjective
+Dutch	hollenska	Adjective
+Dutch	hollenskur	Adjective
+Dutch	niðurlenskur	Adjective
+Ecuadorian	ekvadorskur	Adjective
+English	enskur	Adjective
+Eritrean	erítreskur	Adjective
+Estonian	eistneskur	Adjective
+European	evrópskur	Adjective
+Faroese	færeyskur	Adjective
+Fijian	fídjíska	Adjective
+Finnophone	finnskumælandi	Adjective
+Flemish	flæmska	Adjective
+Flemish	flæmskur	Adjective
+Francophone	frönskumælandi	Adjective
+French	franskur	Adjective
+German	þýskur	Adjective
+Gothic	gotneskur	Adjective
+Greek	grískur	Adjective
+Guinean	Bissái	Adjective
+Guinean	bissáskur	Adjective
+Guinean	m-p	Adjective
+Heathen	heiðinn	Adjective
+Hebrew	hebrei	Adjective
+Hebrew	hebreska	Adjective
+Hermitian	hermískur	Adjective
+Indian	indverskur	Adjective
+Indian	indíána-	Adjective
+Indo-European	indóevrópskur	Adjective
+Islamic	íslamskur	Adjective
+Israeli	ísraelskur	Adjective
+Italian	ítalskur	Adjective
+Kabyle	kabýlska	Adjective
+Korean	kóreskur	Adjective
+Lutheran	lúterskur	Adjective
+Lutheran	lútherskur	Adjective
+Malay	malajískur	Adjective
+Malay	malasískur	Adjective
+Manx	manskur	Adjective
+Methodist	meþódistatrú	Adjective
+Mexican	mexíkóskur	Adjective
+Montenegrin	svartfellskur	Adjective
+Monégasque	mónakóskur	Adjective
+Nordic	norrænn	Adjective
+Norse	norrænn	Adjective
+Polish	pólskur	Adjective
+Presbyterian	öldungakirkju-	Adjective
+Romance	rómanskur	Adjective
+Romanian	rúmenskur	Adjective
+Serbian	serbneskur	Adjective
+Serbo-Croatian	serbókróatískur	Adjective
+Slovak	slóvakískur	Adjective
+Slovak	slóvaskur	Adjective
+Spanish	kastilíska	Adjective
+Spanish	spánska	Adjective
+Spanish	spánskur	Adjective
+Spanish	spænska	Adjective
+Spanish	spænskur	Adjective
+Swiss	svissneskur	Adjective
+Syrian	sýrlenskur	Adjective
+Tatar	tatarskur	Adjective
+Trojan	rare	Adjective
+Trojan	trójanskur	Adjective
+Trojan	tróverskur	Adjective
+X-ray	röntgen-	Adjective
+Yiddish	jiddíska	Adjective
+abstract	abstrakt	Adjective
+academic	akademískur	Adjective
+academic	fræðilegur	Adjective
+acid	beiskur	Adjective
+acid	meinhæðin	Adjective
+acid	meinhæðinn	Adjective
+acid	meinhæðið	Adjective
+acid	súr	Adjective
+ad hoc	sérsniðinn	Adjective
+ad hoc	sértækur	Adjective
+adjective	is	Adjective
+aesthetic	sjónrænn	Adjective
+airtight	loftþéttur	Adjective
+airtight	óhrekjandi	Adjective
+all right	ágætur	Adjective
+almighty	almáttugur	Adjective
+alveolar	tannbergsmæltur	Adjective
+analog	hliðrænt	Adjective
+anemic	blóðlaus	Adjective
+angelic	englalegur	Adjective
+angular	beinaber	Adjective
+angular	horn	Adjective
+angular	hyrndur	Adjective
+angular	skarphyrndur	Adjective
+antecedent	undanfari	Adjective
+antisocial	andfélagslegur	Adjective
+aplenty	í miklum mæli	Adjective
+aplenty	í ofgnótt	Adjective
+apocryphal	af vafasömum uppruna	Adjective
+apocryphal	apókrýfur	Adjective
+apocryphal	vafasamur	Adjective
+apocryphal	vafasamur að uppruna	Adjective
+apologetic	afsakandi	Adjective
+archaic	gamaldags	Adjective
+automatic	sjálfvirkur	Adjective
+backhanded	bakhandar-	Adjective
+backhanded	gerður með handarbakinu	Adjective
+backhanded	hallandi til vinstri	Adjective
+backhanded	klaufskur	Adjective
+backhanded	klunnalegur	Adjective
+backhanded	tvíræður	Adjective
+backhanded	vafasamur	Adjective
+backhanded	öfugsnúinn	Adjective
+backup	öryggis-	Adjective
+bald	sköllóttur	Adjective
+barbarian	barbarískur	Adjective
+barbarian	villimannslegur	Adjective
+barefoot	berfættur	Adjective
+belligerent	deilugjarn	Adjective
+belligerent	herskár	Adjective
+belligerent	ófriðsamur	Adjective
+bicameral	með þvær þingdeildir	Adjective
+bicameral	tveggja deilda	Adjective
+bidirectional	tvíbeind	Adjective
+bilateral	tvíhliða	Adjective
+bilingual	mála	Adjective
+bilingual	tveggja	Adjective
+bilingual	tvímála	Adjective
+bilingual	tvítyngdur	Adjective
+bisexual	tvíkynhneigður	Adjective
+bisexual	tvíkynja	Adjective
+bittersweet	ljúfsár	Adjective
+black	svartur	Adjective
+blessed	blessaður	Adjective
+blind	blindur	Adjective
+bogus	falskur	Adjective
+bogus	svikinn	Adjective
+bogus	óekta	Adjective
+bona fide	gerður í góðri trú	Adjective
+bona fide	ósvikinn	Adjective
+boring	leiðinlegur	Adjective
+bowtie	alt=slaufu-	Adjective
+brave	hugrakkur	Adjective
+brick	úr múrsteini	Adjective
+brown	brúnn	Adjective
+brusque	byrstur	Adjective
+brusque	hranalegur	Adjective
+brusque	ruddalegur	Adjective
+brusque	stuttaralegur	Adjective
+brusque	stuttur í spuna	Adjective
+brusque	þurr á manninn	Adjective
+built-in	innbyggður	Adjective
+cardiac	alt=hjarta-	Adjective
+cardiac	munnamaga-	Adjective
+cardinal	aðal-	Adjective
+cardinal	grundvallar-	Adjective
+cardinal	hárauður	Adjective
+cardinal	höfuð-	Adjective
+cardinal	megin-	Adjective
+cardinal	prefix in a compound word	Adjective
+carless	bíllaus	Adjective
+certain	viss	Adjective
+certain	öruggur	Adjective
+clement	mildur	Adjective
+clement	miskunnsamur	Adjective
+clever	snjall	Adjective
+coaxial	samása	Adjective
+coeval	jafnaldra	Adjective
+coeval	samaldra	Adjective
+coffee	kaffibrúnn	Adjective
+cold-hearted	harðlyndur	Adjective
+cold-hearted	kaldgeðja	Adjective
+cold-hearted	kaldlyndur	Adjective
+color blind	litblindur	Adjective
+communist	alt=kommúnista-	Adjective
+communist	kommúnistískur	Adjective
+complete	algjör	Adjective
+congenital	meðfæddur	Adjective
+cream	kremaður	Adjective
+creative	is	Adjective
+cross-eyed	rangeygður	Adjective
+cute	snotur	Adjective
+cute	sætur	Adjective
+darling	kær	Adjective
+darling	ástkær	Adjective
+dative	alt=þágufalls-	Adjective
+dead	dauður	Adjective
+dead	dáinn	Adjective
+dead	látinn	Adjective
+deaf	daufur	Adjective
+decadent	hnignandi	Adjective
+decadent	hrörnandi	Adjective
+decadent	spilltur	Adjective
+decadent	úrkynjaður	Adjective
+decent	viðeigandi	Adjective
+decrepit	farlama	Adjective
+decrepit	hrumur	Adjective
+decrepit	örvasa	Adjective
+demersal	botnlægur	Adjective
+democratic	lýðræðislegur	Adjective
+demonstrative	alt=ábendingar-	Adjective
+different	öðruvísi	Adjective
+differentiable	deildanlegur	Adjective
+differentiable	diffranlegur	Adjective
+diploid	tvílitna	Adjective
+diverse	fjölbreyttur	Adjective
+diverse	margvíslegur	Adjective
+drunk	drukkinn	Adjective
+drunk	fullur	Adjective
+dry	þurr	Adjective
+dusty	rykfallinn	Adjective
+early	snemma	Adjective
+eastern	austur	Adjective
+efficient	nýtinn	Adjective
+efficient	skilvirkur	Adjective
+egalitarian	alt=jafnréttis-	Adjective
+electric	rafmagnaður	Adjective
+eloquent	mæskur	Adjective
+epicene	kynlaus	Adjective
+episcopal	biskupa-	Adjective
+episcopal	biskuplegur	Adjective
+epoxy	epoxý-	Adjective
+erotic	erótískur	Adjective
+evergreen	sígrænn	Adjective
+evergreen	vetrargrænn	Adjective
+excellent	frábær	Adjective
+excellent	ágætur	Adjective
+extra	auka-	Adjective
+extra	extra	Adjective
+extra	informal	Adjective
+fallen	fallinn	Adjective
+fallen	fallinn í valinn	Adjective
+false	rangur	Adjective
+false	ósannur	Adjective
+far	fjarri	Adjective
+fascist	fasískur	Adjective
+feminine	is	Adjective
+free	frjáls	Adjective
+frisk	frískur	Adjective
+fucking	helvítis	Adjective
+full screen	heilskjár	Adjective
+full screen	noun	Adjective
+genitive	alt=eignarfalls-	Adjective
+genitive	in compounds	Adjective
+geologic	jarðfræðilegur	Adjective
+great	mikill	Adjective
+great	stór	Adjective
+green	grænn	Adjective
+grey-haired	gráhærður	Adjective
+gross	brúttó	Adjective
+half	hálf-	Adjective
+half-awake	milli svefns og vöku	Adjective
+half-awake	í svefnrofunum	Adjective
+happy	hamingjusamur	Adjective
+happy	heppilegur	Adjective
+hard	erfiður	Adjective
+hard	hart	Adjective
+hard	harður	Adjective
+hard	hörð	Adjective
+hard-boiled	harðsoðinn	Adjective
+hardy	herkinn	Adjective
+heathen	heiðinn	Adjective
+hesitant	efablandinn	Adjective
+hesitant	hikandi	Adjective
+hesitant	tvístígandi	Adjective
+hesitant	á báðum áttum	Adjective
+hesitant	óráðinn	Adjective
+hesitant	óákveðinn	Adjective
+hilly	hæðóttur	Adjective
+histrionic	alt=leiklistar-	Adjective
+histrionic	leikaralegur	Adjective
+histrionic	tilgerðarlegur	Adjective
+histrionic	uppgerðarlegur	Adjective
+hither	sem er nær	Adjective
+holy	heilagur	Adjective
+holy	helgur	Adjective
+homosexual	samkynhneigður	Adjective
+hot	heitur	Adjective
+hung over	þunnur	Adjective
+ill	lasinn	Adjective
+ill	sjúkur	Adjective
+ill	veikur	Adjective
+illegible	ólæsilegur	Adjective
+impatient	óþolinmóður	Adjective
+imperative	mikilvægur	Adjective
+important	mikilvægur	Adjective
+in-depth	ítarlegur	Adjective
+incognito	alt=huldu höfði	Adjective
+indeclinable	óbeygjanlegur	Adjective
+indigo	indígóblár	Adjective
+informal	óformlegur	Adjective
+inherent	eðlislægur	Adjective
+inherent	meðfæddur	Adjective
+inherent	áskapaður	Adjective
+inseparable	óaðskiljanlegar 	Adjective
+intelligent	gáfaður	Adjective
+international	alþjóðlegur	Adjective
+intolerable	óþolandi	Adjective
+irregular	óreglulegur	Adjective
+iterative	alt=ítrekunar-	Adjective
+jammed	sneisafullur	Adjective
+knee-jerk	ósjálfráður	Adjective
+laissez faire	afskiptalaus	Adjective
+laissez faire	alt=afskiptaleysis-	Adjective
+late	heitinn	Adjective
+late	seint	Adjective
+lesbian	alt=lesbíu-	Adjective
+lesbian	lesbískur	Adjective
+libre	frjáls	Adjective
+liquid	fljótandi	Adjective
+liquid	greiðslufær	Adjective
+liquid	handbær	Adjective
+little	lítill	Adjective
+local	alt=stað-	Adjective
+local	staðbundinn	Adjective
+long	langur	Adjective
+long-lived	langlífur	Adjective
+lost	týndur	Adjective
+loyal	dyggur	Adjective
+loyal	hollur	Adjective
+loyal	tryggur	Adjective
+loyal	trúr	Adjective
+lucky	gæfusamur	Adjective
+lucky	heppinn	Adjective
+lucky	lánsamur	Adjective
+mad	ær	Adjective
+magic	töfrandi	Adjective
+major	myndugur	Adjective
+man-eating	alt=mannætu-	Adjective
+man-made	manngerður	Adjective
+man-made	tilbúinn	Adjective
+marine	alt=sjávar-	Adjective
+medical	læknisfræðilegur	Adjective
+mediocre	User:Kephir/gadgets/xte#Translation_fixing	Adjective
+mediocre	alt=meðallags-	Adjective
+mediocre	alt=miðlungs-	Adjective
+mediocre	meðallags	Adjective
+mediocre	miðlungs	Adjective
+memorable	eftirminnilegur	Adjective
+memorable	minnistæður	Adjective
+messy	is	Adjective
+minus	alt=frádráttar-	Adjective
+minus	alt=mínus-	Adjective
+minus	minni en núll	Adjective
+minus	mínus	Adjective
+minus	neikvæður	Adjective
+minus	sem lýtur að frádrætti	Adjective
+miserable	ömurleg	Adjective
+miserable	ömurlegt	Adjective
+miserable	ömurlegur	Adjective
+misty	mistraður	Adjective
+misty	móðuhulinn	Adjective
+misty	társtokkinn	Adjective
+moist	rakur	Adjective
+moist	tárvotur	Adjective
+multilateral	marghliða	Adjective
+must-have	skyldueign	Adjective
+muzzleloading	framhlaðinn	Adjective
+national	þjóðlegur	Adjective
+near	skammt	Adjective
+necessary	nauðsynlegur	Adjective
+neuter	is	Adjective
+new	nýr	Adjective
+newborn	nýfæddur	Adjective
+nominative	alt=nefnifalls-	Adjective
+nondeterministic	brigðgengur	Adjective
+nonmonetary	ópeningalegur	Adjective
+nonnegative	ekki neikvæður	Adjective
+nonnegative	frekar jákvæður	Adjective
+nonnegative	stærri eða jafn núlli	Adjective
+nonnegative	ófrádrægur	Adjective
+normal	is	Adjective
+nosy	forvitinn	Adjective
+oblong	ílangur	Adjective
+odd	hvass	Adjective
+odd	odda-	Adjective
+odd	ójafn	Adjective
+offline	ótengdur	Adjective
+offshore	is	Adjective
+offside	rangstæður	Adjective
+old	gamall	Adjective
+old-fashioned	gamaldags	Adjective
+omnipotent	almáttugur	Adjective
+omnipresent	alls staðar nálægur	Adjective
+omniscient	alvitur	Adjective
+one-legged	einfættur	Adjective
+one-sided	einhliða	Adjective
+opaque	ógagnsær	Adjective
+oral	munnlegur	Adjective
+orange	appelsínugulur	Adjective
+organic	lífrænn	Adjective
+outdoor	útivistar-	Adjective
+overrated	ofemtið	Adjective
+overrated	ofmetin	Adjective
+overrated	ofmetinn	Adjective
+parallel	samhliða	Adjective
+patient	þolinmóður	Adjective
+penny wise and pound foolish	spara eyrinn en kasta krónunni	Adjective
+personal	persónulegur	Adjective
+piecewise linear	línulegur á köflum	Adjective
+pinstriped	teinóttur	Adjective
+pirate	sjóræningi	Adjective
+platonic	andlegur	Adjective
+platonic	háleitur	Adjective
+platonic	laus við holdlega fýsn	Adjective
+platonic	lostalaus	Adjective
+platonic	platónskur	Adjective
+plural	fleir-	Adjective
+plural	fleirtölu-	Adjective
+plural	marg-	Adjective
+plural	í fleirtölu	Adjective
+plus	jákvæður	Adjective
+plus	með jákvæða hleðslu	Adjective
+plus	pósitífur	Adjective
+plus	stærra en núll	Adjective
+plus	stærri en núll	Adjective
+pneumatic	filled with air	Adjective
+pneumatic	full of compressed air	Adjective
+pneumatic	fullur af þrýstilofti	Adjective
+pneumatic	gas-	Adjective
+pneumatic	hol-	Adjective
+pneumatic	loft-	Adjective
+pneumatic	loftaflfræði-	Adjective
+pneumatic	loftfylltur	Adjective
+pneumatic	loftknúinn	Adjective
+pneumatic	pertaining to air	Adjective
+pneumatic	pertaining to gas	Adjective
+pneumatic	þrýstilofts-	Adjective
+polar	heimskauta-	Adjective
+polar	heimskautalegur	Adjective
+polar	heimskauts-	Adjective
+polar	pól-	Adjective
+polite	kurteis	Adjective
+poor	fátækur	Adjective
+popular	vinsæll	Adjective
+post-partum	eftir barnsburð	Adjective
+post-partum	eftir fæðingu	Adjective
+post-partum	eftirfæðingar-	Adjective
+potential	mögulegur	Adjective
+precious	dýrmætur	Adjective
+prehensile	grip-	Adjective
+prehistoric	forsögulegur	Adjective
+principal	aðal-	Adjective
+principal	höfuð-	Adjective
+proud	stoltur	Adjective
+public	opinber	Adjective
+purebred	hreinræktaður	Adjective
+purple	fjólublár	Adjective
+purple	purpuralitur	Adjective
+queer	hinsegin	Adjective
+quiet	hljóður	Adjective
+radioactive	geislavirkur	Adjective
+randy	dónalegur	Adjective
+randy	graður	Adjective
+randy	grófur	Adjective
+randy	illa siðaður	Adjective
+randy	lostafenginn	Adjective
+randy	lostafullur	Adjective
+randy	ruddalegur	Adjective
+rapid	fljótur	Adjective
+raw	hrár	Adjective
+raw	óunninn	Adjective
+ready	tilbúinn	Adjective
+ready	undirbúinn	Adjective
+recalcitrant	þrjóskur	Adjective
+recalcitrant	þverúðarfullur	Adjective
+recent	nýlegur	Adjective
+red	rauður	Adjective
+red-hot	blossandi	Adjective
+red-hot	eldheitur	Adjective
+red-hot	figurative, flaming hot	Adjective
+red-hot	glowing red	Adjective
+red-hot	rauðglóandi	Adjective
+reddish	rauðleitur	Adjective
+redheaded	rauðhærður	Adjective
+reflexive	afturbeygður	Adjective
+reflexive	sjálfhverfur	Adjective
+reflexive	spegilvirkur	Adjective
+reprehensible	ámælisverður	Adjective
+rising	rísandi	Adjective
+roundabout	alt=ekki beinn	Adjective
+roundabout	f-p	Adjective
+roundabout	króka-	Adjective
+roundabout	krókóttur	Adjective
+roundabout	óbeinn	Adjective
+royal	konunglegur	Adjective
+ruddy	alt=roða-	Adjective
+ruddy	ansi	Adjective
+ruddy	bölvaður	Adjective
+ruddy	fjárans	Adjective
+ruddy	fjári	Adjective
+ruddy	rauðleitur	Adjective
+ruddy	rauður	Adjective
+ruddy	rjóður	Adjective
+ruddy	skrambans	Adjective
+ruddy	skrambi	Adjective
+run-of-the-mill	fábrotinn	Adjective
+run-of-the-mill	hversdagslegur	Adjective
+run-of-the-mill	miðlungs-	Adjective
+run-of-the-mill	venjulegur	Adjective
+safe	-heldur	Adjective
+safe	háskalaus	Adjective
+safe	hættulaus	Adjective
+safe	tryggur	Adjective
+safe	áhættulaus	Adjective
+safe	öruggur	Adjective
+salmon	laxbleikur	Adjective
+salt	saltur	Adjective
+sandy	sendinn	Adjective
+sapphire	safírblár	Adjective
+seaworthy	haffær	Adjective
+secondhand	notaður	Adjective
+self-conscious	meðvitaður	Adjective
+self-conscious	sjálf	Adjective
+semantic	merkingarfræðilegur	Adjective
+semantic	merkingarlegur	Adjective
+separate	aðkilinn	Adjective
+severe	harkalegur	Adjective
+sexual	kynferðisleg	Adjective
+sharp	hvass	Adjective
+short	lágur	Adjective
+short	lágvaxinn	Adjective
+short	stuttur	Adjective
+short	stuttvaxinn	Adjective
+shy	feiminn	Adjective
+silent	hljóður	Adjective
+similar	einshyrndur	Adjective
+similar	einslaga	Adjective
+similar	einslagaður	Adjective
+sincere	einlægur	Adjective
+singular	eintala	Adjective
+singular	et.	Adjective
+sinusoidal	sínus-	Adjective
+sinusoidal	sínuslaga	Adjective
+slow	hægur	Adjective
+slow	seinn	Adjective
+slow-witted	treggáfaður	Adjective
+slow-witted	tregur	Adjective
+small	lítill	Adjective
+small	smár	Adjective
+snow-blind	snjóblindur	Adjective
+snow-covered	snjóugur	Adjective
+snow-white	mjallhvítur	Adjective
+so-so	alt=svona...	Adjective
+so-so	svona svona	Adjective
+soft	mjúkur	Adjective
+soft-boiled	linsoðinn	Adjective
+solid	storkuhamur	Adjective
+sour	súr	Adjective
+soviet	sovésk	Adjective
+soviet	sovéskt	Adjective
+soviet	sovéskur	Adjective
+spoilsport	gleðispillir	Adjective
+square	fer-	Adjective
+square	ferningslaga	Adjective
+square	hornréttur	Adjective
+squarefree	ferningslaus	Adjective
+static	kyrr-	Adjective
+static	kyrrlegur	Adjective
+stillborn	andvanafæddur	Adjective
+stony	grýttur	Adjective
+straight	beinn	Adjective
+strange	skrýtinn	Adjective
+strong	sterkur 	Adjective
+sub-Saharan	Sahara	Adjective
+sub-Saharan	sunnan	Adjective
+sub-Saharan	sunnan Sahara	Adjective
+subatomic	innan atóms	Adjective
+subatomic	smærri en frumeind	Adjective
+supine	liggja upp í loft	Adjective
+supine	á bakinu	Adjective
+supine	útafliggjandi	Adjective
+supreme	æðstur	Adjective
+sure	viss	Adjective
+tall	hár	Adjective
+tertiary	þriðji	Adjective
+thick-skinned	ekki hörundsár	Adjective
+thick-skinned	ekki viðkvæmur	Adjective
+thick-skinned	fólskulegur	Adjective
+thick-skinned	harðbrjósta	Adjective
+thick-skinned	harðgeðja	Adjective
+thick-skinned	harðlyndur	Adjective
+thick-skinned	kaldgeðja	Adjective
+thick-skinned	með þykkt hýði	Adjective
+thick-skinned	með þykkt skinn	Adjective
+thick-skinned	skinnþykkur	Adjective
+thick-skinned	tilfinningalaus	Adjective
+thin	mjór	Adjective
+thin	þunnur	Adjective
+thorny	þyrnóttur	Adjective
+thorough	ítarlegur	Adjective
+three-dimensional	þrívíður	Adjective
+through-composed	gegnumsaminn	Adjective
+transcontinental	sem fer þvert yfir meginland	Adjective
+transcontinental	sem liggur þvert yfir meginland	Adjective
+transparent	gagnsær	Adjective
+transparent	gegnsær	Adjective
+true	sannur	Adjective
+uncooperative	erfiður	Adjective
+uncooperative	of a person	Adjective
+unicameral	með einni deild	Adjective
+vac.	særanlegur	Adjective
+vac.	viðkvæmur	Adjective
+valid	gildur	Adjective
+vehement	ákafur	Adjective
+velar	uppgómmæltur	Adjective
+venerable	alt=sem vekur virðingu	Adjective
+venerable	commanding respect	Adjective
+venerable	virðulegur	Adjective
+venerable	æruverðugur	Adjective
+vile	andstyggilegur	Adjective
+vile	viðbjóðslegur	Adjective
+violet	fjólublár	Adjective
+weary	þreyttur	Adjective
+weird	kynlegur	Adjective
+weird	skrýtin	Adjective
+weird	skrýtinn	Adjective
+weird	skrýtið	Adjective
+welcome	velkominn	Adjective
+wet	blautur	Adjective
+wet	votur	Adjective
+wet behind the ears	óharðnaður	Adjective
+wet behind the ears	óreyndur	Adjective
+white	hvítur	Adjective
+wholehearted	hjartanlegur	Adjective
+wide	breiður	Adjective
+wide	víður	Adjective
+widespread	útbreiddur	Adjective
+woolen	ullar	Adjective
+woolen	ullar-	Adjective
+word-for-word	orðrétt	Adjective
+word-for-word	orðréttur	Adjective
+wroth	reiður	Adjective
+young	ungur	Adjective
+Anno Domini	á því Guðs ári	Adverb
+Anno Domini	á því herrans ári	Adverb
+BC	f.Kr.	Adverb
+BC	fyrir Krist	Adverb
+a.m.	a.m.	Adverb
+a.m.	f.h.	Adverb
+a.m.	fyrir hádegi	Adverb
+a.m.	árdegis	Adverb
+after	eftir	Adverb
+again	aftur	Adverb
+again	á ný	Adverb
+alfresco	undir berum himni	Adverb
+alfresco	úti	Adverb
+also	einnig	Adverb
+also	líka	Adverb
+amen	amen	Adverb
+anytime	hvenær sem er	Adverb
+aplenty	í miklum mæli	Adverb
+aplenty	í ofgnótt	Adverb
+as well	líka	Adverb
+astride	klofvega	Adverb
+barefoot	berfættur	Adverb
+barefoot	berum fótum	Adverb
+ca.	ca.	Adverb
+ca.	u.þ.b.	Adverb
+e.g.	t.d.	Adverb
+e.g.	til dæmis	Adverb
+early	snemma	Adverb
+every time	í hvert sinn	Adverb
+every time	í hvert skipti	Adverb
+face-down	alt=liggja á grúfu	Adverb
+face-down	lie face-down	Adverb
+forever	að eilífu	Adverb
+free	ókeypis	Adverb
+hence	héðan	Adverb
+hence	þess vegna	Adverb
+here	hingað	Adverb
+here	hér	Adverb
+hither	hingað	Adverb
+home	heim	Adverb
+home	heima	Adverb
+i.e.	að	Adverb
+i.e.	er	Adverb
+i.e.	segja	Adverb
+i.e.	þ.e.	Adverb
+i.e.	þ.e.a.s.	Adverb
+i.e.	það	Adverb
+incognito	huldu höfði	Adverb
+incognito	undir dulnefni	Adverb
+incognito	undir fölsku nafni	Adverb
+late	seinn	Adverb
+little	lítið	Adverb
+long	langt	Adverb
+long	lengi	Adverb
+maybe	ef til vill	Adverb
+maybe	kannske	Adverb
+maybe	kannski	Adverb
+maybe	máske	Adverb
+maybe	máski	Adverb
+more or less	meira eða minna	Adverb
+more or less	nokkurn veginn	Adverb
+more or less	sirka	Adverb
+more or less	um það bil	Adverb
+not	dated	Adverb
+not	ei	Adverb
+not	eigi	Adverb
+not	ekki	Adverb
+on all fours	á fjórum fótum	Adverb
+once	einu sinni	Adverb
+one-handed	einhentur	Adverb
+per se	í sjálfu sér	Adverb
+per se	út af fyrir sig	Adverb
+plz	plís	Adverb
+rather	fremur	Adverb
+scot-free	free	Adverb
+scot-free	get off scot-free	Adverb
+scot-free	sleppa með skrekkinn	Adverb
+scot-free	slysalaust	Adverb
+scot-free	unharmed	Adverb
+scot-free	without accidents	Adverb
+scot-free	ókeypis	Adverb
+scot-free	ómeiddur	Adverb
+scot-free	öskaddaður	Adverb
+soon	brátt	Adverb
+soon	bráðum	Adverb
+soon	fljótlega	Adverb
+step by step	skref fyrir skref	Adverb
+straight	beint	Adverb
+then	þá	Adverb
+today	í dag	Adverb
+tomorrow	á morgun	Adverb
+tonight	í kvöld	Adverb
+tonight	í nótt	Adverb
+too	allt of	Adverb
+too	líka	Adverb
+too	of	Adverb
+underground	neðanjarðar	Adverb
+up	uppi	Adverb
+upside down	á hvolfi	Adverb
+very	afar	Adverb
+very	colloquial	Adverb
+very	einkar	Adverb
+very	fjarska	Adverb
+very	mjög	Adverb
+very	obsolete	Adverb
+very	voða	Adverb
+very	ákaflega	Adverb
+very	ógeðslega	Adverb
+very	ýkja	Adverb
+west	vestur	Adverb
+where	hvar	Adverb
+where	hvaðan	Adverb
+where	hvert	Adverb
+why not	af hverju ekki	Adverb
+why not	formal	Adverb
+why not	hví ekki	Adverb
+5-0	óson	Noun
+A	A	Noun
+A	as	Noun
+A-flat	as	Noun
+A-flat	klappi	Noun
+A-flat	m	Noun
+A-flat	takki	Noun
+A.S.A.P.	m-p	Noun
+AS.	villa	Noun
+ATM	hraðbanki	Noun
+Abkhaz	abkasíska	Noun
+Achilles tendon	hásin	Noun
+Adam's apple	adamsepli	Noun
+Adam's apple	barkakýli	Noun
+Afghan	Afgani	Noun
+Afghan	m-p	Noun
+Algerian	Alsíringur	Noun
+Alsatian	alsatíska	Noun
+Alzheimer's disease	is	Noun
+American	Ameríkani	Noun
+American	Bandaríkjamaður	Noun
+American	colloquial	Noun
+American football	amerískur fótbolti	Noun
+Andorran	Andorramaður	Noun
+Anglican	biskupakirkjumaður	Noun
+Armenian	Armeni	Noun
+Armenian	Armeníukona	Noun
+Armenian	Armeníumaður	Noun
+Armenian	Armeníumenn	Noun
+Armenian	armenska	Noun
+Armenian	m-p	Noun
+Australian	Ástrali	Noun
+Australian	Ástralíubúi	Noun
+Aymara	aímaríska	Noun
+Bashkir	basjkíriska	Noun
+Basque	Baski	Noun
+Basque	baskamál	Noun
+Basque	baskneska	Noun
+Bengali	bengalska	Noun
+Beninese	Beníni	Noun
+Berber	Berberi	Noun
+Bokmål	bókmál	Noun
+Bolshevik	bolsévik	Noun
+Bosnian	Bosníska	Noun
+Bosnian	Bosníukona	Noun
+Bosnian	Bosníumaður	Noun
+Boxing Day	annar í jólum	Noun
+Breton	Bretónska	Noun
+Briton	Breti	Noun
+Brussels sprout	rósakál	Noun
+Bulgarian	Búlgari	Noun
+Bulgarian	búlgarska	Noun
+Bulgarian	búlgverska	Noun
+Bulgarian	m-p	Noun
+C-sharp	cís	Noun
+Caesar	keisari	Noun
+Caesarean section	keisaraskurður	Noun
+Calvinist	Kalvínstrúarmaður	Noun
+Cancer	krabbi	Noun
+Care Bears	m-p	Noun
+Catalan	katalónska	Noun
+Catholic	kaþólikki	Noun
+Catholicism	kaþólska kirkjan	Noun
+Cebuano	Sebúanó	Noun
+Chamorro	tsjamorríska	Noun
+Chinese	Kínverji	Noun
+Chinese checkers	kínaskák	Noun
+Christian	Kristján	Noun
+Christmas card	jólakort	Noun
+Coke	kók	Noun
+Cossack	kósakki	Noun
+Croat	Króati	Noun
+Cuban	Kúbumaður	Noun
+Cuban	Kúbumenn	Noun
+Cuban	Kúbverjar	Noun
+Cuban	Kúbverji	Noun
+DNA	DKS	Noun
+DNA	DNA	Noun
+Dalmatian	Dalmatíumaður	Noun
+Dalmatian	dalmatíska	Noun
+Dalmatian	dalmatíuhundur	Noun
+Dane	Dani	Noun
+Disciple	lærisveinn	Noun
+Dutch	Hollendingur	Noun
+Dutchman	Hollendingur	Noun
+Dutchman	Niðurlendingur	Noun
+Earthling	jarðarbúi	Noun
+Easter	m-p	Noun
+Ecuadorian	Ekvadorar	Noun
+Ecuadorian	Ekvadori	Noun
+Elector	kjörfursti	Noun
+Englander	Englendingur	Noun
+English	alt=Englendingar	Noun
+English	enska	Noun
+Epiphany	þrettándi	Noun
+Eritrean	Erítreumaður	Noun
+Eritrean	m-p	Noun
+Estonian	Eisti	Noun
+Estonian	Eistlendingur	Noun
+Estonian	eistneska	Noun
+Eurocrat	evrópukrati	Noun
+Excellency	Hr	Noun
+Fallopian tube	eggjagöng	Noun
+Fallopian tube	eggjaleiðari	Noun
+Fallopian tube	eggrás	Noun
+Fallopian tube	legpípa	Noun
+Faroese	færeyingur	Noun
+Faroese	færeyska	Noun
+Father's Day	feðradagurinn	Noun
+Freemason	frímúrari	Noun
+French	alt=Frakkar	Noun
+French kiss	franskur koss	Noun
+French kiss	sleikur	Noun
+French kiss	tungukoss	Noun
+Frisbee	svifdiskur	Noun
+G clef	g-lykill	Noun
+German	Germani	Noun
+German	Þjóðverji	Noun
+German	þýska	Noun
+Ghibelline	gíbellín	Noun
+Golden Retriever	gullinsækir	Noun
+Good King Henry	hinriksnjóli	Noun
+Greek	Grikki	Noun
+Gypsy	Sígauni	Noun
+HMM	hulið Markovslíkan	Noun
+Hawaiian	hawaiíska	Noun
+Hindi	hindí	Noun
+Holiness	Heilagleiki	Noun
+Indian	Indverji	Noun
+Indian	indíáni	Noun
+Indonesian	indónesíska	Noun
+Islamophobia	íslamsfælni	Noun
+Israeli	Ísraeli	Noun
+Israeli	Ísraelsmaður	Noun
+Italian	Ítali	Noun
+Italian	ítalska	Noun
+Jew	dated, deprecated	Noun
+Jew	gyðingur	Noun
+Jew	júði	Noun
+Jute	Jóti	Noun
+Kannada	kanaríska	Noun
+Korean	kóreska	Noun
+Kven	Kveni	Noun
+Kven	kvenska	Noun
+Kven	kvænska	Noun
+LED	ljósdíóða	Noun
+LED	ljóstvistur	Noun
+LED	ljóstvískaut	Noun
+Laplace operator	Laplace-virki	Noun
+Laplace transform	Laplace-færsla	Noun
+Laplace transform	Laplace-mynd	Noun
+Latvian	letti	Noun
+Latvian	lettneska	Noun
+Lombard	Langbarði	Noun
+Londoner	Lundúnabúa	Noun
+Londoner	Lundúnabúi	Noun
+Lutheran	lúterstrúarmaður	Noun
+Lutheran	lútherstrúarmaður	Noun
+Löwchen	litli ljónahundur	Noun
+Malagasy	malagasíska	Noun
+Malay	Malaji	Noun
+Malay	malajíska	Noun
+Maltese	maltneska	Noun
+Manx	Manverji	Noun
+Marathi	marathí	Noun
+Martian	marsbúi	Noun
+May Day	fyrsti maí	Noun
+Methodist	meþódisti	Noun
+Mirandese	mirandês	Noun
+Miss	fröken	Noun
+Miss	ungfrú	Noun
+Mohawk	hanakambur	Noun
+Montenegrin	Svartfellingur	Noun
+Moor	mári	Noun
+Mrs	fr.	Noun
+Muggle	Muggi	Noun
+Muslim	múslima	Noun
+Möbius strip	Möbíusarræma	Noun
+NOS	netstýrikerfi	Noun
+National Socialism	Þjóðernisjafnaðarstefna	Noun
+Navajo	navajóíska	Noun
+Negro	blámaður	Noun
+Negro	blökkumaður	Noun
+Negro	negri	Noun
+Negro	svertingi	Noun
+New Year	nýtt	Noun
+New Year	nýár	Noun
+New Year	ár	Noun
+Nordic countries	Norðurlönd	Noun
+Norse	fornnorræna	Noun
+Norse	m-p	Noun
+Norse	norræna	Noun
+Northern Hemisphere	Norðurhvel	Noun
+Nynorsk	nýnorska	Noun
+Ouija	andaglas	Noun
+Peking duck	pekingönd	Noun
+Polish	pólska	Noun
+Presbyterian	öldungakirkjumaður	Noun
+Quidditch	Quidditch	Noun
+RNA	RKS	Noun
+Romanian	rúmenska	Noun
+Salvadoran	Salvadori	Noun
+Sanskrit	sanskrít	Noun
+Scot	Skoti	Noun
+Secretary General	aðalritari	Noun
+Semite	semíti	Noun
+Serbian	serbneska	Noun
+Slovak	Slóvaki	Noun
+Slovak	slóvakíska	Noun
+Slovak	slóvaska	Noun
+Slovene	Slóveni	Noun
+Slovene	slóvenska	Noun
+Somali	Sómalska	Noun
+Soviet	sovétmaður	Noun
+Space Shuttle	geimflaug	Noun
+Spanish influenza	spænska veikin	Noun
+Swahili	svahílí	Noun
+Swede	Svíi	Noun
+Swiss	Svisslendingur	Noun
+Syrian	Sýrlendingur	Noun
+T-shirt	bolur	Noun
+T-shirt	stuttermabolur	Noun
+Taiwanese	tævanska	Noun
+Teletext	textavarp	Noun
+Texan	Texasbúi	Noun
+Thai	Tai-má	Noun
+Thai	Tælenska	Noun
+Thing	þing	Noun
+Thomas	Tómas	Noun
+Tour-de-France	norðurljós	Noun
+Trinitarian	þrenningarjátandi	Noun
+Trojan	Trójumaður	Noun
+Trojan	Tróverji	Noun
+Trojan horse	trójuhestur	Noun
+Turing test	próf Turings	Noun
+UFO	FFH	Noun
+URN	veffangsvísir	Noun
+US dollar	bandaríkjadalur	Noun
+Unitarianism	únítarastefna	Noun
+Unitarianism	únítaratrú	Noun
+Urdu	úrdú	Noun
+Uzbek	úsbekíska	Noun
+VAT	VASK	Noun
+VAT	VSK	Noun
+Vandal	Vandali	Noun
+Venn diagram	Venn-mynd	Noun
+Viking	víkingur	Noun
+X chromosome	X-litningur	Noun
+Y chromosome	Y-litningur	Noun
+Yule log	jóladrumbur	Noun
+aardvark	jarðsvín	Noun
+aardwolf	jarðúlfur	Noun
+abalone	sæeyra	Noun
+abbot	ábóti	Noun
+abbreviation	skammstöfun	Noun
+abbreviation	stytting	Noun
+abdomen	kvið	Noun
+abdomen	magi	Noun
+abelian group	Abel-grúpa	Noun
+abelian group	abelsk grúpa	Noun
+abelian group	víxlgrúpa	Noun
+abelian group	víxlin grúpa	Noun
+aberration	is	Noun
+abiogenesis	uppruni lífs	Noun
+ablaut	hljóðskipti	Noun
+aborigine	frumbyggi	Noun
+absinthe	malurtarbrennivín	Noun
+academy	akademía	Noun
+acceleration	hröðun	Noun
+accident	slys	Noun
+accident	óhapp	Noun
+acetone	asetón	Noun
+acetylation	asetýling	Noun
+acetylene	asetýlen	Noun
+acetylene	kolvetnisgas	Noun
+acetylene	logsuðugas	Noun
+acid	sýra	Noun
+acme	hápunktur	Noun
+actinium	aktín	Noun
+adder's tongue	naðurtunga	Noun
+addition	samlagning	Noun
+addition	viðbót	Noun
+adenine	adenín	Noun
+adjective	lýsingarorð	Noun
+admiral	aðmíráll	Noun
+adverb	atviksorð	Noun
+aeolian harp	vindharpa	Noun
+aerodynamics	loftaflfræði	Noun
+aerosol	agnúði	Noun
+aerosol	úðaefni	Noun
+affidavit	eiðfest yfirlýsing	Noun
+affidavit	eiðsvarin yfirlýsing	Noun
+affidavit	skrifleg yfirlýsing	Noun
+affix	aðskeyti	Noun
+age	aldur	Noun
+age	sjálfræðisaldri	Noun
+age of consent	lögriðilsaldur	Noun
+age of consent	samræðisaldur	Noun
+age-mate	jafnaldri	Noun
+air	loft	Noun
+air conditioning	loftkæling	Noun
+air force	loftvopn	Noun
+airbag	loftpúði	Noun
+airline	flugfélag	Noun
+airmail	flugpóstur	Noun
+airport	flughöfn	Noun
+airport	flugstöð	Noun
+airport	flugvöllur	Noun
+aitch	há	Noun
+alarm clock	vekjaraklukka	Noun
+alb	alba	Noun
+album	albúm	Noun
+albumen	eggjahvíta	Noun
+albumen	hvíta í eggi	Noun
+alchemist	gullgerðarmaður	Noun
+alcohol	alkóhól	Noun
+alcohol	áfengi	Noun
+alder	elri	Noun
+alder	ölur	Noun
+ale	öl	Noun
+alga	þörungur	Noun
+algebra	merkjamálsfræði	Noun
+alibi	fjarvistarsönnun	Noun
+alienation	firring	Noun
+alkaloid	beiskjuefni	Noun
+allele	genasamsæta	Noun
+allele	samsæta	Noun
+allele	tvenndargen	Noun
+allergen	ofnæmisvaki	Noun
+allergen	ofnæmisvaldur	Noun
+alliance	bandalag	Noun
+alliteration	stafrím	Noun
+alliteration	stuðlun	Noun
+almond	mandla	Noun
+almond	sætmandla	Noun
+alpha	alfa	Noun
+alphabet	rittáknakerfi	Noun
+alphabet	stafróf	Noun
+alphabetisation	stafrófsröðun	Noun
+altar	altari	Noun
+alter ego	annað sjálf	Noun
+aluminium	ál	Noun
+ambassador	ambassadör	Noun
+ambassador	dated	Noun
+ambassador	sendiherra	Noun
+amber	raf	Noun
+amends	f-p	Noun
+americium	ameríkín	Noun
+amethyst	ametýst	Noun
+amoeba	amaba	Noun
+amoeba	amba	Noun
+amoeba	slímdýr	Noun
+ampere	amper	Noun
+ampersand	hlíðskipulykkja	Noun
+ampersand	og-lykkja	Noun
+ampersand	tengilykkja	Noun
+ampersand	táknið	Noun
+amphetamine	amfetamín	Noun
+ampoule	ampúla	Noun
+ampoule	lyfjabiða	Noun
+ampoule	lykja	Noun
+ampoule	púla	Noun
+amputation	aflimun	Noun
+amygdala	möndlungur	Noun
+anagram	orðarugl	Noun
+anagram	raðhverfa	Noun
+anagram	stafabrengl	Noun
+anagram	stafarugl	Noun
+anal sex	endaþarmsmök	Noun
+analysis	greining	Noun
+analysis	stærðfræðigreining	Noun
+analysis	stærðfræðileg greining	Noun
+analyst	sérfræðingur	Noun
+androgen	andrógen	Noun
+androgen	karlhormón	Noun
+anemia	blóðleysi	Noun
+anemia	blóðskortur	Noun
+anemone	anemóna	Noun
+anemone	skógarsóley	Noun
+anesthesia	deyfing	Noun
+angelica	hvönn	Noun
+anger	reiði	Noun
+animal	dýr	Noun
+animal	óargadýr	Noun
+ankylosaurus	gaddeðla	Noun
+ant	maur	Noun
+antagonist	andstæðingur	Noun
+antagonist	mótstöðumaður	Noun
+anteater	mauraæta	Noun
+antecedent	forliður	Noun
+antecedent	undanfari	Noun
+antelope	antilópa	Noun
+anthill	mauraþúfa	Noun
+anthrax	miltisbrandur	Noun
+antibiotic	sýklalyf	Noun
+antichrist	Antíkristur	Noun
+antidepressant	þunglyndislyf	Noun
+antimatter	andefni	Noun
+antineutron	andnifteind	Noun
+antiproton	andróteind	Noun
+antonym	andheiti	Noun
+antonym	andrætt orð	Noun
+anus	bakrauf	Noun
+anus	endaþarmsop	Noun
+apartment	íbúð	Noun
+apocope	brottfall	Noun
+appendix	botnlangatota	Noun
+appendix	botnlangi	Noun
+appendix	bókarauki	Noun
+appendix	viðauki	Noun
+apple	epli	Noun
+apple pie	eplabaka	Noun
+apple sauce	eplamauk	Noun
+apple sauce	eplamús	Noun
+apple tree	eplatré	Noun
+aquarium	fiskabúr	Noun
+arboretum	trjásafn	Noun
+archaeastronomy	fornleifastjörnufræði	Noun
+archaeastronomy	forsögustjörnufræði	Noun
+archaeology	fornleifafræði	Noun
+archangel	erkiengill	Noun
+archenemy	erkifjandi	Noun
+archenemy	erkióvinur	Noun
+archeopteryx	öglir	Noun
+architecture	byggingarlist	Noun
+architecture	húsagerðarlist	Noun
+area	flatarmál	Noun
+areola	vörtubaugur	Noun
+argon	argon	Noun
+argyle	alt=skoskt tíglamynstur	Noun
+ark	örk	Noun
+arm	armur	Noun
+arm	handleggur	Noun
+arm wrestling	sjómaður	Noun
+armchair	armstóll	Noun
+armchair	hægindastóll	Noun
+armchair	hægindi	Noun
+armistice	vopnahlé	Noun
+armor	brynja	Noun
+army	her	Noun
+arrangement	alt=ráðstafanir	Noun
+arrangement	röðun	Noun
+arrangement	samkomulag	Noun
+arrangement	skipan	Noun
+arrangement	uppröðun	Noun
+arrangement	uppsetning	Noun
+arrangement	uppstilling	Noun
+arrangement	útsetning	Noun
+arsenic	arsen	Noun
+art form	listgrein	Noun
+arthritis	gigt	Noun
+arthritis	liðbólga	Noun
+artificial intelligence	gervigreind	Noun
+artificial intelligence	gervigreindarfræði	Noun
+asbestos	asbest	Noun
+ashtray	öskubakki	Noun
+asparagus	aspas	Noun
+asparagus	spergill	Noun
+aspergillum	kvöstur	Noun
+aspergillum	stökkull	Noun
+asphalt	asfalt	Noun
+asphalt	malbik	Noun
+assembler	smali	Noun
+assembly language	smalamál	Noun
+asterisk	stjörnumerki	Noun
+astronaut	geimfari	Noun
+asymptote	aðfella	Noun
+asymptote	ósnertill	Noun
+at sign	at merkið	Noun
+at sign	hjá	Noun
+atheist	guðleysingi	Noun
+atheist	heiðingi	Noun
+atheist	trúleysingi	Noun
+athlete	íþrottmaður	Noun
+atmosphere	andrúmsloft	Noun
+atmosphere	lofthjúpur	Noun
+atom	atóm	Noun
+atom	frumeind	Noun
+attaché	sendiráðsritari	Noun
+attic	hanabjálki	Noun
+attic	háaloft	Noun
+attic	informal	Noun
+attic	loft	Noun
+attic	ris	Noun
+attic	rishæð	Noun
+attic	þakhæð	Noun
+au pair	húshjálp	Noun
+audiobook	hljóðbók	Noun
+aura	geislahjúpur	Noun
+aura	ára	Noun
+aurora	segulljós	Noun
+auto racing	bílakappakstur	Noun
+autofellatio	sjálftott	Noun
+autofellatio	sjálftottun	Noun
+automatic	bíll	Noun
+automatic	sjálfskiptur	Noun
+automatic	sjálfskiptur bíll	Noun
+automaton	sjálfvirki	Noun
+automaton	vélmenni	Noun
+automobile	bifreið	Noun
+autumn	haust	Noun
+auxiliary verb	hjálparsögn	Noun
+avocado	avókadó	Noun
+avocado	lárpera	Noun
+awl	alur	Noun
+axilla	handarkriki	Noun
+axilla	holhönd	Noun
+axiom	frumsannindi	Noun
+axiom	frumsenda	Noun
+axiom	frumsetning	Noun
+axiom	grundvallarregla	Noun
+axiom	óræk vissa	Noun
+axolotl	tálknamandra	Noun
+azure	fagurblár	Noun
+azure	heiðblár	Noun
+azure	himinblár	Noun
+baby	kornabarn	Noun
+baby	ungabarn	Noun
+baby	ungbarn	Noun
+baby talk	barnahjal	Noun
+baby talk	barnamál	Noun
+baby talk	gælumál	Noun
+babysitter	barnapía	Noun
+babysitter	dagmamma	Noun
+bachelor	einhleyplingur	Noun
+bachelor	piparsveinn	Noun
+bachelor	ókvæntur maður	Noun
+bacillus	baktería	Noun
+bacillus	staflaga baktería	Noun
+back door	laumulegur	Noun
+back door	leynilegur	Noun
+back matter	baktexti	Noun
+back road	hliðarvegur	Noun
+back road	vegur fjarri alfaraleið	Noun
+back seat	aftursæti	Noun
+back seat	valdalítil staða	Noun
+back seat	áhrifalítil staða	Noun
+back-seat driver	aftursætisbílstjóri	Noun
+backbencher	f	Noun
+backbencher	m	Noun
+backbencher	venjuleg þingkona	Noun
+backbencher	venjulegur þingmaður	Noun
+backbencher	þingkona sem ekki er í flokksforystunni	Noun
+backbencher	þingmaður sem ekki er í flokksforystunni	Noun
+backhand	bakhandarhögg	Noun
+backhand	rithönd sem hallar til vinstri	Noun
+backscratcher	bakklóra	Noun
+backside	bak	Noun
+backside	bakhlið	Noun
+backside	f-p	Noun
+backside	rass	Noun
+backside	sitjandi	Noun
+backslapping	óhófleg kumpánaleg framkoma	Noun
+backslapping	óumbeðið axlaklapp	Noun
+backup	afrit	Noun
+backup	öryggisafrit	Noun
+bacon	beikon	Noun
+bacon	flesk	Noun
+bactericide	bakteríueyðir	Noun
+bactericide	gerlabani	Noun
+bacteriophage	bakteríuveira	Noun
+bacteriophage	faga	Noun
+bacteriophage	gerilveira	Noun
+bacteriophage	gerilæta	Noun
+badminton	badminton	Noun
+badminton	hnit	Noun
+bag	poki	Noun
+bagel	beygla	Noun
+baguette	snittubrauð	Noun
+baker	bakari	Noun
+ball bearing	kúlulega	Noun
+ball game	boltaíþrótt	Noun
+ball game	knattleikur	Noun
+ballpoint pen	kúlupenni	Noun
+balustrade	brjóstrið	Noun
+balustrade	grindverk	Noun
+balustrade	handrið	Noun
+balustrade	rimlagirðing	Noun
+balustrade	rimlahandrið	Noun
+balustrade	súlnabrjóstrið	Noun
+banana	banani	Noun
+banana	bjúgaldin	Noun
+banana	very uncommon	Noun
+bandage	f-p	Noun
+bandage	plástur	Noun
+bandit	ræningi	Noun
+banister	alt=pílári í handriði	Noun
+banister	brjóstriðssúla	Noun
+banister	handrið	Noun
+banister	rimill	Noun
+banister	speli	Noun
+banister	spæll	Noun
+banister	stigahandrið	Noun
+banknote	peningaseðill	Noun
+bar line	taktstrik	Noun
+barbarian	barbari	Noun
+barber	bartskeri	Noun
+barber	rakari	Noun
+barcode	strikamerki	Noun
+barge	prammi	Noun
+barium	barín	Noun
+barley	bygg	Noun
+barn owl	turnugla	Noun
+barometer	loftvog	Noun
+baron	barón	Noun
+barrel	baula	Noun
+barrel	byssuhlaup	Noun
+barrel	hlaup	Noun
+barrel	tunna	Noun
+baryon	þungeind	Noun
+basalt	basalt	Noun
+base pair	basapar	Noun
+baseball	hafnabolti	Noun
+baseball	hornabolti	Noun
+basin	vatnasvið	Noun
+basket	karfa	Noun
+basketball	körfubolti	Noun
+basketball	körfuknattleikur	Noun
+bathe	bað	Noun
+bathroom	baðherbergi	Noun
+bathtub	baðkar	Noun
+bathtub	baðker	Noun
+baton	tónsproti	Noun
+battlefield	vígvöllur	Noun
+beam	bjálki	Noun
+beam	geisli	Noun
+bean	baun	Noun
+bear	björn	Noun
+bear cub	húnn	Noun
+beard	skegg	Noun
+bed	rúm	Noun
+bedbug	veggjalús	Noun
+bedroom	svefnherbergi	Noun
+beech	beyki	Noun
+beehive	býflugnabú	Noun
+beehive	býkúpa	Noun
+beer bottle	bjórflaska	Noun
+beetroot	rauðbeða	Noun
+beetroot	rauðrófa	Noun
+beggar	beiningamaður	Noun
+beggar	betlari	Noun
+behavior	hegðun	Noun
+beige	drappaður	Noun
+beige	grábrúnn	Noun
+beige	ljósbrúnn	Noun
+belligerent	deiluaðili	Noun
+belligerent	styrjaldaraðili	Noun
+belly dance	magadans	Noun
+belly dancer	female	Noun
+belly dancer	gender-nonspecific	Noun
+belly dancer	magadansari	Noun
+belly dancer	magadansmær	Noun
+belt	belti	Noun
+benevolence	örlæti	Noun
+benzene	bensen	Noun
+benzene	bensól	Noun
+beret	alpahúfa	Noun
+berkelium	berkelín	Noun
+beryllium	beryllín	Noun
+best man	svaramaður	Noun
+beverage	drykkur	Noun
+bias	is	Noun
+bidet	skolskál	Noun
+billion	milljarður	Noun
+birthday boy	afmælisbarn	Noun
+birthday boy	gender-neutral	Noun
+birthday girl	afmælisbarn	Noun
+birthday girl	gender-neutral	Noun
+bison	vísundur	Noun
+bitmap	bitakort	Noun
+bitmap	punktafylki	Noun
+bitmap	punktamynd	Noun
+black	svartur	Noun
+black arched moth	svarmfiðrildi	Noun
+black arched moth	svarmi	Noun
+black eye	lit=embers eye	Noun
+black hole	svarthol	Noun
+blackberry	bjarnarber	Noun
+blackberry	brómber	Noun
+blade	blað	Noun
+blade	egg	Noun
+blade	sverð	Noun
+blender	blandari	Noun
+blimp	loftskip	Noun
+blind man's buff	skollaleikur	Noun
+blitzkrieg	leifturstríð	Noun
+blizzard	hríðarbylur	Noun
+blockade	herkví	Noun
+blockchain	bálkakeðja	Noun
+blogger	bloggari	Noun
+blood	blóð	Noun
+blood vessel	æð	Noun
+bloodbath	blóðbað	Noun
+blowfish	ígulfiskur	Noun
+blowjob	munnmök	Noun
+blowjob	tott	Noun
+blue tit	blámeisa	Noun
+boar	göltur	Noun
+board game	borðspil	Noun
+boat	bátur	Noun
+body	bolur	Noun
+body	búkur	Noun
+body	kjarni	Noun
+body	lík	Noun
+body	líkami	Noun
+body	meginhluti	Noun
+body	meginmál	Noun
+bodybuilder	vaxtarræktarkappi	Noun
+bodybuilder	vaxtarræktarmaður	Noun
+bomb	holkúla	Noun
+bomb	sprengja	Noun
+bone	bein	Noun
+bone	beinhvítur	Noun
+bone marrow	beinmergur	Noun
+bonnet	húdd	Noun
+bonnet	vélarhlíf	Noun
+bonus	bónus	Noun
+booby trap	sprengjugildra	Noun
+book	bók	Noun
+bookmark	bókamerki	Noun
+bookshop	bókabúð	Noun
+bookshop	bókaverslun	Noun
+border	landamæri	Noun
+border	mæri	Noun
+boron	bór	Noun
+borough	borg	Noun
+bottom	botn	Noun
+bough	grein	Noun
+bough	trjágrein	Noun
+bouillon	kjötkraftur	Noun
+bouquet	blómvöndur	Noun
+bouquet	vínilmur	Noun
+bowtie	slaufa	Noun
+bowtie	þverslaufa	Noun
+box office	miðasala	Noun
+boxer	boxari	Noun
+boxer	boxer	Noun
+boxer	böggur	Noun
+boxer	hnefaleikari	Noun
+boy	drengur	Noun
+boy	negri	Noun
+boy	often considered offensive	Noun
+boy	piltur	Noun
+boy	somewhat dated	Noun
+boy	strákur	Noun
+boy	sveinn	Noun
+boy band	strákasveitir	Noun
+boyfriend	kærasti	Noun
+boyfriend	vinur	Noun
+bracelet	armband	Noun
+braille	blindraletur	Noun
+brain	heili	Noun
+brain-washing	heilaþvottur	Noun
+branch	grein	Noun
+brand	brennimark	Noun
+bread knife	brauðhnífur	Noun
+bread maker	brauðvél	Noun
+breadcrumb	brauðmylsna	Noun
+breakfast	morgunmatur	Noun
+breakfast	morgunverður	Noun
+breakfast	árbítur	Noun
+breakpoint	rofstaður	Noun
+breast milk	brjóstamjólk	Noun
+breastbone	bringubein	Noun
+breastbone	brjóstbein	Noun
+breeze block	flugfreyja	Noun
+breve	skál	Noun
+brewer	bruggari	Noun
+brick	byggingarkubbar	Noun
+brick	fyrirtaks manneskja	Noun
+brick	leirsteinn	Noun
+brick	m-p	Noun
+brick	múrsteinn	Noun
+brick	perla af manni	Noun
+brick	rare	Noun
+brick	tígulsteinn	Noun
+brick	ágætis manneskja	Noun
+brine	pækill	Noun
+broccoli	brokkolí	Noun
+broccoli	spergilkál	Noun
+bromine	bróm	Noun
+bronze	brons	Noun
+broth	seyði	Noun
+brother	brói	Noun
+brother	bróðir	Noun
+brother	colloquial	Noun
+brother-in-law	mágur	Noun
+brother-in-law	svili	Noun
+brown	brúnn	Noun
+brownie	súkkulaðikökum	Noun
+brunch	bröns	Noun
+brunch	dagverður	Noun
+brunch	dögurður	Noun
+brunch	hábítur	Noun
+bucket	fata	Noun
+buffalo	buffall	Noun
+bug	böggur	Noun
+bug	lús	Noun
+bullfinch	dómpápi	Noun
+bumblebee	hunangsfluga	Noun
+bureaucrat	kerfiskarl	Noun
+burka	búrka	Noun
+bus	informal; city transport	Noun
+bus	informal; long distance	Noun
+bus	langferðabíll	Noun
+bus	long distance	Noun
+bus	rúta	Noun
+bus	strætisvagn	Noun
+bus	strætó	Noun
+butter knife	smjörhnífur	Noun
+buyback	endurkaup	Noun
+buzzard	músvákur	Noun
+buzzword	tískuorð	Noun
+by-product	aukaafurð	Noun
+byproduct	aukaafurð	Noun
+byte	bæti	Noun
+byte	computer character	Noun
+byte	tölvustafur	Noun
+bytecode	bætakóti	Noun
+bytecode	bætakóði	Noun
+cable car	kláfferja	Noun
+cable car	kláfur	Noun
+cable car	loftferja	Noun
+cacao	kakó	Noun
+cactus	kaktus	Noun
+cadet	kadett	Noun
+cadmium	kadmín	Noun
+caecum	botnristill	Noun
+caesium	sesín	Noun
+cafetière	pressukanna	Noun
+cafetière	stimpilkanna	Noun
+café	kaffihús	Noun
+cage	búr	Noun
+cake slice	kökuhnífur	Noun
+calcium	kalsín	Noun
+californium	kalifornín	Noun
+call	heimsókn	Noun
+call	hróp	Noun
+call	kall	Noun
+call	símtal	Noun
+calque	tökuþýðing	Noun
+camera	myndavél	Noun
+camera	upptökuvél	Noun
+camping	útilega	Noun
+canal	skurður	Noun
+canal	síki	Noun
+cancer	colloquial	Noun
+cancer	krabbamein	Noun
+cancer	krabbi	Noun
+candidate	frambjóðandi	Noun
+candy floss	sugar foam	Noun
+candy floss	sykurfrauð	Noun
+candy floss	ullarbrjóstsykur	Noun
+candy floss	wool candy	Noun
+cannon	fallbyssa	Noun
+canyon	gljúfur	Noun
+capital	fjármagn	Noun
+capital	súluhöfuð	Noun
+capon	geldhani	Noun
+caprice	duttlungur	Noun
+caprice	dyntur	Noun
+capslock	hástafalás	Noun
+capsule	hylki	Noun
+captain	flugstjóri	Noun
+captain	fyrirliði	Noun
+captain	höfuðsmaður	Noun
+captain	kafteinn	Noun
+captain	skipstjóri	Noun
+capybara	flóðsvín	Noun
+carbon	kolefni	Noun
+carbon	kolefnis pappír	Noun
+carbonate	karbónat	Noun
+cardia	munnahluti maga	Noun
+cardinal	frumtala	Noun
+cardinal	hárauður	Noun
+cardinal	kardináli	Noun
+cargo	farmur	Noun
+caricature	skopmynd	Noun
+caricature	skopstæling	Noun
+carnival	karnival	Noun
+carnival	kjötkveðjuhátíð	Noun
+carnivore	kjötæta	Noun
+carpenter	húsasmiður	Noun
+carpenter	smiður	Noun
+carpenter	snikkari	Noun
+carpenter	timburmaður	Noun
+carsickness	bílveiki	Noun
+cartel	einokunarhringur	Noun
+carton	ferna	Noun
+casino	spilavíti	Noun
+cast iron	steypujárn	Noun
+castle	borg	Noun
+castle	höll	Noun
+castle	kastali	Noun
+castle	virki	Noun
+cat	kisa	Noun
+cat	köttur	Noun
+category	flokkur	Noun
+category	ríki	Noun
+cattle	nautgripur	Noun
+cause	málstaður	Noun
+cause	orsök	Noun
+cave painting	hellamálverk	Noun
+cee	sé	Noun
+celeriac	seljurót	Noun
+cell wall	frumuveggur	Noun
+cellulose	beðmi	Noun
+cellulose	sellulósi	Noun
+cement	sement	Noun
+cent	sent	Noun
+center	miðja	Noun
+center	miðpunktur	Noun
+center	miðstöð	Noun
+center of gravity	þyngdarpunktur	Noun
+centimetre	sentimetri	Noun
+centipede	margfætlur	Noun
+central bank	seðlabanki	Noun
+centre-back	miðvörður	Noun
+centrifugal force	miðflóttakraftur	Noun
+cerium	serín	Noun
+chafe	núningssár	Noun
+chain	keðja	Noun
+chainsaw	keðjusög	Noun
+chair	stóll	Noun
+chalk	krít	Noun
+chalk	krítarsteinn	Noun
+chamber	klefi	Noun
+chameleon	kameljón	Noun
+chameleon	kamelljón	Noun
+champagne	kampavín	Noun
+chancellor	Kanslari	Noun
+chancellor	kanslari	Noun
+chandler	kaupmaður	Noun
+chandler	kaupsali	Noun
+chandler	kertagerðarmaður	Noun
+chandler	kertasali	Noun
+chandler	kramari	Noun
+chandler	maker of candles	Noun
+chandler	mangari	Noun
+chandler	vendor of candles	Noun
+chaos	ringulreið	Noun
+chaos theory	óreiðukenning	Noun
+chapel	kapella	Noun
+character	persóna	Noun
+charity	góðgerðarstarfsemi	Noun
+charity	góðgerðarstofnun	Noun
+charley horse	harðsperrur	Noun
+charley horse	þreytukrampi	Noun
+chauffeur	bílstjóri	Noun
+chauffeur	einkabílstjóri	Noun
+checkbox	gátreitur	Noun
+checkbox	merkireitur	Noun
+cheek	is	Noun
+cheek	kinn	Noun
+cheerleader	klappstýra	Noun
+chef	kokkur	Noun
+chef	matreiðslumaður	Noun
+chef	matsveinn	Noun
+chef	yfirmatsveinn	Noun
+cheque	tékki	Noun
+cheque	ávísun	Noun
+cherry	kirsuber	Noun
+cherry	kirsuberjatré	Noun
+cherry	kirsuberjaviður	Noun
+chess piece	karl	Noun
+chess piece	maður	Noun
+chess piece	skákmaður	Noun
+chess piece	taflmaður	Noun
+chest hair	bringuhár	Noun
+chewing gum	jórtúrleður	Noun
+chewing gum	tyggigúmmí	Noun
+chewing gum	tyggjó	Noun
+chickpea	kjúklingabaun	Noun
+chimney	reykháfur	Noun
+chimney	skorsteinn	Noun
+chimney	strompur	Noun
+chimney sweep	sótari	Noun
+chit-chat	mas	Noun
+chit-chat	rabb	Noun
+chloroform	klóróform	Noun
+chlorophyll	blaðgræna	Noun
+chlorophyll	klórófýl	Noun
+chlorophyll	laufgræna	Noun
+chloroplast	grænukorn	Noun
+chocolate	súkkulaði	Noun
+choice	val	Noun
+choir	kór	Noun
+cholera	kólera	Noun
+cholesterol	kólesteról	Noun
+chromium	króm	Noun
+chromosphere	lithvolf	Noun
+church	guðsþjónusta	Noun
+church	kirkja	Noun
+church	kirkjan	Noun
+church	messa	Noun
+cicely	spánarkerfill	Noun
+cigar	vindill	Noun
+cinema	bíó	Noun
+cinema	kvikmyndahús	Noun
+cinema	kvikmyndalist	Noun
+cinnamon	kanell	Noun
+cinnamon	kanilbrúnn	Noun
+cinnamon	kanill	Noun
+cinnamon	kaniltré	Noun
+circle	hringur	Noun
+citizen	borgari	Noun
+citizen	ríkisborgari	Noun
+citizen	íbúi	Noun
+city	borg	Noun
+civil war	borgarastyrjöld	Noun
+claque	klapplið	Noun
+clay	leir	Noun
+clementine	klementína	Noun
+clerk	skrifstofumaður	Noun
+cliché	gömul tugga	Noun
+cliché	klisja	Noun
+cliché	rare	Noun
+cliché	tugga	Noun
+client	biðlari	Noun
+client	kaupandi	Noun
+client	kúnni	Noun
+client	skjólstæðingur	Noun
+client	viðskiptavinur	Noun
+clitic	sníkill	Noun
+clitoris	snípur	Noun
+close-up	nærmynd	Noun
+closet	skápur	Noun
+closure	lokun	Noun
+clothes peg	þvottaklemma	Noun
+clothesline	snúra	Noun
+clothesline	þvottasnúra	Noun
+cloud	ský	Noun
+clover	smári	Noun
+clown	galgopi	Noun
+clown	glanni	Noun
+clown	grallari	Noun
+clown	trúður	Noun
+club	klúbbur	Noun
+club	lauf	Noun
+club moss	jafni	Noun
+clubs	lauf	Noun
+coach	rúta	Noun
+coal	kol	Noun
+coalition	bandalag	Noun
+coat hanger	herðatré	Noun
+cobalt	kóbalt	Noun
+cobbler	dated	Noun
+cobbler	skómakari	Noun
+cobbler	skósmiður	Noun
+cocaine	kókaín	Noun
+cockpit	stjórnklefi	Noun
+cocktail	hanastél	Noun
+cocktail	kokkteill	Noun
+cod liver oil	þorskalýsi	Noun
+coefficient	stuðull	Noun
+coenzyme	ensímbót	Noun
+coenzyme	hjálparhvati	Noun
+coenzyme	kóensím	Noun
+coeval	jafnaldri	Noun
+coeval	samaldri	Noun
+coeval	samtíðarmaður	Noun
+coffee	kaffi	Noun
+coffee	kaffibrúnn	Noun
+coffee cup	kaffibolli	Noun
+coffee pot	kaffikanna	Noun
+coffeemaker	kaffivél	Noun
+coffin	kista	Noun
+coffin	líkkista	Noun
+cognac	koníak	Noun
+coin	mynt	Noun
+cold war	kalda stríðið	Noun
+colic	kveisa	Noun
+colic	magakveisa	Noun
+collar	kragi	Noun
+cologne	is	Noun
+color	litur	Noun
+color blindness	litblinda	Noun
+comedian	grínisti	Noun
+comet	halastjarna	Noun
+commandment	boðorð	Noun
+commerce	verslun	Noun
+common gull	stormmáfur	Noun
+common sense	almenn skynsemi	Noun
+communism	kommúnismi	Noun
+communist	kommúnisti	Noun
+compiler	vistþýðandi	Noun
+compiler	þýðandi	Noun
+compiler	þýðingarforrit	Noun
+component	hluti	Noun
+computer	obsolete	Noun
+computer	rafeindareiknir	Noun
+computer	rafheili	Noun
+computer	rafreiknir	Noun
+computer	tölva	Noun
+computer science	tölvunarfræði	Noun
+concatenation	samskeyting	Noun
+concrete	steinsteypa	Noun
+concrete	steypa	Noun
+condom	smokkur	Noun
+condor	kondór	Noun
+cone	keila	Noun
+cone	köngull	Noun
+confederation	sviss	Noun
+confirmation	ferming	Noun
+confusion	brengl	Noun
+confusion	ruglingur	Noun
+congregation	mannsöfnuður	Noun
+congregation	söfnuður	Noun
+congress	þing	Noun
+congressman	þingmaður	Noun
+conifer	barrtré	Noun
+conjecture	tilgáta	Noun
+consequence	afleiðing	Noun
+conservative	íhaldssinni	Noun
+constellation	stjörnumerki	Noun
+constipation	harðlífi	Noun
+constipation	hægðatregða	Noun
+constitution	stjórnarskrá	Noun
+consul	konsúll	Noun
+consul	ræðismaður	Noun
+contact lens	augnlinsa	Noun
+contact tracing	is	Noun
+conversation	samtal	Noun
+convoy	bílalest	Noun
+cookbook	matreiðslubók	Noun
+cooperation	samstarf	Noun
+cooperation	samvinna	Noun
+coppersmith	koparsmiður	Noun
+copula	tengisögn	Noun
+copyright	höfundarréttur	Noun
+coral	kórall	Noun
+corncob	kólfur	Noun
+corncob	maískólfur	Noun
+corncrake	engirella	Noun
+cornerstone	hornsteinn	Noun
+cornucopia	nægtahorn	Noun
+coronavirus	kórónaveira	Noun
+corp.	hf.	Noun
+corvette	korvetta	Noun
+cost of living	framfærslukostnaður	Noun
+cottage cheese	kotasæla	Noun
+cotyledon	kímblað	Noun
+couch potato	sófakartafla	Noun
+coulomb	kúlomb	Noun
+council	ráð	Noun
+counterculture	mótmenning	Noun
+countess	greifafrú	Noun
+countess	greifynja	Noun
+countess	jarlsfrú	Noun
+coup d'état	hallarbylting	Noun
+coup d'état	ríkisbylting	Noun
+coup d'état	valdarán	Noun
+couple	par	Noun
+courage	hugrekki	Noun
+courage	kjarkur	Noun
+court	dómstóll	Noun
+court	is	Noun
+cousin	female	Noun
+cousin	frændi	Noun
+cousin	frænka	Noun
+cousin	male	Noun
+cow	belja	Noun
+cow	in plural only	Noun
+cow	informal	Noun
+cow	kýr	Noun
+cow	nautgripur	Noun
+cow	of bovines, manatees, whales; also of reindeer and elk/moose	Noun
+cowboy	kúreki	Noun
+coworker	is	Noun
+crab spider	krabbakónguló	Noun
+crab spider	krabbakönguló	Noun
+craft	iðn	Noun
+craft	iðngrein	Noun
+crampon	m-p	Noun
+cranberry	trönuber	Noun
+craven	bleyða	Noun
+craven	heigull	Noun
+craven	raggeit	Noun
+cream	krem	Noun
+cream	rjómi	Noun
+cream cake	rjómakaka	Noun
+creativity	is	Noun
+creed	trúarjátning	Noun
+cremaster	kólfvöðvi	Noun
+criminal law	hegningarlög	Noun
+criminal law	refsilög	Noun
+criminal law	refsiréttur	Noun
+crispbread	hleifabrauð	Noun
+crispbread	hrökkbrauð	Noun
+critical mass	markmassi	Noun
+crosier	bagall	Noun
+crosier	biskupsstafur	Noun
+crosier	krókstafur	Noun
+cross	kross	Noun
+crucifixion	krossfesting	Noun
+crude oil	hráolía	Noun
+cruise ship	skemmtiferðaskip	Noun
+cryptomeria	hindartré	Noun
+cryptomeria	keisaraviður	Noun
+cul-de-sac	blindpoki	Noun
+culottes	buxnapils	Noun
+culture	menning	Noun
+cumulonimbus	m-p	Noun
+cumulonimbus	skúraský	Noun
+cumulonimbus	þrumuský	Noun
+cup	bolli	Noun
+curd	ystingur	Noun
+curium	kúrín	Noun
+curl	lokkur	Noun
+curriculum vitae	ferilskrá	Noun
+cursor	bendill	Noun
+cursor	bendir	Noun
+cursor	mouse cursor	Noun
+cursor	músarbendill	Noun
+cusk	keila	Noun
+custom house	tollgæsla	Noun
+cut	afskurður	Noun
+cut	skurður	Noun
+cut	snið	Noun
+cut your teeth	stökkull	Noun
+cutler	hnífasmiður	Noun
+cutter	kútter	Noun
+cyclist	hjólreiðamaður	Noun
+cyclops	kýklópi	Noun
+cyclops	kýklópur	Noun
+daddy	pabbi	Noun
+daffodil	páskalilja	Noun
+daisy	fagurfífill	Noun
+damp	raki	Noun
+dance	dans	Noun
+dancer	dansari	Noun
+dark horse	leyna á sér	Noun
+dark horse	to be a dark horse	Noun
+darling	elskan	Noun
+darts	pílukast	Noun
+dashboard	lesborð	Noun
+dashboard	mælaborð	Noun
+data type	gagnagerð	Noun
+data type	gagnatag	Noun
+database	gagnagrunnur	Noun
+date of birth	fæðingardagur	Noun
+date palm	döðlupálmi	Noun
+dative case	þágufall	Noun
+dawn	afturelding	Noun
+dawn	dagrenning	Noun
+dawn	dögun	Noun
+dawn	morgunsár	Noun
+dawn	sólaruppkoma	Noun
+dawn	sólarupprás	Noun
+dawn	sólris	Noun
+day	dagur	Noun
+deacon	djákni	Noun
+dead end	blindgata	Noun
+dead end	botngata	Noun
+dead end	botnlangi	Noun
+death	andlát	Noun
+death	dauði	Noun
+death	fráfall	Noun
+death camp	f-p	Noun
+decade	áratugur	Noun
+decagon	tíhyrningur	Noun
+decathlon	tugþraut	Noun
+deception	blekking	Noun
+decibel	desibel	Noun
+decilitre	desilítri	Noun
+decision	ákvörðun	Noun
+decision	úrskurður	Noun
+deck chair	kjaftastóll	Noun
+deck chair	þilfarsstóll	Noun
+dee	dé	Noun
+deed	dáð	Noun
+deer	hjörtur	Noun
+deer	krónhjörtur	Noun
+deer	rádýr	Noun
+defense	vörn	Noun
+definite article	ákv. gr.	Noun
+definite article	ákveðinn greinir	Noun
+definition	orðskýring	Noun
+deflation	verðhjöðnun	Noun
+defragmentation	samstykkjun	Noun
+degree	gráða	Noun
+degree	stig	Noun
+deification	dýrkun	Noun
+deletion	eyðing	Noun
+delta	delta	Noun
+democracy	lýðræði	Noun
+democrat	demókrati	Noun
+demonstrative pronoun	sérstætt ábendingarfornafn	Noun
+demonstrative pronoun	ábendingarfornafn	Noun
+denim	dením	Noun
+deodorant	svitalyktareyðir	Noun
+depleted uranium	rýrt úran	Noun
+depleted uranium	sneytt úran	Noun
+deposition	hélun	Noun
+depression	Kreppa	Noun
+depression	þunglyndi	Noun
+design	hönnun	Noun
+designation	heiti	Noun
+desire	löngun	Noun
+desktop computer	borðtölva	Noun
+desktop picture	skjáborðsmynd	Noun
+dessert	eftirréttur	Noun
+destination	áfangastaður	Noun
+detail	smáatriði	Noun
+detention	eftirseta	Noun
+determinant	ákveða	Noun
+detritivore	grotætur	Noun
+devil	andskoti	Noun
+devil	andskotinn	Noun
+devil	djöfull	Noun
+devil	djöfullinn	Noun
+devil	fjandi	Noun
+devil	fjandinn	Noun
+devil	fjári	Noun
+devil	fjárinn	Noun
+devil	kölski	Noun
+devil	satan	Noun
+devil	skratti	Noun
+devil	skrattinn	Noun
+devil	ári	Noun
+dew point	daggarmark	Noun
+diabetes	sykursýki	Noun
+diadem	ennishlað	Noun
+diadem	höfuðdjásn	Noun
+diaeresis	tvídepill	Noun
+dialogue	samtal	Noun
+dictionary	orðabók	Noun
+die	teningur	Noun
+difference	mismunur	Noun
+difference	munur	Noun
+digestion	melting	Noun
+digit	tala	Noun
+digit	tölustafur	Noun
+dilemma	f-p	Noun
+dilemma	valkreppa	Noun
+dilemma	valtvenna	Noun
+dilemma	valþröng	Noun
+diminutive	diminutive suffix	Noun
+diminutive	smækkunarending	Noun
+dining room	borðstofa	Noun
+diocese	biskupsdæmi	Noun
+diode	díóða	Noun
+diode	tvistur	Noun
+diode	tvískauta rör	Noun
+diode	tvískauti	Noun
+diphthong	tvíhljóð	Noun
+diphthong	tvíhljóði	Noun
+diplomat	diplómat	Noun
+diplomat	diplómati	Noun
+direct object	beint andlag	Noun
+discipline	agi	Noun
+disco	diskó	Noun
+disco	diskótek	Noun
+discotheque	diskótek	Noun
+discount	afsláttur	Noun
+discrimination	mismunun	Noun
+disease	mein	Noun
+disease	sjúkdómur	Noun
+disease	sýki	Noun
+disgrace	óvirðing	Noun
+dish	diskur	Noun
+dish	matarréttur	Noun
+dish	réttur	Noun
+dishwasher	uppvaskari	Noun
+dishwasher	uppþvottavél	Noun
+disposition	lund	Noun
+distance	fjarlægð	Noun
+diver	kafari	Noun
+dividend	arður	Noun
+dividend	deilistofn	Noun
+division	deild	Noun
+division	deiling	Noun
+division	fylking	Noun
+division	herdeild	Noun
+division	niðurskipting	Noun
+division	skipting	Noun
+divisor	deilir	Noun
+divorce	hjónaskilnaður	Noun
+divorce	skilnaður	Noun
+divorcee	fráskilinn karlmaður	Noun
+divorcée	fráskilin kona	Noun
+doctor	doktor	Noun
+doctor	læknir	Noun
+dodecagon	tólfhyrningur	Noun
+dodgeball	brennibolti	Noun
+dog	hundur	Noun
+dog shit	hundaskítur	Noun
+doll	brúða	Noun
+doll	dúkka	Noun
+dollar	dollari	Noun
+domain	formengi	Noun
+domain	frámengi	Noun
+domain	skilgreiningarmengi	Noun
+domain	óðal	Noun
+dome	hvolfþak	Noun
+door	dyr	Noun
+door	hurð	Noun
+door frame	dyrakarmur	Noun
+door handle	húnn	Noun
+dormer-window	kvistgluggi	Noun
+double-dealer	tvöfaldur í roðinu	Noun
+double-u	tvöfalt vaff	Noun
+doughnut	kleinuhringur	Noun
+download	niðurhal	Noun
+downtown	miðborg	Noun
+downtown	miðbær	Noun
+drag queen	dragdrottning	Noun
+drag queen	kjólasveinn	Noun
+drain	ræsi	Noun
+drawbridge	vindubrú	Noun
+dress	fatnaður	Noun
+dress	föt	Noun
+dress	kjóll	Noun
+dress	klæðnaður	Noun
+drinking horn	drykkjarhorn	Noun
+driver	bílstjóri	Noun
+driver	rekill	Noun
+driver	ökumaður	Noun
+drought	þurrkar	Noun
+drug dealer	díler	Noun
+drug dealer	eiturlyfjasali	Noun
+drumstick	trommukjuði	Noun
+drunk	is	Noun
+drydock	þurrkví	Noun
+duchess	hertogaynja	Noun
+dude	gaur	Noun
+due process	sanngjörn málsmeðferð	Noun
+due process	tilhlýðileg málsmeðferð	Noun
+duke	hertogi	Noun
+dune	sandhóll	Noun
+duo	dúó	Noun
+duo	par	Noun
+durian	dáraaldin	Noun
+dust	ryk	Noun
+dust jacket	kápa	Noun
+duty	kvöð	Noun
+duty	skylda	Noun
+dynamite	dýnamít	Noun
+dysprosium	dysprósín	Noun
+e-book	rafbók	Noun
+eagle	örn	Noun
+eagle owl	úfur	Noun
+ear	eyra	Noun
+ear lobe	eyrnasnepill	Noun
+eardrum	hljóðhimna	Noun
+earl	jarl	Noun
+earth	jörð	Noun
+earwax	eyrnamergur	Noun
+east	austur	Noun
+echidna	mjónefur	Noun
+echo	bergmál	Noun
+echo	endurómur	Noun
+eclipse	myrkvi	Noun
+ecliptic	sólbaugur	Noun
+economics	hagfræði	Noun
+economy	atvinnulif	Noun
+economy	efnahagslíf	Noun
+economy	hagsýni	Noun
+economy	hagur	Noun
+economy	nýtni	Noun
+economy	ráðdeild	Noun
+economy	sparnaður	Noun
+eczema	exem	Noun
+edge	egg	Noun
+edge	hlið	Noun
+edge	kantur	Noun
+edge	leggur	Noun
+edifice	bygging	Noun
+edifice	hús	Noun
+edifice	is	Noun
+editor	ritill	Noun
+editor	ritstjóri	Noun
+editor	textaritill	Noun
+editor in chief	aðalritstjóri	Noun
+editorial	forystugrein	Noun
+education	menntun	Noun
+eel	áll	Noun
+egalitarian	jafnréttissinni	Noun
+egalitarianism	jafnréttisstefna	Noun
+egg	egg	Noun
+egg	eggfruma	Noun
+eggplant	eggaldin	Noun
+eider	æðarfugl	Noun
+eider	æður	Noun
+einsteinium	einsteinín	Noun
+ejaculation	sáðlát	Noun
+election	f-p	Noun
+electoral college	kjörmannaráð	Noun
+electric chair	rafmagnsstóll	Noun
+electrification	rafvæðing	Noun
+electrode	rafnemi	Noun
+electrode	rafpóll	Noun
+electrode	rafskaut	Noun
+electrode	skaut	Noun
+electrolyte	blóðsölt	Noun
+electrolyte	rafklofi	Noun
+electrolyte	raflausn	Noun
+electrolyte	rafvaki	Noun
+electron	rafeind	Noun
+element	stak	Noun
+element	íbúi	Noun
+elephant	fíll	Noun
+elephantiasis	fílildi	Noun
+elf	álfur	Noun
+elision	brottfall	Noun
+elitism	úrvalsstefna	Noun
+ellipse	sporbaugur	Noun
+elm	álmur	Noun
+em dash	þankastrik	Noun
+embargo	hafnbann	Noun
+embargo	viðskiptabann	Noun
+emblem	tákn	Noun
+embryo	fósturvísir	Noun
+emerald	smaragður	Noun
+emoji	tjákn	Noun
+emoji	tjámerki	Noun
+emotion	geðshræring	Noun
+emperor	keisari	Noun
+empire	keisaradæmi	Noun
+empire	ríki	Noun
+employee	starfsmaður	Noun
+emulator	hermir	Noun
+emulsion	þeyta	Noun
+en dash	stutt þankastrik	Noun
+en dash	tilstrik	Noun
+enclave	hólmlenda	Noun
+end	endir	Noun
+enigma	ráðgáta	Noun
+enzyme	ensím	Noun
+epicene	alt=kynlaust orð	Noun
+epicentre	skjálftamiðja	Noun
+epicycle	aukahringur	Noun
+epicycle	hjáhringur	Noun
+epilation	háreyðing	Noun
+epilogue	eftirmáli	Noun
+epilogue	lokaorð	Noun
+epilogue	niðurlagsorð	Noun
+epitaph	an obituary	Noun
+epitaph	eftirmæli	Noun
+epitaph	grafskrift	Noun
+epitaph	minningargrein	Noun
+epitome	ímynd	Noun
+equal	jafningi	Noun
+equal	jafnoki	Noun
+equal	maki	Noun
+equal sign	jafnaðarmerki	Noun
+equal sign	jöfnunarmerki	Noun
+equal sign	samasemmerki	Noun
+equal sign	samsemdarmerki	Noun
+equation	jafna	Noun
+equator	miðbaugur	Noun
+erbium	erbín	Noun
+erection	standpína	Noun
+eruption	gos	Noun
+escapee	flóttamaður	Noun
+espresso	espressó	Noun
+estuary	ármynni	Noun
+estuary	árós	Noun
+eth	eð	Noun
+etude	etýða	Noun
+etude	æfing	Noun
+etymology	f-p	Noun
+etymology	orðsifjafræði	Noun
+eucalyptus	ilmviður	Noun
+eucalyptus	tröllatré	Noun
+eunuch	geldingur	Noun
+europium	evropín	Noun
+evangelist	guðspjallamaður	Noun
+eversion	umsnúningur	Noun
+eversion	úthverfing	Noun
+evildoer	illvirki	Noun
+evolution	þróunarkenningin	Noun
+ewe	ær	Noun
+exception	undantekning	Noun
+exclamation mark	upphrópunarmerki	Noun
+excommunication	bannfæring	Noun
+existentialist	tilvistarsinni	Noun
+exosphere	úthvolf	Noun
+experience	reynsla	Noun
+experiment	tilraun	Noun
+explorer	landkönnuður	Noun
+explosion	sprenging	Noun
+exponent	veldisvísir	Noun
+eye	auga	Noun
+eye patch	leppur	Noun
+eyeball	auga	Noun
+eyeball	augnknöttur	Noun
+eyebrow	augabrún	Noun
+face	andlit	Noun
+fact	raun	Noun
+fact	raunveruleiki	Noun
+fact	staðreynd	Noun
+factor	þáttur	Noun
+fairy tale	ævintýri	Noun
+faith	trú	Noun
+falcon	fálki	Noun
+fallen	valur	Noun
+fallow deer	dádýr	Noun
+false friend	m-p	Noun
+false friend	svikatengsl	Noun
+fame	frægð	Noun
+family	afkvæmi	Noun
+family	fjölskylda	Noun
+family	skyldmenni	Noun
+family	ætt	Noun
+family	ættingi	Noun
+family	ættingjar	Noun
+famine	hungursneyð	Noun
+fanbelt	viftureim	Noun
+farmer	bóndi	Noun
+farrier	járningamaður	Noun
+fascism	fasismi	Noun
+fascist	fasisti	Noun
+fate	örlög	Noun
+father	colloquial	Noun
+father	faðir	Noun
+father	pabbi	Noun
+father-in-law	tengdapabbi	Noun
+faun	fán	Noun
+fauna	dýraríki	Noun
+fauna	fána	Noun
+feather	fjöður	Noun
+federation	samband	Noun
+fee	gjald	Noun
+feeler	fálmari	Noun
+feeler	þreifari	Noun
+fellatio	munnmök	Noun
+fellatio	oral sex generally; commonly used	Noun
+fellatio	reðursog	Noun
+fellatio	stimulation of penis; rare	Noun
+fennel	fennikka	Noun
+fermium	fermín	Noun
+fern	burkni	Noun
+festival	hátíð	Noun
+fetus	fóstur	Noun
+fever	hitasótt	Noun
+fever	hiti	Noun
+fiancé	unnusti	Noun
+fiancée	unnusta	Noun
+ficus	fíkjutré	Noun
+field	akur	Noun
+field	völlur	Noun
+filing cabinet	skjalaskápur	Noun
+filler	hikorð	Noun
+film	skán	Noun
+filter	sía	Noun
+final	úrslit	Noun
+finance	efnahagur	Noun
+finance	fjárhagur	Noun
+finance	fjármál	Noun
+finch	finka	Noun
+finger	fingur	Noun
+finger	putti	Noun
+fingerprint	fingrafar	Noun
+fire	bál	Noun
+fire	eldur	Noun
+fire	ofn	Noun
+fire engine	brunabíll	Noun
+fire engine	slökkvibíll	Noun
+fire engine	slökkviliðsbíll	Noun
+firewall	eldveggur	Noun
+first aid	skyndihjálp	Noun
+first floor	fyrsta	Noun
+first floor	fyrsta hæð	Noun
+first floor	hæð	Noun
+first floor	jarðhæð	Noun
+first floor	önnur	Noun
+first floor	önnur hæð	Noun
+first person	fyrsta persóna	Noun
+fish	fiskur	Noun
+fishmonger's	fiskbúð	Noun
+fistula	fistill	Noun
+fjord	fjörður	Noun
+flagpole	flaggstöng	Noun
+flagpole	stöng	Noun
+flame	logi	Noun
+flamethrower	eldvarpa	Noun
+flamingo	flamingói	Noun
+flamingo	flæmingi	Noun
+flank	huppur	Noun
+flashback	endurupplifun	Noun
+flea market	flóamarkaður	Noun
+fleece	flíspeysa	Noun
+flint	tinna	Noun
+flip-flop	vippa	Noun
+flip-flop	vippurás	Noun
+floe	ísjaki	Noun
+flood	flóð	Noun
+floor	gólf	Noun
+floppy disk	disketta	Noun
+floppy disk	disklingur	Noun
+flora	flóra	Noun
+flora	gróðurríki	Noun
+flowerbed	blómabeð	Noun
+flu	flensa	Noun
+flu	inflúensa	Noun
+flugelhorn	flygilhorn	Noun
+fluid	kvikefni	Noun
+fluid	straumefni	Noun
+flurry	is	Noun
+folder	mappa	Noun
+folk rock	þjóðlagarokk	Noun
+folklore	is	Noun
+food web	fæðuvefur	Noun
+foot	fótur	Noun
+football	fótbolti	Noun
+football	knattspyrna	Noun
+footrest	skammel	Noun
+ford	vað	Noun
+forest	skógur	Noun
+form	eyðublað	Noun
+form	lag	Noun
+form	lögun	Noun
+format	form	Noun
+format	forsnið	Noun
+format	lögun	Noun
+format	snið	Noun
+formula	formúla	Noun
+fort	virki	Noun
+fort	vígi	Noun
+fortune	auðna	Noun
+fortune	auður	Noun
+fortune	gæfa	Noun
+fortune	lán	Noun
+fortune	örlög	Noun
+fossil	steingervingur	Noun
+fountain	gosbrunnur	Noun
+fountain pen	blekpenni	Noun
+four of a kind	ferna	Noun
+fox	refur	Noun
+fox	tófa	Noun
+foxglove	fingurbjargarblóm	Noun
+foyer	anddyri	Noun
+foyer	forbyrgi	Noun
+foyer	fordyri	Noun
+foyer	forsalur	Noun
+foyer	forstofa	Noun
+franc	franki	Noun
+francium	fransín	Noun
+free kick	aukaspyrna	Noun
+free speech	málfrelsi	Noun
+freedman	frelsingi	Noun
+freedman	leysingi	Noun
+freedom	frelsi	Noun
+fried egg	spælegg	Noun
+fried egg	steikt egg	Noun
+friend	adj	Noun
+friend	félagi	Noun
+friend	góða	Noun
+friend	góði	Noun
+friend	kunningi	Noun
+friend	vina	Noun
+friend	vinkona	Noun
+friend	vinstúlka	Noun
+friend	vinur	Noun
+friend zone	vinasvæði	Noun
+front	framhlið	Noun
+frost	frost	Noun
+frost	hrím	Noun
+froth	froða	Noun
+fructose	frúktósi	Noun
+fruit	aldin	Noun
+fruit	faggi	Noun
+fruit	ávöxtur	Noun
+frying pan	steikarpanna	Noun
+fuck you	farðu til fjandans	Noun
+fuck you	farðu til helvítis	Noun
+fuck you	farðu í rassgat	Noun
+fuck you	ríddu þér	Noun
+fuel	eldsneyti	Noun
+fugue	fúga	Noun
+full stop	punktur	Noun
+fulmar	fýll	Noun
+fulmar	múkki	Noun
+gabbro	gabbró	Noun
+gadolinium	gadólín	Noun
+gaffsail	is	Noun
+galaxy	stjörnuþoka	Noun
+galaxy	vetrarbraut	Noun
+galena	blýglans	Noun
+gall bladder	gallblaðra	Noun
+galley	galeiða	Noun
+gallium	gallín	Noun
+gallstone	gallsteinar	Noun
+gamete	kynfruma	Noun
+gamma ray	gammageisli	Noun
+gamut	röð	Noun
+gamut	skali	Noun
+gamut	svið	Noun
+gamut	tónaróf	Noun
+gamut	tónaskali	Noun
+gangrene	brandur	Noun
+gangrene	drep í holdi	Noun
+gangrene	kolbrandur	Noun
+gangrene	átudrep	Noun
+gangrene	ýldudrep	Noun
+garage	bílskúr	Noun
+garden	garður	Noun
+garland	is	Noun
+garlic press	hvítlaukspressa	Noun
+gauge	kvarði	Noun
+gay bar	hommabúlla	Noun
+gcd	ssd	Noun
+gear	gír	Noun
+gear wheel	tannhjól	Noun
+geisha	geisja	Noun
+gem	gimsteinn	Noun
+generation	kynslóð	Noun
+generator	is	Noun
+generator	spönnuður	Noun
+genetics	erfðafræði	Noun
+genitive	eignarfall	Noun
+genius	snillingur	Noun
+genocide	þjóðarmorð	Noun
+genome	erfðamengi	Noun
+gentleman	aðalsmaður	Noun
+gentleman	heiðursmaður	Noun
+gentleman	herra	Noun
+gentleman	herramaður	Noun
+gentleman	herramenn	Noun
+gentleman	karlaklósett	Noun
+gentleman	ljúfmenni	Noun
+gentleman	prúðmenni	Noun
+gentleman	valmenni	Noun
+genus	ættkvísl	Noun
+geology	jarðfræði	Noun
+germ	sýkill	Noun
+germanium	german	Noun
+gherkin	smágúrka	Noun
+ghost town	draugabær	Noun
+gift	gjöf	Noun
+gigabyte	gígabæti	Noun
+ginger beer	engiferöl	Noun
+gingersnap	piparkaka	Noun
+gingivitis	tannholdsbólga	Noun
+ginseng	ginseng	Noun
+giraffe	gíraffi	Noun
+girl	informal	Noun
+girl	informal, dated	Noun
+girl	stelpa	Noun
+girl	stúlka	Noun
+girl	telpa	Noun
+girl	þerna	Noun
+girl	þjónustustúlka	Noun
+girlfriend	kærasta	Noun
+girlfriend	vinkona	Noun
+gist	aðalatriði	Noun
+gist	kjarni	Noun
+give a hand	fjárhundur	Noun
+glade	rjóður	Noun
+glass	glas	Noun
+glass	gler	Noun
+glimmer	skíma	Noun
+globe	hnöttur	Noun
+glockenspiel	klukkuspil	Noun
+glogg	glögg	Noun
+glossary	orðasafn	Noun
+glucose	glúkósi	Noun
+gnu	gnýr	Noun
+goal line	markalína	Noun
+goalkeeper	markvörður	Noun
+goalpost	markstöng	Noun
+goalpost	marksúla	Noun
+goat	geit	Noun
+goatee	hökutoppur	Noun
+goblin	svartálfur	Noun
+goddess	dís	Noun
+goddess	gyðja	Noun
+gold	gull	Noun
+gold standard	gullfótur	Noun
+golden age	gullöld	Noun
+golden eagle	gullörn	Noun
+goldsmith	gullsmiður	Noun
+golf	golf	Noun
+golf ball	gólfkúla	Noun
+golfer	golfari	Noun
+golfer	golfleikari	Noun
+goodbye	kveðja	Noun
+goose bump	gæsahúð	Noun
+gorilla	górilla	Noun
+gospel	guðspjall	Noun
+governor	dated	Noun
+governor	fylkisstjóri	Noun
+governor	guvernör	Noun
+governor	landstjóri	Noun
+governor	ríkisstjóri	Noun
+graffiti	veggjakrot	Noun
+granite	granít	Noun
+grape	uncommon	Noun
+grape	vínber	Noun
+grape	þrúga	Noun
+grapefruit	greip	Noun
+grapefruit	greipaldin	Noun
+grapefruit	greipaldintré	Noun
+grapefruit	tröllaldin	Noun
+grapevine	vínviður	Noun
+graphene	grafín	Noun
+graphite	grafít	Noun
+graphite	ritblý	Noun
+grass	gras	Noun
+grater	rifjárn	Noun
+gravel	möl	Noun
+great tit	meisa	Noun
+great-grandchild	barnabarnabarn	Noun
+great-grandfather	langafi	Noun
+great-grandmother	langamma	Noun
+great-grandparent	great-grandfather	Noun
+great-grandparent	great-grandmother	Noun
+great-grandparent	langafi	Noun
+great-grandparent	langamma	Noun
+great-great-grandfather	langlangafi	Noun
+green	grænn	Noun
+greenhouse	gróðurhús	Noun
+greenhouse	gróðurskáli	Noun
+greenhouse	vetrargarður	Noun
+grenade	handsprengja	Noun
+griffon vulture	gæsagammur	Noun
+gross	gross	Noun
+ground floor	jarðhæð	Noun
+group	grúpa	Noun
+group	hópur	Noun
+grove	lundur	Noun
+grub	lirfa	Noun
+grub	matur	Noun
+grub	maðkur	Noun
+grub	æti	Noun
+guano	drit	Noun
+guard	vörður	Noun
+guard dog	varðhundur	Noun
+guardian	fjárhaldsmaður	Noun
+guardian	verndari	Noun
+guest	gestur	Noun
+guillotine	fallöxi	Noun
+guinea fowl	perluhænsn	Noun
+guinea pig	naggrís	Noun
+gutta-percha	gúttaperka	Noun
+gymnasium	framhaldsskóli	Noun
+gymnasium	leikfimisalur	Noun
+gymnasium	menntaskóli	Noun
+gymnasium	íþróttahús	Noun
+gypsy	sígauni	Noun
+hacker	hakkari	Noun
+hacker	hjakkari	Noun
+hacker	tölvuhakkari	Noun
+hacker	tölvurefur	Noun
+hacker	tölvuþrjótur	Noun
+haematology	blóðfræði	Noun
+haemorrhoids	gylliniæð	Noun
+hafnium	hafnín	Noun
+haiku	hæka	Noun
+hail storm	haglél	Noun
+hair	hár	Noun
+hair-splitting	hártogun	Noun
+hairbrush	hárbursti	Noun
+haircut	frádrag	Noun
+haircut	klipping	Noun
+hairdryer	hárþurrka	Noun
+half	helmingur	Noun
+half brother	hálfbróðir	Noun
+half sister	hálfsystir	Noun
+half-time	hálfleikur	Noun
+half-year	misseri	Noun
+hall	salur	Noun
+halo	geislabaugur	Noun
+hamburger	hamborgari	Noun
+hammer	hamar	Noun
+hamster	hamstur	Noun
+hand	hönd	Noun
+hand	mund	Noun
+hand	vísir	Noun
+handball	handbolti	Noun
+handball	handknattleikur	Noun
+handbrake	handbremsa	Noun
+hangar	flugskýli	Noun
+hangover	m-p	Noun
+hangover	þynnka	Noun
+harbormaster	hafnarfógeti	Noun
+harbormaster	hafnarkapteinn	Noun
+harbormaster	hafnarmeistari	Noun
+harbormaster	hafnarstjóri	Noun
+hard drive	harðdiskur	Noun
+hard drive	harður diskur	Noun
+harelip	héravör	Noun
+harem	kvennabúr	Noun
+harmonium	harmóníum	Noun
+harmony	hljómfræði	Noun
+harmony	jafnvægi	Noun
+harmony	samhljómur	Noun
+harmony	samlyndi	Noun
+harmony	samræmi	Noun
+harp	harpa	Noun
+hazelnut	heslihneta	Noun
+headbutt	skalli	Noun
+header	skalli	Noun
+headscarf	is	Noun
+heart	hjarta	Noun
+heartburn	brjóstsviði	Noun
+heath	heiði	Noun
+heath	lyng	Noun
+heathen	heiðingi	Noun
+heatwave	hitabylgja	Noun
+hectare	hektari	Noun
+hectometre	hektómetri	Noun
+hectopascal	hektópaskal	Noun
+hedgehog	broddgöltur	Noun
+height	hæð	Noun
+helicopter	kofti	Noun
+helicopter	obsolete	Noun
+helicopter	þyrilvængja	Noun
+helicopter	þyrla	Noun
+heliport	þyrluvöllur	Noun
+helium	helín	Noun
+helium	helíum	Noun
+helix	gormferill	Noun
+helix	skrúflína	Noun
+hematocyte	blóðfruma	Noun
+hemisphere	hálfkúla	Noun
+heptagon	sjöhyrningur	Noun
+herb	kryddjurt	Noun
+hero	hetja	Noun
+heroin	heróín	Noun
+heron	hegri	Noun
+herring	síld	Noun
+hexafluoride	hexaflúoríð	Noun
+hexagon	sexhyrningur	Noun
+hickey	sogblettur	Noun
+high card	háspil	Noun
+high card	hátt einspil	Noun
+high jump	hástökk	Noun
+high street	aðalstræti	Noun
+high tide	flóð	Noun
+high-level language	hámál	Noun
+high-level language	æðra forritunarmál	Noun
+hijab	hídjab	Noun
+hill	brekka	Noun
+hill	hlíð	Noun
+hill	hæð	Noun
+hill	hóll	Noun
+hilt	hjalt	Noun
+hin	hín	Noun
+hinge	hjara	Noun
+hip bone	mjaðmarbein	Noun
+hippie	hippi	Noun
+hippopotamus	flóðhestur	Noun
+historian	sagnfræðingur	Noun
+hit point	líf	Noun
+hit point	mass noun	Noun
+hitman	leigumorðingi	Noun
+hoarfrost	hrím	Noun
+holiday	helgidagur	Noun
+holmium	hólmín	Noun
+holmium	hólmíum	Noun
+home	at home	Noun
+home	away from home	Noun
+home	að heiman	Noun
+home	heim	Noun
+home	heima	Noun
+home	heiman	Noun
+home	heimili	Noun
+home	home	Noun
+home page	is	Noun
+homeschooling	heimakennsla	Noun
+homesickness	heimþrá	Noun
+homicide	manndráp	Noun
+homosexual	hommi	Noun
+homosexual	samkynhneigður	Noun
+honey	hunang	Noun
+honey badger	hunangsgreifingi	Noun
+honey bee	býfluga	Noun
+hook	haki	Noun
+hook	krókur	Noun
+hormone	hormón	Noun
+horn	horn	Noun
+horror	ógn	Noun
+horseradish	piparrót	Noun
+horseshoe	skeifa	Noun
+hospital	sjúkrahús	Noun
+hospital	spítali	Noun
+hot chocolate	heitt kakó	Noun
+hot dog	pylsur	Noun
+hot tub	heitapottur	Noun
+hot tub	heitur pottur	Noun
+hot tub	pottur	Noun
+hotel	gistiheimili	Noun
+hotel	gistihús	Noun
+hotel	hótel	Noun
+hotelier	hótelhaldari	Noun
+hotelier	hótelstjóri	Noun
+house martin	bæjasvala	Noun
+househusband	húsfaðir	Noun
+househusband	húsmaður	Noun
+hovel	hreysi	Noun
+hovel	kofi	Noun
+hubcap	hjólkoppur	Noun
+hubris	hroki	Noun
+hubris	ofdramb	Noun
+hug	faðmlag	Noun
+hug	knús	Noun
+hula hoop	húlagjörð	Noun
+hula hoop	húlahopp	Noun
+hula hoop	húlahopphringur	Noun
+hundred	hérað	Noun
+hunt	veiði	Noun
+hunt	veiðiferð	Noun
+hunter	veiðimaður	Noun
+husband	archaic	Noun
+husband	bóndi	Noun
+husband	eiginmaður	Noun
+husband	maður	Noun
+hydrate	hýdrat	Noun
+hydride	hýdríð	Noun
+hydroxide	hýdroxíð	Noun
+hyena	híena	Noun
+hyena	hýena	Noun
+hygiene	hreinlæti	Noun
+hygrometer	rakamælir	Noun
+hymen	meydómsmerki	Noun
+hymen	meyjarhaft	Noun
+hyperinflation	óðaverðbólga	Noun
+hyponym	undirheiti	Noun
+hypophosphite	salt af fosfórundirsýrlingi	Noun
+hypotenuse	langhlið	Noun
+hypothalamus	heiladyngjubotn	Noun
+hypothalamus	undirstúka	Noun
+hyrax	archaic	Noun
+hyrax	hnubbi	Noun
+hyrax	klettagrefingi	Noun
+hyrax	stökkhéri	Noun
+hysteresis	heldni	Noun
+hysteresis	segulheldni	Noun
+hysteria	sefasýki	Noun
+háček	kría	Noun
+ice	meth	Noun
+ice	rjómaís	Noun
+ice	ís	Noun
+ice age	ísöld	Noun
+ice cap	hveljökull	Noun
+ice cream	rjómaís	Noun
+ice cream	ís	Noun
+ice cream	ís í brauðformi	Noun
+ice cream	ís í brauði	Noun
+ice cube	klaki	Noun
+ice cube	ísmoli	Noun
+ice skating	is	Noun
+idea	hugmynd	Noun
+idiom	orðatiltæki	Noun
+idiot	asni	Noun
+idiot	grasasni	Noun
+idiot	hálviti	Noun
+idiot	skynskiptingur	Noun
+ignorance	fáfræði	Noun
+ignorance	fákunnátta	Noun
+ignorance	fáviska	Noun
+ignorance	vankunnátta	Noun
+ignorance	vanþekking	Noun
+ignorance	þekkingarleysi	Noun
+ilium	mjaðmarspaði	Noun
+image	mynd	Noun
+imagination	ímyndun	Noun
+imagination	ímyndunarafl	Noun
+immigrant	innflytjandi	Noun
+immigration	aðflutningur	Noun
+imperative	nauðsyn	Noun
+impregnation	frjóvgun	Noun
+inbox	innhólf	Noun
+inbox	viðtökuhólf	Noun
+incense	reykelsi	Noun
+indefinite article	óákv. gr.	Noun
+indefinite article	óákveðinn greinir	Noun
+indefinite pronoun	óákveðið fornafn	Noun
+independence	sjálfstæði	Noun
+independence	óhæði	Noun
+indicator	stefnuljós	Noun
+indigestion	meltingartruflanir	Noun
+indirect object	óbeint andlag	Noun
+indium	indín	Noun
+industry	iðnaður	Noun
+infantry	fótgöngulið	Noun
+inflation	verðbólga	Noun
+inflection	beyging	Noun
+inflection	raddblær	Noun
+influence	áhrif	Noun
+influenza	flensa	Noun
+influenza	inflúensa	Noun
+information	upplýsingar	Noun
+infrared	innrauða	Noun
+inhibitor	hemill	Noun
+ink	blek	Noun
+inkwell	blekbytta	Noun
+inn	gistiheimili	Noun
+inn	gistihús	Noun
+inn	krá	Noun
+inner city	miðborg	Noun
+inner city	miðbær	Noun
+inner city	of a city	Noun
+inner city	of a town	Noun
+insomnia	andvaka	Noun
+insomnia	svefnleysi	Noun
+inspiration	innblástur	Noun
+instep	rist	Noun
+institution	stofnun	Noun
+instrument	hljóðfæri	Noun
+insulin	eyjavaki	Noun
+insulin	insúlín	Noun
+integral	heildun	Noun
+integral	tegrun	Noun
+intensive care unit	gjörgæsludeild	Noun
+intention	ætlun	Noun
+intercourse	mök	Noun
+internal combustion engine	sprengihreyfill	Noun
+interpreter	túlkur	Noun
+intervention	inngrip	Noun
+interview	viðtal	Noun
+interviewee	viðmælandi	Noun
+introitus vaginæ	leggangamunni	Noun
+intron	innröð	Noun
+invasion	innrás	Noun
+invention	uppfinning	Noun
+iridium	iridín	Noun
+iron	járn	Noun
+irregular verb	óregluleg sögn	Noun
+island	ey	Noun
+island	eyja	Noun
+island	eyland	Noun
+island state	eyríki	Noun
+islander	eybyggi	Noun
+islander	eybúi	Noun
+islander	eyjarmaður	Noun
+islander	eyjarskeggi	Noun
+isobar	þrýstilína	Noun
+isoprene	ísópren	Noun
+isthmus	eiði	Noun
+isthmus	grandi	Noun
+italic	skáletur	Noun
+ivory	fílabein	Noun
+ivory	fílsbein	Noun
+jack of all trades	þúsundþjalasmiður	Noun
+jaeger	kjói	Noun
+jarl	jarl	Noun
+jazz	djass	Noun
+jeans	f-p	Noun
+jellyfish	marglytta	Noun
+jet lag	dægurvilla	Noun
+job	starf	Noun
+job	verk	Noun
+job	verkefni	Noun
+job	vinna	Noun
+jockstrap	pungband	Noun
+jockstrap	pungbindi	Noun
+joint	jóna	Noun
+joint	liðamót	Noun
+joint	marijúanavindlingur	Noun
+joke	brandari	Noun
+joke	grín	Noun
+joke	spaug	Noun
+jot	angarögn	Noun
+jot	depill	Noun
+jot	punktur	Noun
+jotun	jötunn	Noun
+joule	júl	Noun
+journalist	blaðamaður	Noun
+journey	ferð	Noun
+journey	leiðangur	Noun
+judo	júdó	Noun
+jumping jack	sprellikarl	Noun
+juniper	einer	Noun
+junk food	hnasl	Noun
+juror	kviðdómandi	Noun
+juror	kviðdómari	Noun
+justice	réttlæti	Noun
+justice	sanngirni	Noun
+kale	grænkál	Noun
+karaoke	karaoke	Noun
+karate	karate	Noun
+karst	karst	Noun
+kay	ká	Noun
+keratin	hornefni	Noun
+keratin	hyrni	Noun
+keratin	keratín	Noun
+kernel	kjarni	Noun
+kernel	stýrikjarni	Noun
+kerosene	kerósín	Noun
+ketchup	tómatsósa	Noun
+kettledrum	páka	Noun
+kettledrum	pákur	Noun
+keyboard	dated	Noun
+keyboard	hljómborð	Noun
+keyboard	hnappaborð	Noun
+keyboard	leturborð	Noun
+keyboard	lyklaborð	Noun
+keyring	lyklahringur	Noun
+keyring	lyklakippa	Noun
+keystone	höfuðsteinn	Noun
+keystone	lokasteinn	Noun
+khat	khat	Noun
+kidney	nýra	Noun
+killer	morðingi	Noun
+kilogram	kílógramm	Noun
+kilojoule	kílójúl	Noun
+kilometre	kílómetri	Noun
+kilowatt	kílóvatt 	Noun
+kinase	kínasi	Noun
+kindergarten	leikskóli	Noun
+king	konungur	Noun
+king	kóngur	Noun
+kingfisher	bláþyrill	Noun
+kinin	kínín	Noun
+kiosk	sjoppa	Noun
+kiosk	skáli	Noun
+kiosk	söluskáli	Noun
+kiosk	söluturn	Noun
+kismet	sköp	Noun
+kismet	örlög	Noun
+kitchen	eldhús	Noun
+kitten	kettlingur	Noun
+kleptomania	stelsýki	Noun
+klutz	klossi	Noun
+knarr	knörr	Noun
+knee	hné	Noun
+knee	kné	Noun
+knee-jerk	hnékippur	Noun
+knee-jerk	hnéviðbragð	Noun
+kneecap	hnéskel	Noun
+knowledge	kunnátta	Noun
+knowledge	vitneskja	Noun
+knowledge	þekking	Noun
+koala	pokabjörn	Noun
+kohlrabi	hnúðkál	Noun
+krill	ljósáta	Noun
+krona	króna	Noun
+krone	króna	Noun
+krypton	krypton	Noun
+króna	króna	Noun
+labia	m-p	Noun
+laboratory	rannsóknarstofa	Noun
+laboratory	rannsóknarstofu	Noun
+laboratory	tilraunastofa	Noun
+labour	vinna	Noun
+lack	skortur	Noun
+lactose	laktósi	Noun
+lactose	mjólkursykur	Noun
+ladybird	maríubjalla	Noun
+ladybird	maríuhæna	Noun
+lag	hökt	Noun
+lag	lagg	Noun
+lag	seinkun	Noun
+lag	slang	Noun
+lag	töf	Noun
+laissez faire	afskiptaleysi stjórnvalda	Noun
+lamb	lamb	Noun
+lamb	lambakjöt	Noun
+lamp	lampi	Noun
+lampshade	lampaskermur	Noun
+lampshade	skermur	Noun
+land mine	jarðsprengja	Noun
+language	mál	Noun
+language	tunga	Noun
+language	tungumál	Noun
+lap dance	kjöltudans	Noun
+lap dog	kjöltuhundur	Noun
+lapsus linguae	mismæli	Noun
+lapsus linguae	munnvarp	Noun
+laptop	fartölva	Noun
+laptop	ferðatölva	Noun
+larva	lirfa	Noun
+lasso	slöngvivaður	Noun
+lasso	snara	Noun
+latch-key child	lyklabarn	Noun
+laughter	hlátur	Noun
+lava	hraun	Noun
+lawnmower	sláttuvél	Noun
+lawrencium	lárensín	Noun
+lawyer	lögfræðingur	Noun
+lazybones	letingi	Noun
+leader	leiðsögumaður	Noun
+leaf	lauf	Noun
+leaf	laufblað	Noun
+leak	leki	Noun
+leap year	hlaupár	Noun
+leapfrog	höfrungahlaup	Noun
+leather	leður	Noun
+lebensraum	lífsrými	Noun
+lecher	saurlífisseggur	Noun
+ledger	kladdi	Noun
+leek	blaðlaukur	Noun
+leek	púrra	Noun
+leg	buxnaskálm	Noun
+leg	fótleggur	Noun
+leg	fótur	Noun
+leg	leggur	Noun
+leg	skálm	Noun
+leg	áfangi	Noun
+legend	sögn	Noun
+legume	belgaldin	Noun
+leisure	frístund	Noun
+leisure	tómstund	Noun
+lemming	læmingi	Noun
+lemon	sítróna	Noun
+lemur	lemúr	Noun
+lens	linsa	Noun
+lentil	lentil	Noun
+lentil	linsubaun	Noun
+leopard	hlébarði	Noun
+lesbian	lesbía	Noun
+leukemia	blóðlýsa	Noun
+leukemia	hvítblæði	Noun
+leukemia	less common	Noun
+level	borð	Noun
+level	hallamál	Noun
+level	hæð	Noun
+level	stig	Noun
+lexeme	flettiorð	Noun
+lexeme	les	Noun
+lexicon	lesforði	Noun
+lexicon	lessafn	Noun
+lexicon	orðabók	Noun
+lexicon	orðasafn	Noun
+liberty	frelsi	Noun
+lid	lok	Noun
+life	fjör	Noun
+life	líf	Noun
+life	m-p	Noun
+life	ævi	Noun
+life jacket	björgunarvesti	Noun
+light	ljós	Noun
+light bulb	ljósapera	Noun
+light switch	ljósrofi	Noun
+light year	ljósár	Noun
+lighthouse keeper	vitavørður	Noun
+lightspeed	ljóshraði	Noun
+lignite	brúnkol	Noun
+lignite	surtarbrandur	Noun
+like a sore thumb	sog	Noun
+lily	lilja	Noun
+lily of the valley	dalalilja	Noun
+limerick	limra	Noun
+limousine	eðalvagn	Noun
+limousine	glæsivagn	Noun
+limousine	limmósína	Noun
+linden	lind	Noun
+linden	linditré	Noun
+line feed	línuskiptastafur	Noun
+linear transformation	línuleg vörpun	Noun
+linguist	málvísindamaður	Noun
+linguistics	málvísindi	Noun
+lintel	dyratré	Noun
+lintel	ofdyri	Noun
+lintel	over a door	Noun
+lion	ljón	Noun
+lip	vör	Noun
+lipid	lípíð	Noun
+liqueur	líkjör	Noun
+liquid	mjúkhljóð	Noun
+liquid	vökvi	Noun
+lisp	smámæli	Noun
+lithium	litín	Noun
+lithium	litíum	Noun
+lithium	liþín	Noun
+litter	drasl	Noun
+litter	got	Noun
+litter	m-p	Noun
+litter	rusl	Noun
+little finger	litlifingur	Noun
+little owl	kattugla	Noun
+living room	stofa	Noun
+lizard	eðla	Noun
+llama	lamadýr	Noun
+loanword	tökuorð	Noun
+lobe	blað	Noun
+local	heimamaður	Noun
+lockdown	lokkdán	Noun
+lockdown	slang	Noun
+lockdown	útgöngubann	Noun
+login	innskráning	Noun
+loner	einfari	Noun
+lord	herra	Noun
+lord	húsbóndi	Noun
+lord	lávarður	Noun
+lotus	lótus	Noun
+lotus	lótusblóm	Noun
+love bite	sogblettur	Noun
+lower case	litlir	Noun
+lower case	m-p	Noun
+lower case	stafir	Noun
+luck	heppni	Noun
+luck	lukka	Noun
+lump	kökkur	Noun
+lump	sykurmoli	Noun
+lunch	hádegismatur	Noun
+lunch	hádegisverður	Noun
+lunchbox	nestisbox	Noun
+lung	lunga	Noun
+lung	lungu	Noun
+lutetium	lútesín	Noun
+lych-gate	líkhlið	Noun
+lymph	sogæðavökvi	Noun
+lymph	vessi	Noun
+lynx	gaupa	Noun
+lyre	lýra	Noun
+machine	vél	Noun
+machine gun	vélbyssa	Noun
+macromolecule	stórsameind	Noun
+macron	lengdarmerki	Noun
+madam	frú	Noun
+magazine	skothylkjahólf	Noun
+magazine	tímarit	Noun
+mage	galdramaður	Noun
+magic	galdur	Noun
+magic wand	töfrasproti	Noun
+magma	bergkvika	Noun
+magnesium	magnesín	Noun
+magnesium	magnesíum	Noun
+magnesium	magnín	Noun
+magnesium	magníum	Noun
+magnet	segull	Noun
+magnetic north	segulnorður	Noun
+magpie	skjór	Noun
+main clause	aðalsetning	Noun
+main verb	aðalsögn	Noun
+mainland	fastland	Noun
+mainland	meginland	Noun
+mainmast	stórsigla	Noun
+maize	maís	Noun
+make-up artist	sminka	Noun
+makeup	farði	Noun
+makeup	meik	Noun
+malaria	malaría	Noun
+man	karl	Noun
+man	karlmaður	Noun
+man	manneskja	Noun
+man	maður	Noun
+man-eater	mannæta	Noun
+manager	forstjóri	Noun
+manager	forstöðumaður	Noun
+mane	fax	Noun
+mane	makki	Noun
+manganese	mangan	Noun
+manger	jata	Noun
+mango	mangó	Noun
+mangrove	leiruviðarskógur	Noun
+manifesto	stefnuyfirlýsing	Noun
+mankind	mannkyn	Noun
+manna	manna	Noun
+mannequin	gína	Noun
+manor	herragarður	Noun
+mansion	is	Noun
+mantle	möntull	Noun
+map	færsla	Noun
+map	kort	Noun
+map	myndun	Noun
+map	ummyndun	Noun
+map	vörpun	Noun
+maple	hlynur	Noun
+marathon	maraþon	Noun
+marathon	maraþonhlaup	Noun
+marble	marmari	Noun
+margarine	smjörlíki	Noun
+margrave	markgreifi	Noun
+marigold	gullfífill	Noun
+marigold	morgunfrú	Noun
+marine mammal	sjávarspendýr	Noun
+market	markaður	Noun
+marsh	mýri	Noun
+marshmallow	sykurpúði	Noun
+marzipan	marsípan	Noun
+mascara	maskari	Noun
+masochist	masókisti	Noun
+mason	múrari	Noun
+massage	nudd	Noun
+masseur	nuddari	Noun
+masturbation	rúnk	Noun
+masturbation	sjálfsfróun	Noun
+matchmaker	hjónabandsmiðlari	Noun
+matchstick	eldspýta	Noun
+matrix	afsteypumót	Noun
+matrix	fylki	Noun
+matrix	grind	Noun
+matrix	innrúm	Noun
+matrix	mergur	Noun
+matrix	mót	Noun
+matrix	uppistöðuefni	Noun
+matter	efni	Noun
+mayonnaise	majónes	Noun
+mayor	borgarstjóri	Noun
+mayor	bæjarstjóri	Noun
+mayor	of a city	Noun
+mayor	of a town	Noun
+meadow	engi	Noun
+meadow	grasflöt	Noun
+meadow	grund	Noun
+meat	kjöt	Noun
+medal	minnispeningur	Noun
+median	miðgildi	Noun
+median	miðtala	Noun
+medium	miðilsgáfa	Noun
+megabyte	megabæti	Noun
+megalomania	mikilmennskubrjálæði	Noun
+megalopolis	risaborg	Noun
+megawatt	megavatt	Noun
+melody	lag	Noun
+membrane	himna	Noun
+meme	jarm	Noun
+memento	minjagripur	Noun
+memento	minningargripur	Noun
+menarche	fyrstu tíðir	Noun
+mendelevium	mendelevín	Noun
+meningitis	heilahimnubólga	Noun
+meningitis	mengisbólga	Noun
+menopause	tíðahvörf	Noun
+menstruation	f-p	Noun
+menu	matseðill	Noun
+merchant	kaupmaður	Noun
+mercury	kvikasilfur	Noun
+mercy	náð	Noun
+mesopause	miðhvörf	Noun
+mesosphere	miðhvolf	Noun
+message	boðskapur	Noun
+message	skilaboð	Noun
+messenger	boðberi	Noun
+messenger	sendiboði	Noun
+meta-analysis	safngreining	Noun
+metabolism	efnaskipti	Noun
+metabolite	myndefni	Noun
+metadata	lýsigögn	Noun
+metal	málmur	Noun
+metalloid	hálfmálmur	Noun
+metalloid	málmbróðir	Noun
+metalloid	málmleysingi	Noun
+meteor	stjörnuhrap	Noun
+meteorite	loftsteinn	Noun
+methane	metan	Noun
+methanol	metanól	Noun
+metropolis	stórborg	Noun
+microorganism	örvera	Noun
+microphone	colloquial	Noun
+microphone	hljóðnemi	Noun
+microphone	mæk	Noun
+microphone	míkrófónn	Noun
+microphone	slang	Noun
+midden	mykjuhaugur	Noun
+midden	sorphaugur	Noun
+midsummer	miðsumar	Noun
+midsummer	miðsumarsdagur	Noun
+mile	míla	Noun
+milk	mjólk	Noun
+milk tooth	barnatönn	Noun
+milk tooth	mjólkurtönn	Noun
+milkshake	mjólkurhristingur	Noun
+milkshake	sjeik	Noun
+millennium	árþúsund	Noun
+millennium	þúsöld	Noun
+millilitre	millilítri 	Noun
+millimetre	millimetri	Noun
+millisecond	millisekúnda	Noun
+millstone	kvarnarsteinn	Noun
+millstone	myllusteinn	Noun
+miner	námumaður	Noun
+mineral	steinefni	Noun
+minim	hálfnóta	Noun
+minimum	lágmark	Noun
+minister	prestur	Noun
+minister	ráðherra	Noun
+mink	minkur	Noun
+minus	mínus	Noun
+minus	neikvæð tala	Noun
+minus	tala sem er minni en núll	Noun
+minus	ókostur	Noun
+miracle	kraftaverk	Noun
+miser	nirfill	Noun
+miso	mísó	Noun
+mist	mistur	Noun
+mistletoe	mistilteinn	Noun
+mistress	frilla	Noun
+mistress	hjákona	Noun
+mitochondrion	hvatberi	Noun
+mitten	lúffa	Noun
+mitten	vettlingur	Noun
+moat	díki	Noun
+moat	kastaladíki	Noun
+moat	kastalasíki	Noun
+moat	síki	Noun
+moat	virkisgröf	Noun
+mobile phone	GSM-sími	Noun
+mobile phone	farsími	Noun
+mobile phone	gemsi	Noun
+mockingbird	hermikráka	Noun
+molecule	mólekúl	Noun
+molecule	sameind	Noun
+moment	augnablik	Noun
+monarch	drottning	Noun
+monarch	einvaldsherra	Noun
+monarch	einvaldur	Noun
+monarch	einvaldur þjóðhöfðingi furstadæmis	Noun
+monarch	einvaldur þjóðhöfðingi keisaradæmis	Noun
+monarch	einvaldur þjóðhöfðingi konungsríkis	Noun
+monarch	fursti	Noun
+monarch	höfðingi	Noun
+monarch	jöfur	Noun
+monarch	keisari	Noun
+monarch	konungur	Noun
+money	fé	Noun
+money	gjaldmiðill	Noun
+money	peningur	Noun
+money	ríkidæmi	Noun
+money market fund	peningamarkaðssjóður	Noun
+monitor	mænir	Noun
+monitor	skjár	Noun
+monitor	tölvuskjár	Noun
+monkey	api	Noun
+monomer	einliða	Noun
+monotheism	eingyðistrú	Noun
+monotreme	nefdýr	Noun
+monster	skrímsli	Noun
+monster	ófreskja	Noun
+month	mánuður	Noun
+monument	minnismerki	Noun
+moo	baul	Noun
+moon	fylgihnöttur	Noun
+moon	máni	Noun
+moon	mánuður	Noun
+moon	tungl	Noun
+mop	moppa	Noun
+mop	þvegill	Noun
+moratorium	frestur	Noun
+moratorium	greiðslustöðvun	Noun
+moratorium	stöðvun	Noun
+morning	fyrirmiðdagur	Noun
+morning	morgunn	Noun
+morning	árdegi	Noun
+morpheme	eining	Noun
+morpheme	merkingarbær	Noun
+morpheme	minnsta	Noun
+morpheme	morfem	Noun
+morpheme	myndan	Noun
+morpheme	mál	Noun
+mosaic	mósaík	Noun
+mosquito	moskítófluga	Noun
+moss	mosi	Noun
+motet	mótetta	Noun
+mother	mamma	Noun
+mother	móðir	Noun
+motor	mótor	Noun
+motto	kjörorð	Noun
+moult	fjaðrafellir	Noun
+moult	hamskipti	Noun
+moult	of birds	Noun
+moult	of insects and reptiles	Noun
+mountain	fell	Noun
+mountain	fjall	Noun
+mountain	haugur	Noun
+mouse	mús	Noun
+mouse	tölvumús	Noun
+mouse pad	músamotta	Noun
+mouse pad	músarmotta	Noun
+mousehole	músarhola	Noun
+mouth	kjaftur	Noun
+mouth	m	Noun
+mouth	munnur	Noun
+mouth	mynni	Noun
+mouth	op	Noun
+mouth	vulgar	Noun
+mouthwash	munnskol	Noun
+muffin	múffa	Noun
+muon	mýeind	Noun
+muon neutrino	fiseind mýeindar	Noun
+muscle	styrkur	Noun
+muscle	vöðvi	Noun
+museum	safn	Noun
+music	músík	Noun
+music	possibly nonstandard, slightly dated	Noun
+music	tónlist	Noun
+musical	söngleikur	Noun
+musk ox	sauðnaut	Noun
+muskrat	bísamrotta	Noun
+muskrat	moskusrotta	Noun
+mustard	sinnep	Noun
+mutation	stökkbreyting	Noun
+muzzleloader	framhlaðningur	Noun
+myoglobin	mýóglóbín	Noun
+myoglobin	vöðvaglóbín	Noun
+myoglobin	vöðvarauði	Noun
+narwhal	náhvalur	Noun
+nation-state	þjóðríki	Noun
+nature	eðli	Noun
+nature	náttúra	Noun
+nature	umhverfi	Noun
+nautilus	snekkja	Noun
+necktie	bindi	Noun
+necktie	slifsi	Noun
+needle	nál	Noun
+needle	saumnál	Noun
+needle in a haystack	saumnál í heystakki	Noun
+negation	neitun	Noun
+neologism	nýyrði	Noun
+neon	neon	Noun
+neptunium	neptún	Noun
+neptunium	neptúnín	Noun
+nerd	nörd	Noun
+nerve	taug	Noun
+ness	nes	Noun
+nest	hreiður	Noun
+neuter	hvorugkyn	Noun
+neutrino	fiseind	Noun
+neutron	nifteind	Noun
+neutron star	nifteindastjarna	Noun
+new year	nýár	Noun
+news	alt=fréttir	Noun
+news	f-p	Noun
+news	tíðindi	Noun
+news agency	fréttastofa	Noun
+newton	njúton	Noun
+nickel	nikkel	Noun
+nickname	gælunafn	Noun
+nigger	negri	Noun
+night	archaic	Noun
+night	njóla	Noun
+night	nátt	Noun
+night	nótt	Noun
+night	skaldic	Noun
+night owl	nátthrafn	Noun
+night watchman	næturvörður	Noun
+nightclub	næturklúbbur	Noun
+nightclub	skemmtistaður	Noun
+nighthawk	húmfari	Noun
+nihilism	níhílismi	Noun
+nihilism	tómhyggja	Noun
+ninja	ninja	Noun
+niobium	nióbín	Noun
+nitpicking	sparðatíningur	Noun
+nitrate	nítrat	Noun
+nitride	niturherða	Noun
+nitride	nítríð	Noun
+nitrite	nítrít	Noun
+nitrogen	köfnunarefni	Noun
+nitrogen	nitur	Noun
+no	nei	Noun
+no	neitun	Noun
+no man's land	einskismannsland	Noun
+nobelium	nóbelín	Noun
+nomad	hirðingi	Noun
+nominative case	nefnifall	Noun
+non-Euclidean geometry	óevklíðsk rúmfræði	Noun
+nonagon	níhyrningur	Noun
+nonrepudiation	óhrekjanleiki	Noun
+nonsense	bull	Noun
+nonsense	rugl	Noun
+noose	lykkja	Noun
+noose	rennilykkja	Noun
+north	norður	Noun
+nose	nef	Noun
+nosebleed	f-p	Noun
+nostalgia	fortíðarþrá	Noun
+nostalgia	nostalgía	Noun
+noughties	fyrsti áratugurinn	Noun
+noun phrase	nafnliður	Noun
+nucleotide	kirni	Noun
+nucleotide	núkleótíð	Noun
+nucleus	atómkjarni	Noun
+nucleus	frumeindarkjarni	Noun
+nucleus	frumukjarni	Noun
+nucleus	kjarni	Noun
+nurse	barnfóstra	Noun
+nurse	female	Noun
+nurse	female, colloquial, vernacular	Noun
+nurse	fóstra	Noun
+nurse	hjúkka	Noun
+nurse	hjúkrunarfræðingur	Noun
+nurse	hjúkrunarkona	Noun
+nutcracker	hnetubrjótur	Noun
+nutrition	næring	Noun
+nylon	nælon	Noun
+nylon	nælonsokkur	Noun
+oak	eik	Noun
+oak	eiki	Noun
+oak	eikitré	Noun
+oar	ár	Noun
+oasis	vin	Noun
+oat	hafri	Noun
+object-oriented programming	hlutbundin forritun	Noun
+oboe	óbó	Noun
+obsidian	hrafntinna	Noun
+ocean	haf	Noun
+ocean	poetic	Noun
+ocean	sjór	Noun
+ocean	ægir	Noun
+ocean	úthaf	Noun
+octagon	átthyrningur	Noun
+octane	oktan	Noun
+octopus	kolkrabbi	Noun
+odor	lykt	Noun
+oesophagus	vélinda	Noun
+offside	rangstaða	Noun
+ohm	óm	Noun
+oleate	óleat	Noun
+olive	ólífa	Noun
+olivine	ólivín	Noun
+omnibus	strætó	Noun
+omnipresence	alnánd	Noun
+onion	laukur	Noun
+onomatopoeia	hljóðgerving	Noun
+onomatopoeia	hljóðgervingur	Noun
+onomatopoeia	hljóðlíkingarorð	Noun
+onus	sönnunarbyrði	Noun
+oocyte	eggfruma	Noun
+oology	eggjafræði	Noun
+opal	ópall	Noun
+operating system	rare	Noun
+operating system	stjórnkerfi	Noun
+operating system	stýrikerfi	Noun
+operation	aðgerð	Noun
+operation	framkvæmd	Noun
+operation	hernaðaraðgerð	Noun
+operation	rekstur	Noun
+operation	skurðaðgerð	Noun
+operation	starf	Noun
+operation	starfræksla	Noun
+operation	starfsemi	Noun
+operation	uppskurður	Noun
+operation	vinnsla	Noun
+operator	virki	Noun
+opiate	ópíöt	Noun
+opinion	álit	Noun
+opium	ópíum	Noun
+opossum	pokarotta	Noun
+optimum	besta gildi	Noun
+optimum	kjörgildi	Noun
+optimum	kjörstaða	Noun
+oracle	goðsvar	Noun
+oracle	goðsvari	Noun
+oracle	spakvitringur	Noun
+oracle	spáprestur	Noun
+oracle	véfrétt	Noun
+orange	appelsína	Noun
+orange	appelsínugulur	Noun
+orange	appelsínutré	Noun
+orangutan	órangútan	Noun
+oratorio	óratóría	Noun
+orca	háhyrningur	Noun
+orca	vagnhvalur	Noun
+orchestra	hljómsveit	Noun
+orchestra	orkestur	Noun
+order	pöntun	Noun
+order	röð	Noun
+order	ættbálkur	Noun
+ore	málmgrýti	Noun
+organ	líffæri	Noun
+organ	málgagn	Noun
+organ	orgel	Noun
+organelle	frumulíffæri	Noun
+organist	organisti	Noun
+organist	orgelleikari	Noun
+origami	origami	Noun
+original	frumeintak	Noun
+original	frumrit	Noun
+original	informal	Noun
+original	only of writing	Noun
+original	orginall	Noun
+orthodoxy	rétttrúnaður	Noun
+osmium	osmín	Noun
+osmosis	himnuflæði	Noun
+other	annar	Noun
+other	annað	Noun
+other	önnur	Noun
+outer space	útgeimur	Noun
+outlaw	útlagi	Noun
+oven	ofn	Noun
+ovulation	egglos	Noun
+owl	ugla	Noun
+ox	uxi 	Noun
+oxide	oxíð	Noun
+oxygen	súrefni	Noun
+oxymoron	refhvörf	Noun
+pagan	heiðingi	Noun
+paganism	heiðni	Noun
+pahoehoe	helluhraun	Noun
+paint	m-p	Noun
+paint	málning	Noun
+pajamas	náttföt	Noun
+palace	höll	Noun
+palace	palata	Noun
+palimpsest	skafgígur	Noun
+palimpsest	skafið handrit	Noun
+palimpsest	uppskafningur	Noun
+palindrome	samhverfa	Noun
+palm tree	pálmatré	Noun
+palm tree	pálmi	Noun
+panacea	allra meina bót	Noun
+panacea	kynjalyf	Noun
+panacea	töfraformúla	Noun
+panacea	undralyf	Noun
+panache	fjaðraskúfur	Noun
+pancake	pönnukaka	Noun
+pancreas	bris	Noun
+pancreas	briskirtill	Noun
+pandemonium	ringulreið	Noun
+pantheism	algyðistrú	Noun
+pantheist	algyðistrúarmaður	Noun
+panther	pardusdýr	Noun
+pantomime	látbragðsleikur	Noun
+paper aeroplane	pappírsflugvél	Noun
+paper clip	bréfaklemma	Noun
+papist	pápisti	Noun
+parabola	fleygbogi	Noun
+parachute	fallhlíf	Noun
+parade	skrúðganga	Noun
+paradise	himinn	Noun
+paradise	paradís	Noun
+paranoia	vænisýki	Noun
+parasite	afæta	Noun
+parasite	sníkill	Noun
+parasite	sníkjudýr	Noun
+park	garður	Noun
+park	lystigarður	Noun
+park	skrúðgarður	Noun
+parking garage	bílakjallari	Noun
+parking garage	bílastæðahús	Noun
+parking garage	bílastæðakjallari	Noun
+parking garage	separate building	Noun
+parking garage	underground	Noun
+parliament	þing	Noun
+parole	reynslulausn	Noun
+parrot	eftirherma	Noun
+parrot	hermikráka	Noun
+parrot	páfagaukur	Noun
+parsley	steinselja	Noun
+part	hluti	Noun
+part	partur	Noun
+part of speech	orðflokkur	Noun
+partial fraction	stofnbrot	Noun
+partitive	deildarfall	Noun
+partridge	akurhæna	Noun
+parvenu	stéttskiptingur	Noun
+parvenu	uppskafningur	Noun
+pascal	paskal	Noun
+passion	passía	Noun
+passion	ákafi	Noun
+passion	ástríða	Noun
+passion fruit	passíuávöxtur	Noun
+passive voice	þolmynd	Noun
+past	fortíð	Noun
+past participle	lýsingarháttur þátíðar	Noun
+past tense	þátíð	Noun
+pasta	pasta	Noun
+paten	patína	Noun
+patience	biðlund	Noun
+patience	þolinmæði	Noun
+patient	sjúklingur	Noun
+patriot	föðurlandsvinur	Noun
+patriot	ættjarðarvinur	Noun
+patron	stuðningsmaður	Noun
+patron	velunnari	Noun
+patron	verndari	Noun
+patsy	blóraböggull	Noun
+pay-off	vinningur	Noun
+peace	friðartími	Noun
+peace	friður	Noun
+peacock	páfugl	Noun
+peanut	jarðhneta	Noun
+peanut butter	hnetusmjör	Noun
+pearl	perla	Noun
+pecan	pekanhneta	Noun
+pedagogue	barnakennari	Noun
+pedagogue	kennari	Noun
+pedagogue	kreddufullur	Noun
+pedagogue	kreddufullur kennari	Noun
+pedagogue	smásmigill	Noun
+pedal	fótstig	Noun
+pedant	smámunasamur maður	Noun
+pedant	smámunasöm kona	Noun
+pedant	uppfull af lærdómshroka	Noun
+pedant	uppfullur af lærdómshroka	Noun
+peg	snagi	Noun
+pelican	pelíkani	Noun
+pelvis	mjaðmargrind	Noun
+pen pal	pennavinur	Noun
+penalty	hegning	Noun
+penalty shootout	vítakeppni	Noun
+pendant	hálsmen	Noun
+pendant	men	Noun
+pendant	nisti	Noun
+peninsula	skagi	Noun
+pentagon	fimmhyrningur	Noun
+people's republic	alþýðulýðveldi	Noun
+pepper	pipar	Noun
+pepper spray	piparúði	Noun
+pepperoni	pepperóní	Noun
+pepsin	pepsín	Noun
+peptide	peptíð	Noun
+percent	hundraðshluti	Noun
+percent	hundraðstala	Noun
+percent	prósenta	Noun
+peregrine falcon	förufálki	Noun
+perfume	ilmur	Noun
+perfume	ilmvatn	Noun
+peroxide	peroxíð	Noun
+perseverance	harðfylgi	Noun
+perseverance	þolgæði	Noun
+perseverance	þrautseigja	Noun
+person	manneskja	Noun
+person	persóna	Noun
+persona non grata	persónu non grata	Noun
+personal pronoun	persónufornafn	Noun
+peseta	peseti	Noun
+pest	meindýr	Noun
+pesto	pestó	Noun
+pet shop	dýrabúð	Noun
+petal	krónublað	Noun
+phalanx	kjúka	Noun
+phallus	reður	Noun
+pharaoh	faraó	Noun
+phenotype	svipfar	Noun
+phenotype	svipgerð	Noun
+pheromone	ferómón	Noun
+pheromone	lyktarhormón	Noun
+phoenix	fönix	Noun
+phoneme	hljóðan	Noun
+phosphorus	fosfór	Noun
+photograph	ljósmynd	Noun
+photograph	mynd	Noun
+photon	fótóna	Noun
+photon	ljóseind	Noun
+photon	ljósögn	Noun
+photon	uncommon	Noun
+photosphere	ljóshvolf	Noun
+phrase	frasi	Noun
+phrase	málsháttur	Noun
+physics	eðlisfræði	Noun
+pianist	píanisti	Noun
+pianist	píanóleikari	Noun
+pianoforte	dated	Noun
+pianoforte	f	Noun
+pianoforte	fortepíanó	Noun
+pianoforte	n	Noun
+pianoforte	píanó	Noun
+pianoforte	rare	Noun
+pianoforte	slagharpa	Noun
+piccolo	is	Noun
+pick-up line	bólbeita	Noun
+pick-up line	pikköpplína	Noun
+pick-up line	veiðilína	Noun
+pickaxe	haki	Noun
+pickpocket	vasaþjófur	Noun
+picture	ljósmynd	Noun
+picture	mynd	Noun
+piece	hluti	Noun
+piece	stykki	Noun
+piece	verk	Noun
+pier	bryggja	Noun
+pillow	koddi	Noun
+pillowcase	koddaver	Noun
+pilot	flugmaður	Noun
+pimento	allrahanda	Noun
+pip-squeak	peð	Noun
+pipe	lóðlína	Noun
+pipe	rör	Noun
+pipette	pípetta	Noun
+pirate	sjóræningi	Noun
+pisiform joint	ritvinnsluforrit	Noun
+pisiform joint	ritvinnslutæki	Noun
+piss	hland	Noun
+piss	sull	Noun
+pistachio	pistasía	Noun
+pistachio	pistasíuhneta	Noun
+pistachio	pistasíutré	Noun
+pistol	skammbyssa	Noun
+piston	bulla	Noun
+piston	stimpill	Noun
+pixel	díll	Noun
+pixel	myndeining	Noun
+pixel	punktur	Noun
+pizza	flatbaka	Noun
+pizza	pitsa	Noun
+pizza	pizza	Noun
+pizza	pítsa	Noun
+place mat	diskamotta	Noun
+placebo	lyfleysa	Noun
+placebo	þóknunarhrifslyf	Noun
+placename	staðarheiti	Noun
+placename	örnefni	Noun
+placenta	fylgja	Noun
+placenta	legkaka	Noun
+plague	plága	Noun
+plaice	koli	Noun
+plan	áætlun	Noun
+planet	pláneta	Noun
+planet	reikistjarna	Noun
+plant	jurt	Noun
+plant	planta	Noun
+plaque	tannsýkla	Noun
+plasma	blóðvökvi	Noun
+plasma	rafgas	Noun
+plaster	gifs	Noun
+plastic	plast	Noun
+platitude	gömul tugga	Noun
+platitude	innantómur frasi	Noun
+platitude	margþvæld tugga	Noun
+platypus	breiðnefur	Noun
+play	leikrit	Noun
+play	leikur	Noun
+play	spil	Noun
+player	leikmaður	Noun
+playlist	spilunarlisti	Noun
+plaza	torg	Noun
+plebiscite	þjóðaratkvæðagreiðsla	Noun
+plebiscite	þjóðaratkvæði	Noun
+plot	blettur	Noun
+plot	graf	Noun
+plot	lóð	Noun
+plot	reitur	Noun
+plot	ráðabrugg	Noun
+plot	skiki	Noun
+plot	teikning	Noun
+plough	plógur	Noun
+plural	fleirtala	Noun
+plurale tantum	fleirtölunafnorð	Noun
+plurale tantum	fleirtöluorð	Noun
+plus	kostur	Noun
+plus	plús	Noun
+plus	viðauki	Noun
+plus	viðbót	Noun
+plutonium	plúton	Noun
+pocket watch	vasaúr	Noun
+pocketknife	vasahnífur	Noun
+podcast	hlaðvarp	Noun
+podcast	netvarp	Noun
+poem	dikt	Noun
+poem	kvæði	Noun
+poem	ljóð	Noun
+poem	vers	Noun
+poet	ljóðskáld	Noun
+poet	skáld	Noun
+poetry	ljóðlist	Noun
+poinsettia	jólastjarna	Noun
+pointer	bendir	Noun
+pole vault	stangarstökk	Noun
+police	lögregla	Noun
+policeman	colloquial	Noun
+policeman	lögga	Noun
+policeman	lögreglumaður	Noun
+poliomyelitis	mænusótt	Noun
+pollen	frjókorn	Noun
+polonium	pólon	Noun
+polyester	pólýester	Noun
+polygon	marghyrningur	Noun
+polymer	fjölliða	Noun
+polynomial	margliða	Noun
+polyp	holsepi	Noun
+polyp	sepi	Noun
+polystyrene	pólýstýren	Noun
+polytheism	fjölgyðistrú	Noun
+polyurethane	pólýúretan	Noun
+poodle	púðli	Noun
+poodle	púðluhundur	Noun
+popcorn	poppkorn	Noun
+population	fólksfjöldi	Noun
+population	hópur	Noun
+population	lýður	Noun
+population	m-p	Noun
+population	mannfjöldi	Noun
+population	stofn	Noun
+population	uncommon	Noun
+population	þýði	Noun
+porn	klám	Noun
+porn	klámmynd	Noun
+portal	skrauthlið	Noun
+portal	vefgátt	Noun
+portmanteau word	frakkaorð	Noun
+portmanteau word	samrunaorð	Noun
+positron	jáeind	Noun
+post office	pósthús	Noun
+postcard	bréfspjald	Noun
+postcard	kort	Noun
+postcard	póstkort	Noun
+postcard	rare	Noun
+postcode	póstnúmer	Noun
+postscriptum	e.s.	Noun
+postscriptum	eftirmáli	Noun
+postscriptum	eftirskrift	Noun
+postscriptum	n.b.	Noun
+postscriptum	p.s.	Noun
+powder keg	púðurtunna	Noun
+power set	veldismengi	Noun
+preacher	prédikari	Noun
+precipitation	botnfelling	Noun
+precipitation	botnfelling (efnis úr lausn)	Noun
+precipitation	bráðræði	Noun
+precipitation	efni	Noun
+precipitation	felling	Noun
+precipitation	felling (efnis úr lausn)	Noun
+precipitation	flýtir	Noun
+precipitation	lausn	Noun
+precipitation	óðagot	Noun
+precipitation	úr	Noun
+precipitation	úrfelling	Noun
+precipitation	úrfelling (efnis úr lausn)	Noun
+precipitation	úrkoma	Noun
+precipitation	það að flæða áfram	Noun
+precipitation	það að steypast áfram	Noun
+precipitation	það að æða áfram	Noun
+precision	nákvæmni	Noun
+premonition	fyrirboði	Noun
+premonition	viðvörun	Noun
+premonition	warning	Noun
+present participle	lýsingarháttur nútíðar	Noun
+present tense	nútíð	Noun
+presentation	afhending	Noun
+presenter	kynnir	Noun
+president	forseti	Noun
+president	forstjóri	Noun
+presupposition	forsenda	Noun
+price	verð	Noun
+pride	stolt	Noun
+priest	prestur	Noun
+prima donna	prímadonna	Noun
+prime minister	forsætisráðherra	Noun
+prime number	frumtala	Noun
+prime number	prímtala	Noun
+prince	fursti	Noun
+prince	mikilmenni	Noun
+prince	prins	Noun
+princess	prinsessa	Noun
+principal	rektor	Noun
+principal	skólameistari	Noun
+principal	skólastjóri	Noun
+principal	umbjóðandi	Noun
+principality	furstadæmi	Noun
+prisoner of war	stríðsfangi	Noun
+problem	vandamál	Noun
+producer	framleiðandi	Noun
+product	afrakstur	Noun
+product	afurð	Noun
+product	framleiðsla	Noun
+product	margfeldi	Noun
+product	myndefni	Noun
+product	vara	Noun
+profession	atvinna	Noun
+professor	háskólakennari	Noun
+professor	prófessor	Noun
+program	dagskrá	Noun
+program	forrit	Noun
+program	tölvuforrit	Noun
+progressive	framfarasinni	Noun
+prohibition	bannár	Noun
+proletariat	m-p	Noun
+proletariat	öreigastétt	Noun
+promethium	prómetín	Noun
+pronunciation	framburður	Noun
+proof	sönnun	Noun
+proofreader	prófarkalesari	Noun
+proofreading	prófarkalestur	Noun
+propaganda	áróður	Noun
+propeller	hreyfill	Noun
+proper noun	eiginnafn	Noun
+proper noun	sérnafn	Noun
+prophet	spákona	Noun
+prophet	spámaður	Noun
+proposition	fullyrðing	Noun
+proposition	yrðing	Noun
+prose	prósa	Noun
+prostitute	gleðikona	Noun
+prostitute	hóra	Noun
+prostitute	skækja	Noun
+prostitute	vændiskona	Noun
+protactinium	protaktín	Noun
+protest	mótmæli	Noun
+protist	frumvera	Noun
+protium	einvetni	Noun
+protium	prótín	Noun
+proton	róteind	Noun
+prude	pempía	Noun
+prude	tepra	Noun
+psalm	sálmur	Noun
+pseudonym	dulnefni	Noun
+pseudonym	höfundarnafn	Noun
+pseudonym	leyninafn	Noun
+pseudoscience	hjáfræði	Noun
+psoriasis	sóri	Noun
+public relations	almannatengsl	Noun
+public-key cryptography	dreifilykladulritun	Noun
+pudding	blóðmör	Noun
+pudding	búðingur	Noun
+pudding	slátur	Noun
+puff pastry	smjördeig	Noun
+pulley	talía	Noun
+pulley	trissa	Noun
+punch card	gataspjald	Noun
+pupa	púpa	Noun
+purple	fjólublár	Noun
+purple	purpuralitur	Noun
+pus	gröftur	Noun
+puzzle	púsl	Noun
+pyramid	pýramídi	Noun
+pyramid scheme	pýramídasvindl	Noun
+pyroxene	pýroxen	Noun
+pâté	kæfa	Noun
+quadrilateral	ferhyrningur	Noun
+queen	drolla	Noun
+queen	drottning	Noun
+queen	læða	Noun
+question mark	spurningarmerki	Noun
+queue	FIFO	Noun
+queue	LIFO	Noun
+queue	biðröð	Noun
+quill	broddur	Noun
+quill	fjaðurpenni	Noun
+quill	fjaðurstafur	Noun
+quotation	tilvitnun	Noun
+quote	gæsalappir	Noun
+quote	tilvitnun	Noun
+quote	tilvitnunarmerki	Noun
+quotient	hlutatala	Noun
+quotient	kvóti	Noun
+rabbi	rabbíni	Noun
+raceme	klasi	Noun
+radar	ratsjá	Noun
+radiator	vatnskassi	Noun
+radio	útvarp	Noun
+radio	útvarpstæki	Noun
+radio telescope	útvarpssjónauki	Noun
+radius	geisli	Noun
+radius	radíus	Noun
+radon	radon	Noun
+rain	regn	Noun
+rain	rigning	Noun
+rain cloud	regnský	Noun
+rain cloud	regnþykkni	Noun
+rain cloud	úrkomuský	Noun
+rainbow	during night	Noun
+rainbow	friðarbogi	Noun
+rainbow	njólubaugur	Noun
+rainbow	regnbogi	Noun
+rainforest	regnskógur	Noun
+rainwater	regnvatn	Noun
+raisin	rúsína	Noun
+random access	beinn aðgangur	Noun
+random access	rakleið	Noun
+range	mynd	Noun
+range	myndmengi	Noun
+rapid	f-p	Noun
+rapper	rappari	Noun
+rapport	samband	Noun
+rapport	tengsl	Noun
+ratio	hlutfall	Noun
+ratio	hlutfall milli tveggja stærða	Noun
+ratio	hlutfallstala	Noun
+rational number	ræð tala	Noun
+ray gun	geislabyssa	Noun
+razor	rakvél	Noun
+reaction	hvarf	Noun
+reaction	hvörf	Noun
+read-only memory	lesminni	Noun
+reader	lesandi	Noun
+real estate	fasteign	Noun
+reality	veruleiki	Noun
+realpolitik	raunsæisstjórnmál	Noun
+rear-view mirror	baksýnisspegill	Noun
+reason	ástæða	Noun
+rebellion	uppreisn	Noun
+recompense	f-p	Noun
+recompense	þóknun	Noun
+recrimination	gagnsök	Noun
+recrimination	gagnásökun	Noun
+red card	rautt spjald	Noun
+red deer	krónhjörtur	Noun
+referendum	þjóðaratkvæðagreiðsla	Noun
+referendum	þjóðaratkvæði	Noun
+reform	endurbót	Noun
+refraction	ljósbrot	Noun
+reggae	reggí	Noun
+region	hérað	Noun
+register	gisti	Noun
+regression	aðhvarf	Noun
+regulation	reglugerð	Noun
+relative pronoun	tilvísunarfornafn	Noun
+religion	trúarbrögð	Noun
+religion	átrúnaður	Noun
+remoulade	remúlaði	Noun
+repercussion	eftirköst	Noun
+repercussion	eftirmál	Noun
+replica	eftirlíking	Noun
+replica	eftirmynd	Noun
+representative	fulltrúi	Noun
+reptile	skriðdýr	Noun
+republic	lýðveldi	Noun
+repudiation	höfnun	Noun
+repudiation	neitun	Noun
+research	rannsókn	Noun
+residence	bústaður	Noun
+resignation	letter	Noun
+resignation	n	Noun
+resignation	tilkynning	Noun
+resignation	uppsagnarbréf	Noun
+resignation	uppsögn	Noun
+resistance	mótstaða	Noun
+resistance	viðnám	Noun
+restaurant	matsölustaður	Noun
+restaurant	veitingahús	Noun
+restaurant	veitingasalur	Noun
+restaurant	veitingastaður	Noun
+resurrection	upprisa	Noun
+retronym	afturvirkt orð	Noun
+retrovirus	retróveira	Noun
+retrovirus	víxlveira	Noun
+revelation	opinberun	Noun
+revolution	bylting	Noun
+revolver	marghleypt skammbyssa	Noun
+rhenium	renín	Noun
+rhenium	reníum	Noun
+rhinoceros	nashyrningur	Noun
+rhinovirus	kvefveira	Noun
+rhodium	ródín	Noun
+rhombus	tigull	Noun
+rhombus	tígull	Noun
+rhyme	rím	Noun
+ribonucleotide	ríbónúkleótíð	Noun
+rich	ríkur	Noun
+rider	alt=viðauki við samning	Noun
+riffraff	illþýði	Noun
+riffraff	pakk	Noun
+riffraff	skríll	Noun
+rifle	riffill	Noun
+ring finger	baugfingur	Noun
+ringtone	hringitónn	Noun
+river	elfur	Noun
+river	fljót	Noun
+river	á	Noun
+robin	farþröstur	Noun
+robot	róbóti	Noun
+robot	vélmenni	Noun
+robot	þjarki	Noun
+rock dove	bjargdúfa	Noun
+rock face	berg	Noun
+rock face	hamar	Noun
+rod	stöng	Noun
+rodent	nagdýr	Noun
+roe deer	rádýr	Noun
+rolled oats	haframjöl	Noun
+roller	rúlla	Noun
+roller skate	hjólaskauti	Noun
+rollercoaster	rússíbani	Noun
+room temperature	stofuhiti	Noun
+rooster	hani	Noun
+rope	reipi	Noun
+rope	tog	Noun
+rose garden	rósagarður	Noun
+rosehip	rósaber	Noun
+rosemary	rósmarín	Noun
+roundabout	hringekja	Noun
+roundabout	hringtorg	Noun
+roundabout	krókaleið	Noun
+roundabout	krókvegur	Noun
+roundabout	umferðarhringur	Noun
+rubidium	rúbidín	Noun
+ruble	rúbla	Noun
+ruin	rúst	Noun
+rule of thumb	þumalputtaregla	Noun
+rune	rún	Noun
+ruthenium	rúten	Noun
+rye	rúgur	Noun
+rye bread	rúgbrauð	Noun
+rösti	kartöflusáta	Noun
+rösti	rösti	Noun
+sable	safali	Noun
+sabotage	skemmdarverk	Noun
+sabre	sveðja	Noun
+saccharide	sykra	Noun
+saddle point	söðulpunktur	Noun
+saddle-point	alt=söðulpunkts-	Noun
+safe	peningaskápur	Noun
+safe	öryggisskápur	Noun
+saga	saga	Noun
+sailor	sjóari	Noun
+sailor	sjómaður	Noun
+salamander	salamandra	Noun
+saliva	munnvatn	Noun
+saliva	slef	Noun
+salmon	lax	Noun
+salmon	laxbleikur litur	Noun
+salt	salt	Noun
+salt	sjóari	Noun
+samarium	samarín	Noun
+samurai	samúræji	Noun
+sand	sandur	Noun
+sandbox	sandkassi	Noun
+sandstorm	sandbylur	Noun
+sandstorm	sandstormur	Noun
+sandwich	samloka	Noun
+sapphire	safír	Noun
+sapphire	safírblár	Noun
+sarcoidosis	sarklíki	Noun
+sarcomere	vöðvadeild	Noun
+sarcomere	vöðvaliður	Noun
+sari	sarí	Noun
+satellite	fylgihnöttur	Noun
+satellite	gervihnöttur	Noun
+satellite	gervitungl	Noun
+satellite	tungl	Noun
+satire	háðsádeila	Noun
+satire	satíra	Noun
+sauce	sósa	Noun
+sauerkraut	súrkál	Noun
+sauna	baðstofa	Noun
+sauna	eimbað	Noun
+sauna	gufubað	Noun
+sauna	sána	Noun
+saxophone	saxófónn	Noun
+scales	vog	Noun
+scandium	skandín	Noun
+scanner	skanni	Noun
+scanno	ljóslestrarvilla	Noun
+scene	vettvangur	Noun
+schadenfreude	meinfýsni	Noun
+schadenfreude	þórðargleði	Noun
+scheme	brugg	Noun
+scheme	ráð	Noun
+scheme	ráðagerð	Noun
+school bus	skólabíll	Noun
+school bus	skólavagn	Noun
+school year	skólaár	Noun
+scorpion	sporðdreki	Noun
+scrapie	riða	Noun
+screen	skermur	Noun
+screen	skjár	Noun
+scripture	ritningargrein	Noun
+scripture	ritningin	Noun
+scythe	ljár	Noun
+scythe	orf og ljár	Noun
+se méfier	óriganó	Noun
+sea	haf	Noun
+sea	poetic	Noun
+sea	sjór	Noun
+sea	ægir	Noun
+sea	úthaf	Noun
+sea horse	sæhestur	Noun
+sea lion	sæljón	Noun
+sea trout	urriði	Noun
+sea urchin	ígulker	Noun
+seabed	hafsbotn	Noun
+seabird	sjávarfugl	Noun
+seabird	sjófugl	Noun
+seagull	máfur	Noun
+seagull	mávur	Noun
+search	leit	Noun
+seasickness	sjóveiki	Noun
+seat belt	öryggisbelti	Noun
+sebum	húðfeiti	Noun
+secant	sniðill	Noun
+second person	önnur persóna	Noun
+secretary	ritari	Noun
+sect	sértrúarsöfnuður	Noun
+sediment	botnfall	Noun
+sediment	botnlag	Noun
+sediment	dreggjar	Noun
+sediment	set	Noun
+sediment	syrja	Noun
+sediment	vatnborin jarðvegsefni	Noun
+sediment	vindborin jarðvegsefni	Noun
+seesaw	vegasalt	Noun
+seismograph	jarðskjálftamælir	Noun
+selenium	selen	Noun
+self-image	sjálfsmynd	Noun
+self-pity	sjálfsmeðaumkun	Noun
+self-pity	sjálfsvorkunn	Noun
+semaphore	veif	Noun
+semen	brundur	Noun
+semen	sáð	Noun
+semen	sáðvökvi	Noun
+semen	sæði	Noun
+semester	misseri	Noun
+semi-detached	parhús	Noun
+senate	öldungadeild	Noun
+senator	öldungaráðsmaður	Noun
+separatist	aðskilnaðarsinni	Noun
+sepsis	blóðeitrun	Noun
+sepsis	blóðsýking	Noun
+sepsis	graftarsótt	Noun
+sepsis	septicemia	Noun
+seraph	serafi	Noun
+sergeant	liðþjálfi	Noun
+series	m-p	Noun
+series	röð	Noun
+series	þáttaröð	Noun
+serotonin	serótónín	Noun
+serpent	höggormur	Noun
+serpent	naðra	Noun
+server	miðlari	Noun
+sewing machine	saumavél	Noun
+sex toy	kynlífsleikfang	Noun
+sexual intercourse	f-p	Noun
+sexual intercourse	kynmök	Noun
+sexual intercourse	mök	Noun
+shadow	skuggi	Noun
+shake	hristingur	Noun
+shake	mjólkurhristingur	Noun
+shake	sjeik	Noun
+shale	f-p	Noun
+shale	leirsteinn	Noun
+shaman	völva	Noun
+shampoo	sjampó	Noun
+shantytown	kofaþorp	Noun
+shape	form	Noun
+shears	f-p	Noun
+sheet	blað	Noun
+shell	skel	Noun
+shepherd	fjárhirðir	Noun
+shepherd	hirðir	Noun
+shepherd	smalamaður	Noun
+shepherd	smali	Noun
+sheriff	fógeti	Noun
+sheriff	skerfari	Noun
+shieldmaiden	skjaldmær	Noun
+shift	is	Noun
+shift	skiptihnappur	Noun
+shipbuilding	skipasmíði	Noun
+shire	skíri	Noun
+shoe	skór	Noun
+shoehorn	skóhorn	Noun
+shoemaker	skósmiður	Noun
+shoo-in	öruggur sigurvegari	Noun
+shorebird	vaðfugl	Noun
+shorts	f-p	Noun
+shot put	kúluvarp	Noun
+shotgun	framhlaðningur	Noun
+shotgun	framsæti	Noun
+shotgun	haglabyssa	Noun
+shoulder blade	herðablað	Noun
+shrimp	rækja	Noun
+sieve	sáld	Noun
+sieve	sáldur	Noun
+sievert	sívert	Noun
+silhouette	skuggamynd	Noun
+silk	silki	Noun
+silver	mynt	Noun
+silver	silfur	Noun
+silver	silfurlitaður	Noun
+silver	silver coin	Noun
+simile	líking	Noun
+simile	samlíking	Noun
+simile	viðlíking	Noun
+simplex	hyrna	Noun
+sin	misgerð	Noun
+sin	misgjörð	Noun
+sin	synd	Noun
+sin	yfirsjón	Noun
+sine	sínus	Noun
+singleton	einsstaksmengi	Noun
+singleton	einstökungur	Noun
+singular	eintala	Noun
+singulare tantum	eintölunafnorð	Noun
+singulare tantum	eintöluorð	Noun
+sink	vaskur	Noun
+sip	sopi	Noun
+sir	herra	Noun
+sister	systir	Noun
+sister-in-law	mágkona	Noun
+sister-in-law	svilkona	Noun
+skald	skáld	Noun
+skateboard	hjólabretti	Noun
+sketch	skissa	Noun
+ski	andri	Noun
+ski	skíði	Noun
+ski	öndur	Noun
+skid mark	bremsufar	Noun
+skidmark	bremsufar	Noun
+skim milk	léttmjólk	Noun
+skim milk	undanrenna	Noun
+skin	hhörund	Noun
+skin	hskinn	Noun
+skin	húð	Noun
+skirt	pils	Noun
+sky	himinn	Noun
+skyr	skyr	Noun
+slag	gjall	Noun
+slave	þræll	Noun
+slave-girl	ambátt	Noun
+sleepyhead	svefnpurka	Noun
+slice	sneið	Noun
+slogan	slagorð	Noun
+sloop	slúppa	Noun
+sloth	dugleysi	Noun
+sloth	dáðleysi	Noun
+sloth	leti	Noun
+sloth	letidýr	Noun
+sloth	ómennska	Noun
+smallpox	bólusótt	Noun
+smart card	snjallkort	Noun
+smartphone	snjallsími	Noun
+smegma	limfarði	Noun
+smegma	ostur	Noun
+smegma	reðurfarði	Noun
+smog	mengunarmóða	Noun
+smog	reykjarmóða	Noun
+smog	þreykur	Noun
+smoke	reykur	Noun
+smoker	reykingamaður	Noun
+snake	slanga	Noun
+snake	snákur	Noun
+snath	orf	Noun
+snip	snifsi	Noun
+snob	snobb	Noun
+snooker	snóker	Noun
+snot	hor	Noun
+snow globe	jólakúla	Noun
+snow globe	snjókúla	Noun
+snow leopard	snæhlébarði	Noun
+snowball	snjóbolti	Noun
+snowboard	snjóbretti	Noun
+snowdrift	is	Noun
+snowflake	snjókorn	Noun
+soap opera	sápuópera	Noun
+socialist	sósíalisti	Noun
+sock puppet	alt=sokkabrúða	Noun
+soda	gos	Noun
+soda	gosdrykkur	Noun
+sofa	sófi	Noun
+software	hugbúnaður	Noun
+solar system	sólkerfi	Noun
+soldier	dáti	Noun
+soldier	hermaður	Noun
+solipede	hófdýr	Noun
+sombrero	mexíkanahattur	Noun
+son	sonur	Noun
+son of a bitch	tíkarsonur	Noun
+sonar	sónar	Noun
+sonar	ómsjá	Noun
+sonata	sónata	Noun
+sonatina	sónatína	Noun
+song	lag	Noun
+song	söngur	Noun
+sorrow	sorg	Noun
+sound card	hljóðkort	Noun
+sour cream	sýrður rjómi	Noun
+south	suður	Noun
+souvenir	minjagripur	Noun
+souvenir	minningargripur	Noun
+soviet	ráð	Noun
+soviet	sovét	Noun
+soy milk	sojamjólk	Noun
+space	bil	Noun
+space	geimur	Noun
+space	rúm	Noun
+space shuttle	geimflaug	Noun
+space travel	geimferð	Noun
+spaceship	geimfar	Noun
+spaceship	geimskip	Noun
+spaghetti	spagettí	Noun
+spaghetti	spaghettí	Noun
+spaghetti western	spagettívestri	Noun
+spam	ruslpóstur	Noun
+spanner	skiptilykill	Noun
+spanner	skrúflykill	Noun
+spark plug	kerti	Noun
+spark plug	kveikikerti	Noun
+sparrow	spörfugl	Noun
+spatula	spaði	Noun
+speaker	hátalari	Noun
+spear	spjót	Noun
+species	tegund	Noun
+speech	framburður	Noun
+speech	mál	Noun
+speech	málfar	Noun
+speech	málhæfileiki	Noun
+speech	mæli	Noun
+speech	ræða	Noun
+speech	tal	Noun
+speech	tala	Noun
+speech	ávarp	Noun
+speed bump	hraðahindrun	Noun
+speedwell	depla	Noun
+speedwell	æruprís	Noun
+spermatozoon	sáð	Noun
+spermatozoon	sáðfruma	Noun
+spermatozoon	sæðisfruma	Noun
+sphagnum	barnamosi	Noun
+sphagnum	hvítmosi	Noun
+sphagnum	svarðmosi	Noun
+sphere	hnöttur	Noun
+sphere	kúla	Noun
+spiderweb	kóngulóarvefur	Noun
+spine	hryggjarsúla	Noun
+spine	hryggur	Noun
+spine	kjölur	Noun
+spirit	andi	Noun
+spirit	sál	Noun
+spleen	milta	Noun
+splint	spelka	Noun
+split	splitt	Noun
+sponge cake	svampterta	Noun
+sport	íþrótt	Noun
+sports car	sportbíll	Noun
+spring	brunnur	Noun
+spring	fjöður	Noun
+spring	gormur	Noun
+spring	lind	Noun
+spring	uppspretta	Noun
+spring	vatnsrás	Noun
+spring	vor	Noun
+spring roll	vorrúlla	Noun
+sprout	frjónál	Noun
+sprout	spíra	Noun
+spruce	greni	Noun
+spruce	greni-	Noun
+spruce	grön	Noun
+sputnik	spútnik	Noun
+square	2=was "annað veldi" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see User:Kephir/gadgets/xte#Translation_fixing	Noun
+square	User:Kephir/gadgets/xte#Translation_fixing	Noun
+square	annað	Noun
+square	annað veldi	Noun
+square	ferningstala	Noun
+square	ferningur	Noun
+square	réttskeið	Noun
+square	torg	Noun
+square	veldi	Noun
+square mile	fermíla	Noun
+square root	kvaðratrót	Noun
+square wave	kassabylgja	Noun
+stack	hlaði	Noun
+stack	stafli	Noun
+stack	troðröð	Noun
+stadium	leikvangur	Noun
+stage	svið	Noun
+stage fright	sviðsskrekkur	Noun
+stainless steel	ryðfrítt stál	Noun
+stair	stigi	Noun
+stair	trappa	Noun
+stair	tröppur	Noun
+stair	þrep	Noun
+stairs	stigi	Noun
+stamp	stimpill	Noun
+star	stjarna	Noun
+star fruit	stjörnuávöxtur	Noun
+starling	stari	Noun
+state	fylki	Noun
+state	ríki	Noun
+state	ástand	Noun
+state secret	ríkisleyndarmál	Noun
+station	stöð	Noun
+statue	stytta	Noun
+status	staða	Noun
+status symbol	stöðutákn	Noun
+steam	eimur	Noun
+steam	gufa	Noun
+steam bath	eimbað	Noun
+steam bath	gufubað	Noun
+steamship	Gufuskip	Noun
+steel wool	stálull	Noun
+stem cell	stofnfruma	Noun
+step	skref	Noun
+step	þrep	Noun
+stepbrother	stjúpbróðir	Noun
+stepfather	stjúpfaðir	Noun
+stepfather	stjúpi	Noun
+stepmother	stjúpa	Noun
+stepmother	stjúpmamma	Noun
+stepmother	stjúpmóðir	Noun
+steppe	gresja	Noun
+steppe	steppa	Noun
+stepping stone	f-p	Noun
+stepping stone	stökkpallur	Noun
+stepsibling	stjúpsystkini	Noun
+stepsister	stjúpsystir	Noun
+stethoscope	hlustunarpípa	Noun
+stinger	broddur	Noun
+stock dove	holudúfa	Noun
+stock market	hlutabréfamarkaður	Noun
+stoma	loftauga	Noun
+stomachache	magapína	Noun
+stone	eðalsteinn	Noun
+stone	gimsteinn	Noun
+stone	steinn	Noun
+stone fruit	steinaldin	Noun
+stone fruit	steinber	Noun
+stoner	stóner	Noun
+stopover	millilending	Noun
+storey	hæð	Noun
+stork	storkur	Noun
+storm petrel	stormsvala	Noun
+stowaway	farþjófur	Noun
+stowaway	laumufarþegi	Noun
+straight	röð	Noun
+straight line	bein lína	Noun
+straight line	lína	Noun
+strait	sund	Noun
+strap-on	beltislimur	Noun
+stratosphere	heiðhvolf	Noun
+straw	strá	Noun
+strawberry	jarðarber	Noun
+strawberry	jarðarberjaplanta	Noun
+stream	lækur	Noun
+street	gata	Noun
+street	stræti	Noun
+stress	informal, slang	Noun
+stress	streita	Noun
+stress	stress	Noun
+stress	áhersla	Noun
+strike	verkfall	Noun
+string	band	Noun
+string	snæri	Noun
+string	spotti	Noun
+string	strengur	Noun
+stripper	fatafella	Noun
+stripper	nektardansmær	Noun
+striptease	nektardans	Noun
+striptease	strípidans	Noun
+stroll	rölt	Noun
+strontium	strontín	Noun
+structure	bygging	Noun
+student	nemandi	Noun
+stuffed animal	tuskudýr	Noun
+style	stíll	Noun
+subcategory	hlutríki	Noun
+sublimation	göfgun	Noun
+sublimation	þurrgufun	Noun
+submachine gun	hríðskotabyssa	Noun
+subordinate clause	aukasetning	Noun
+success	árangur	Noun
+suede	is	Noun
+suet	mör	Noun
+suffix	viðskeyti	Noun
+sugar	sykur	Noun
+sugar beet	sykurrófa	Noun
+sugar cane	sykurreyr	Noun
+suicide	sjálfsbani	Noun
+suicide	sjálfsmorð	Noun
+suicide	sjálfsmorðingi	Noun
+suicide	sjálfsvíg	Noun
+suit	jakkaföt	Noun
+sulfur	brennisteinn	Noun
+sultan	soldán	Noun
+summer solstice	f-p	Noun
+summer solstice	sumarsólhvörf	Noun
+sumo	súmóglíma	Noun
+sun	fastastjarna	Noun
+sun	sól	Noun
+sun	sólstjarna	Noun
+sun dog	aukasól	Noun
+sun dog	both simultaneously	Noun
+sun dog	gíll	Noun
+sun dog	hjásól	Noun
+sun dog	to the east of the sun	Noun
+sun dog	to the west of the sun	Noun
+sun dog	úlfakreppa	Noun
+sun dog	úlfur	Noun
+sunbeam	sólargeisli	Noun
+sunshine	sólskin	Noun
+supermarket	kjörbúð	Noun
+supermarket	stórmarkaður	Noun
+supernova	sprengistjarna	Noun
+superstition	bábilja	Noun
+superstition	hindurvitni	Noun
+superstition	hjátrú	Noun
+superstition	hégilja	Noun
+supplement	fylgirit	Noun
+surgeon	skurðlæknir	Noun
+surströmming	is	Noun
+sushi	sushi	Noun
+swan song	svanasöngur	Noun
+swastika	hakakross	Noun
+swear word	blótsyrði	Noun
+swimming pool	innilaug	Noun
+swimming pool	laug	Noun
+swimming pool	outdoor swimming pool	Noun
+swimming pool	sundhöll	Noun
+swimming pool	sundlaug	Noun
+swimming pool	útilaug	Noun
+swindle	svik	Noun
+swindle	svindl	Noun
+swing	róla	Noun
+swing	sveifla	Noun
+sword	sverð	Noun
+symbol	tákn	Noun
+symphony orchestra	sinfóníuhljómsveit	Noun
+synaesthesia	samskynjun	Noun
+synagogue	samkunduhús	Noun
+synagogue	sýnagóga	Noun
+syncope	brottfall	Noun
+synonym	samheiti	Noun
+syntax	dated	Noun
+syntax	málskipan	Noun
+syntax	orðskipunarfræði	Noun
+syntax	setningafræði	Noun
+syphilis	sárasótt	Noun
+syringe	sprauta	Noun
+system	kerfi	Noun
+séance	miðilsfundur	Noun
+table	borð	Noun
+tablecloth	borðdúkur	Noun
+tabloid	æsifréttablað	Noun
+tabula rasa	óskrifað blað	Noun
+tabula rasa	óskrifuð tafla	Noun
+tachometer	snúningshraðamælir	Noun
+tachyon	hraðeind	Noun
+taffeta	taft	Noun
+taiga	barrskógabeltið	Noun
+tailor	klæðskeri	Noun
+tailor	skraddari	Noun
+takeoff	flugtak	Noun
+talent	gáfa	Noun
+talent	hæfileikafólk	Noun
+talent	hæfileikamaður	Noun
+talent	hæfileiki	Noun
+talent	talenta	Noun
+talisman	verndargripur	Noun
+tambourine	tambúrína	Noun
+tampon	tíðatappi	Noun
+tangerine	tangerína	Noun
+tap water	kranavatn	Noun
+tapeworm	bandormur	Noun
+tapir	káputapír	Noun
+tarantula	tarantúla	Noun
+tarn	tjörn	Noun
+taste	bragð	Noun
+taste	forsmekkur	Noun
+taste	smekkur	Noun
+tau	tá	Noun
+tawny owl	náttugla	Noun
+taxi	leigubifreið	Noun
+taxi	leigubíll	Noun
+taxi	taxi	Noun
+tbsp.	tsk.	Noun
+tea	te	Noun
+tea	tebolli	Noun
+teabag	tepoki	Noun
+teahouse	tehús	Noun
+teak	tekk	Noun
+teakettle	ketill	Noun
+tear gas	táragas	Noun
+teaser	stikla	Noun
+technetium	teknetín	Noun
+techno	teknó	Noun
+teenager	táningur	Noun
+teenager	unglingur	Noun
+telephone	sími	Noun
+telescope	sjónauki	Noun
+television	imbakassi	Noun
+television	sjónvarp	Noun
+television	sjónvarpstæki	Noun
+television station	sjónvarpsstöð	Noun
+telomere	litningsendi	Noun
+temperature	hitastig	Noun
+ten o'clock	klukkan tíu	Noun
+tendon	sin	Noun
+tennis	tennis	Noun
+tennis racket	tennisspaði	Noun
+tenor	tenór	Noun
+tensor	þinur	Noun
+tequila	tekíla	Noun
+terbium	terbín	Noun
+termite	maur	Noun
+terracotta	brenndur leir	Noun
+terracotta	terrakotta	Noun
+terror	hræðsla	Noun
+terror	skelfing	Noun
+terror	ógn	Noun
+terrorist	hryðjuverkamaður	Noun
+testament	erfðaskrá	Noun
+testosterone	karlhormón	Noun
+testosterone	testósterón	Noun
+tetanus	stjarfi	Noun
+tetanus	stífkrampi	Noun
+text	texti	Noun
+thallium	þallín	Noun
+theater	leikhús	Noun
+theme	stef	Noun
+theme	tema	Noun
+theme	þema	Noun
+theremin	þeremín	Noun
+thermometer	hitamælir	Noun
+thermosphere	hitahvolf	Noun
+thesaurus	hugtakaorðabók	Noun
+theta	þeta	Noun
+thigh	læri	Noun
+thing	hlutur	Noun
+think tank	hugveita	Noun
+third person	þriðja persóna	Noun
+thorax	brjóst	Noun
+thorax	brjósthol	Noun
+thorax	brjóstkassi	Noun
+thorax	frambolur	Noun
+thorium	þórín	Noun
+thorn	þorn	Noun
+thorp	þorp	Noun
+thread	spjallþráður	Noun
+thread	þráður	Noun
+three of a kind	þrenna	Noun
+thrift	geldingahnappur	Noun
+thrift	gullintoppa	Noun
+throne	hásæti	Noun
+thud	dynkur	Noun
+thulium	túlín	Noun
+thumb	þumalfingur	Noun
+thumb	þumall	Noun
+thunder	þruma	Noun
+ticket	farmiði	Noun
+ticket	miði	Noun
+tilde	bylgja	Noun
+timbre	hljómblær	Noun
+timbre	tónblær	Noun
+time	afplánunartími	Noun
+time	sinn	Noun
+time	skipti	Noun
+time	tími	Noun
+time	tíð	Noun
+time	usually in definite form	Noun
+time clock	stimpilklukka	Noun
+time zone	tímabelti	Noun
+timeline	tímaás	Noun
+tin	tin	Noun
+tinfoil	álpappír	Noun
+tiramisu	tíramísú	Noun
+titanium	títan	Noun
+toad	karta	Noun
+toaster	brauðrist	Noun
+toe	tá	Noun
+tofu	tófú	Noun
+toilet paper	klósettpappír	Noun
+toilet paper	salernispappír	Noun
+toluene	tólúen	Noun
+tomato	rare	Noun
+tomato	tómati	Noun
+tomato	tómatjurt	Noun
+tomato	tómatur	Noun
+tombola	hlutavelta	Noun
+tombola	tombóla	Noun
+tome	bindi	Noun
+tomorrow	morgundagur	Noun
+toner	andlitsvatn	Noun
+toner	prentduft	Noun
+tongue	skótunga	Noun
+tongue	tunga	Noun
+tongue	tunga á skó	Noun
+tongue-twister	tungubrjót	Noun
+tonight	í kvöld	Noun
+tonsure	krúna	Noun
+tonsure	krúnurakstur	Noun
+tool	tól	Noun
+tool	verkfæri	Noun
+top hat	pípuhattur	Noun
+top hat	stromphattur	Noun
+topaz	tópas	Noun
+tornado	hvirfilbylur	Noun
+tornado	skýstrokkur	Noun
+torpedo	tundurskeyti	Noun
+torso	bolur	Noun
+torso	búkur	Noun
+torture	pynting	Noun
+tourist	ferðamaður	Noun
+tower block	háhýsi	Noun
+town	bær	Noun
+toy	leikfang	Noun
+trade	iðn	Noun
+trade	kaup	Noun
+trade	skipti	Noun
+trade	verslun	Noun
+trade	viðskipti	Noun
+trade union	stéttarfélag	Noun
+trade-off	fórnarskipti	Noun
+trade-off	m-p	Noun
+trader	kaupmaður	Noun
+tradition	hefð	Noun
+traffic light	umferðarljós	Noun
+trailer	stikla	Noun
+trait	eiginleiki	Noun
+trait	einkenni	Noun
+traitor	svikari	Noun
+trampoline	trampólín	Noun
+trans man	transmaður	Noun
+trans woman	transkona	Noun
+transistor	smári	Noun
+translation	hliðrun	Noun
+translation	þýðing	Noun
+transposon	stökkgen	Noun
+transposon	stökkull	Noun
+trapdoor	fallhleri	Noun
+trapdoor	hlemmur	Noun
+trapdoor	hleri	Noun
+traveller	ferðalangur	Noun
+traveller	ferðamaður	Noun
+treasure	fjársjóður	Noun
+tree	tré	Noun
+tree trunk	bolur	Noun
+tree trunk	stofn	Noun
+tree trunk	trjábolur	Noun
+triangle	þríhorn	Noun
+triangle	þríhyrningur	Noun
+triathlon	þríþraut	Noun
+trinity	þrenning	Noun
+trinity	þríeyki	Noun
+trio sonata	tríósónata	Noun
+tritium	ofurþungt vetni	Noun
+tritium	þrívetni	Noun
+trombone	básúna	Noun
+troop	sveit 	Noun
+troops	herlið	Noun
+tropism	leitni	Noun
+troposphere	veðrahvolf	Noun
+trout	silungur	Noun
+true north	hánorður	Noun
+true north	rétt norður	Noun
+trumpet	trompet	Noun
+trunk	bolur	Noun
+trunk	koffort	Noun
+trunk	skott	Noun
+trunk	stofn	Noun
+tube	rör	Noun
+tug of war	reiptog	Noun
+tugboat	dráttarbátur	Noun
+tulip	túlípani	Noun
+tulle	tjull	Noun
+tumor	hnútur	Noun
+tumor	æxli	Noun
+tundra	freðmýri	Noun
+tundra	túndra	Noun
+tunnel	göng	Noun
+tunnel	undirgöng	Noun
+turban	túrban	Noun
+turban	vefjarhöttur	Noun
+turd	bigger piece	Noun
+turd	kúkur	Noun
+turd	lortur	Noun
+turd	small piece	Noun
+turd	sparð	Noun
+turkey	kalkúnn	Noun
+turquoise	grænblár	Noun
+turtle dove	turtildúfa	Noun
+turtleneck	rúllukragapeysa	Noun
+turtleneck	rúllukragi	Noun
+tweet	tíst	Noun
+type	gerð	Noun
+type	kyn	Noun
+type	sort	Noun
+type	tag	Noun
+type	tegund	Noun
+type	týpa	Noun
+typhoon	fellibylur	Noun
+tyrannosaurus	grameðla	Noun
+tölt	tölt	Noun
+ultimatum	m-p	Noun
+umlaut	tvídepill	Noun
+underdog	lítilmagni	Noun
+union	act	Noun
+union	bandalag	Noun
+union	eining	Noun
+union	gifting	Noun
+union	hjónaband	Noun
+union	hjónavígsla	Noun
+union	samband	Noun
+union	sameining	Noun
+union	sammengi	Noun
+union	samtök	Noun
+union	state	Noun
+union	state of being united	Noun
+union	tengi	Noun
+union	the act or process of uniting; more rarely, the state of being united	Noun
+union	vígsla	Noun
+unit	eind	Noun
+universe	alheimur	Noun
+upload	upphal	Noun
+upper case	m-p	Noun
+upper case	stafir	Noun
+upper case	stórir	Noun
+urinal	informal	Noun
+urinal	pissuskál	Noun
+urinal	þvagskál	Noun
+urn	duftker	Noun
+user	dópisti	Noun
+user	eiturlyfjanotandi	Noun
+user	notandi	Noun
+user	tölvunotandi	Noun
+username	notandanafn	Noun
+utopia	útópía	Noun
+uvula	úfur	Noun
+vaccine	bóluefni	Noun
+vacuum	lofttæmi	Noun
+vacuum	lofttóm	Noun
+vade mecum	handargagn	Noun
+vade mecum	handbók	Noun
+vade mecum	handhægur hlutur	Noun
+vade mecum	uppsláttarkver	Noun
+vade mecum	vasakver	Noun
+vagina	leggöng	Noun
+vagina	skeið	Noun
+vagina	slíður	Noun
+valkyrie	valkyrja	Noun
+valley	dalur	Noun
+value	gagnsemi	Noun
+value	gildi	Noun
+value	lengdargildi	Noun
+value	mikilvægi	Noun
+value	verðgildi	Noun
+value added tax	virðisaukaskattur	Noun
+valve	ventill	Noun
+vampire	vampíra	Noun
+vanadium	vanadín	Noun
+vandal	skemmdarvargur	Noun
+vanilla	vanilja	Noun
+vanilla	vanilla	Noun
+vanilla	vanillujurt	Noun
+vantage point	sjónarhóll	Noun
+variable	breyta	Noun
+vase	vasi	Noun
+vat	ker	Noun
+vee	vaff	Noun
+vegetarian	grænmetisæta	Noun
+vegetation	gróður	Noun
+vein	æð	Noun
+velociraptor	snareðla	Noun
+vendetta	blóðhefnd	Noun
+veranda	verönd	Noun
+verb	sagnorð	Noun
+verb	sögn	Noun
+veronica	depla	Noun
+version	útgáfa	Noun
+vest	nærbolur	Noun
+vest	vesti	Noun
+vestibule	anddyri	Noun
+vestibule	forbyrgi	Noun
+vestibule	fordyri	Noun
+vestibule	forgarður	Noun
+vestibule	forsalur	Noun
+vestibule	forstofa	Noun
+vestibule	hol	Noun
+vestibule	önd	Noun
+veto	neitunarvald	Noun
+vibration	titringur	Noun
+victory	sigur	Noun
+video game	tölvuleikur	Noun
+videotape	myndband	Noun
+vim	kjarkur	Noun
+vineyard	víngarður	Noun
+violet	fjóla	Noun
+violet	fjólublár	Noun
+violin	fiðla	Noun
+viper	höggormur	Noun
+virgin	hrein mey	Noun
+virgin	hreinn sveinn	Noun
+virgin	jómfrú	Noun
+virgin	referring to a man	Noun
+virgin	referring to a woman	Noun
+virus	veira	Noun
+visa	vegabréfsáritun	Noun
+viscount	vísigreifi	Noun
+vitamin	fjörefni	Noun
+vitamin	vítamín	Noun
+vitamin A	A-vítamín	Noun
+vitamin E	E-vítamín	Noun
+vodka	vodka	Noun
+vogue	tíska	Noun
+vogue	æði	Noun
+voice	málrómur	Noun
+voice	raust	Noun
+voice	rómur	Noun
+voice	rödd	Noun
+volcano	eldfjall	Noun
+volcano	eldstöð	Noun
+volleyball	blak	Noun
+volleyball	blakbolti	Noun
+vortex	hringiða	Noun
+vote	atkvæði	Noun
+vote	kosning	Noun
+vulva	kvensköp	Noun
+vulva	píka	Noun
+vulva	sköp	Noun
+völva	völva	Noun
+wader	vaðfugl	Noun
+walking stick	göngustafur	Noun
+walking stick	stafur	Noun
+walking stick	stiki	Noun
+walkman	vasadiskó	Noun
+wall clock	veggklukka	Noun
+walnut	valhneta	Noun
+war	stríð	Noun
+war	styrjöld	Noun
+warmonger	stríðsæsingamaður	Noun
+warning	aðvörun	Noun
+warning	chiefly plural	Noun
+warning	varnaðarorð	Noun
+warning	viðvörun	Noun
+wart	varta	Noun
+water dog	vatnahundur	Noun
+water slide	vatnsrennibraut	Noun
+water vapor	eimur	Noun
+water vapor	loftraki	Noun
+water vapor	vatnsgufa	Noun
+watermelon	vatnsmelóna	Noun
+watershed	vatnaskil	Noun
+watt	vatt	Noun
+wavefunction	bylgjufall	Noun
+wear and tear	slit	Noun
+weaver	vefari	Noun
+web browser	vafri	Noun
+web page	vefsíða	Noun
+website	vefsetur	Noun
+website	vefur	Noun
+wedding cake	brúðarterta	Noun
+wedding cake	brúðkaupsterta	Noun
+weekend	helgi	Noun
+weight	þyngd	Noun
+welcome	f-p	Noun
+welcome	móttökur	Noun
+west	vestur	Noun
+western	vestri	Noun
+wet nurse	brjóstmóðir	Noun
+whiskey	viskí	Noun
+whistle-blower	uppljóstrari	Noun
+white	hvítur	Noun
+white bread	franskbrauð	Noun
+white bread	hveitibrauð	Noun
+white space	bil	Noun
+white space	hvítbil	Noun
+white stork	hvítstorkur	Noun
+whooping cough	kíghósti	Noun
+wig	hárkolla	Noun
+wild boar	villigöltur	Noun
+wild boar	villisvín	Noun
+wildcard	algildistákn	Noun
+will o' the wisp	hrævareldur	Noun
+willow	víðir	Noun
+wind instrument	blásturshljóðfæri	Noun
+wind power	vindorka	Noun
+windmill	vindmylla	Noun
+wing	vængur	Noun
+wing	álma	Noun
+winger	kantmaður	Noun
+winter	vetur	Noun
+winter sport	vetraríþrótt	Noun
+wire	vír	Noun
+wisdom	viska	Noun
+wisdom	vísdómur	Noun
+wisdom tooth	endajaxl	Noun
+wisdom tooth	geirjaxl	Noun
+wisdom tooth	vísdómstönn	Noun
+wisent	evrópskur vísundur	Noun
+wish	ósk	Noun
+witch doctor	galdralæknir	Noun
+witness	vottur	Noun
+wolf	úlfur	Noun
+wolverine	jarfi	Noun
+woman	kona	Noun
+woman	kvenmaður	Noun
+wonder	snillingur	Noun
+wonder	undur	Noun
+wood alcohol	tréspíri	Noun
+wood mouse	hagamús	Noun
+wool	ull	Noun
+word of mouth	munnlega	Noun
+word of mouth	á skotspónum	Noun
+word of mouth	í munnmælum	Noun
+word processing	ritvinnsla	Noun
+workshop	smiðja	Noun
+workshop	verkstæði	Noun
+world war	heimsstyrjöld	Noun
+world war	veraldarstríð	Noun
+worm	maðkur	Noun
+worm	ormur	Noun
+wren	músarindill	Noun
+wrist	úlnliður	Noun
+wristwatch	armbandsúr	Noun
+wristwatch	úr	Noun
+xenon	xenon	Noun
+xylophone	sílófónn	Noun
+yacht	snekkja	Noun
+yawn	geispi	Noun
+yellow card	gult spjald	Noun
+yo-yo	jójó	Noun
+yogurt	jógúrt	Noun
+yore	alt=langa	Noun
+yore	alt=löngu	Noun
+yore	fyrir	Noun
+young	ungviði	Noun
+ytterbium	ytterbín	Noun
+yttrium	yttrín	Noun
+yucca	júkka	Noun
+yucca	pálmalilja	Noun
+zebra	sebrahestur	Noun
+zeitgeist	tíðarandi	Noun
+zero	núll	Noun
+zero	núllstöð	Noun
+zirconium	sirkon	Noun
+zither	sítar	Noun
+zombie	uppvakningur	Noun
+zoo	dýragarður	Noun
+zoology	dýrafræði	Noun
+zoonosis	súna	Noun
+zygote	okfruma	Noun
+ǃXũũ	forsetafrú	Noun
+πεντε	innspýting	Noun
+приемник воздушного давления	sléttsöngur	Noun
+’mong	sextándatala	Noun
+French kiss	fara í sleik	Verb
+X-ray	gegnumlýsa	Verb
+abet	aðstoða	Verb
+accuse	kæra	Verb
+adore	dýrka	Verb
+age	dated	Verb
+age	eldast	Verb
+age	kemba hærurnar	Verb
+age	verða gamall	Verb
+air	lofta	Verb
+amble	labba	Verb
+anger	gera	Verb
+anger	reita til reiði	Verb
+anger	reiðan	Verb
+anger	reiðast	Verb
+arrive	koma	Verb
+assemble	flykkjast	Verb
+assemble	samansetja	Verb
+assemble	smala	Verb
+backbite	baknaga	Verb
+backbite	rægja	Verb
+backbite	rógbera	Verb
+bag	sekkja	Verb
+bag	setja í poka	Verb
+bag	veiða	Verb
+bake	baka	Verb
+bake	seyða	Verb
+bathe	baða	Verb
+be	vera	Verb
+be called	heita	Verb
+begin	byrja	Verb
+begin	hefjast	Verb
+bend	beygja	Verb
+bite	bíta	Verb
+boat	fara á báti	Verb
+boat	flytja á báti	Verb
+bowdlerize	ritskoða	Verb
+bowdlerize	to expurgate	Verb
+brand	brennimerkja	Verb
+breastfeed	leggja á brjóst	Verb
+call	heilsa upp á	Verb
+call	heimsækja	Verb
+call	hringja í	Verb
+call	hrópa	Verb
+call	kalla	Verb
+carry	bera	Verb
+cast	fleygja	Verb
+cast	kasta	Verb
+cast	varpa	Verb
+castle	hrókera	Verb
+categorize	draga í dilka	Verb
+categorize	flokka	Verb
+cause	valda	Verb
+center	miðja	Verb
+cf.	sbr.	Verb
+change	breyta	Verb
+change	breytast	Verb
+chew	tyggja	Verb
+coffin	kistuleggja	Verb
+coin	búa til	Verb
+coin	slá mynt	Verb
+color	lita	Verb
+color	roðna	Verb
+compare	bera saman	Verb
+compare	miða við	Verb
+cooperate	vinna saman	Verb
+corrode	æta	Verb
+cover	þekja	Verb
+cream	bursta	Verb
+cream	rústa	Verb
+create	skapa	Verb
+crochet	hekla	Verb
+cut	alt=troða sér	Verb
+cut	alt=troðast	Verb
+cut	draga	Verb
+cut	klippa	Verb
+cut	skera	Verb
+cut	skera niður	Verb
+cut	skipta	Verb
+cut	skrópa	Verb
+cut	with a knife	Verb
+cut	with scissors	Verb
+cut up	brytja	Verb
+dance	dansa	Verb
+dawn	birta af degi	Verb
+dawn	daga	Verb
+debilitate	veikja	Verb
+decide	ákveða	Verb
+defend	verja	Verb
+dehumanize	alt=gera að tilfinningalausri skepnu	Verb
+dehumanize	alt=gera ómennskan	Verb
+dehumanize	make an insensible beast	Verb
+dehumanize	make inhuman	Verb
+design	hanna	Verb
+determine	ákveða	Verb
+devil	djöflast í	Verb
+devil	plága	Verb
+devil	þjá	Verb
+die	andast	Verb
+die	deyja	Verb
+die	drepast	Verb
+die	falla frá	Verb
+die	fara yfrum	Verb
+die	lognast út af	Verb
+die	láta lífið	Verb
+die	látast	Verb
+die	skylja við	Verb
+die	sofna hinsta svefni	Verb
+die	sofna svefninum langa	Verb
+die	sálast	Verb
+die	týna lífinu	Verb
+die	verða bráðkvaddur	Verb
+die hard	alt=vera lífseigur	Verb
+do	gera	Verb
+do	gjöra	Verb
+don't	ekki	Verb
+download	hlaða niður	Verb
+download	niðurhala	Verb
+dress	klæða	Verb
+dress	sig	Verb
+drink	drekka	Verb
+drive	aka	Verb
+drive	keyra	Verb
+drown	drukkna	Verb
+dry	þorna	Verb
+dry	þurrka	Verb
+egg on	eggja	Verb
+enter	ganga inn	Verb
+enter	koma inn	Verb
+escape	sleppa	Verb
+evert	snúa innhverfunni út	Verb
+evert	úthverfa	Verb
+excite	æsa	Verb
+exhume	grafa upp	Verb
+expectorate	hósta	Verb
+expectorate	hósta upp	Verb
+experience	reyna	Verb
+experience	upplifa	Verb
+experience	verða fyrir	Verb
+extra-terrestrial	taka við	Verb
+factor	leysa upp í þætti	Verb
+factor	þátta	Verb
+factor	þætta	Verb
+fast forward	spóla	Verb
+fast forward	spóla áfram	Verb
+finger	putta	Verb
+fix	laga	Verb
+flirt	daðra	Verb
+flood	hlaupa	Verb
+forget	gleyma	Verb
+form	mynda	Verb
+form	myndast	Verb
+format	formatta	Verb
+format	forsníða	Verb
+format	strauja	Verb
+frisk	leita á	Verb
+frost	hríma	Verb
+fuck off	éta skít	Verb
+get together	koma saman	Verb
+get together	slá sér saman	Verb
+get together	slá sér saman um	Verb
+go on	haltu áfram	Verb
+govern	stjórna	Verb
+grow	gróa	Verb
+grow	vaxa	Verb
+grub	róta	Verb
+grub	róta í	Verb
+hand out	dreifa	Verb
+hand out	útbýta	Verb
+handed over	afhenda	Verb
+hang up	hengja	Verb
+hang up	leggja á	Verb
+hang up	skella á	Verb
+happen	bera við	Verb
+happen	gerast	Verb
+happen	henda	Verb
+happen	verða	Verb
+happen	vilja til	Verb
+harm	is	Verb
+hate	hata	Verb
+headbutt	skalla	Verb
+hitchhike	fara á puttanum	Verb
+hold out	einhverju	Verb
+hold out	geyma	Verb
+hold out	halda	Verb
+hold out	hinkra	Verb
+hold out	leyndu	Verb
+hold out	þrauka	Verb
+horseshoe	járna	Verb
+hug	faðma	Verb
+hug	knúsa	Verb
+hum	raula	Verb
+hunt	leita	Verb
+hunt	veiða	Verb
+hurt	meiða	Verb
+hurt	særa	Verb
+hurt	vera vont	Verb
+ignore	hunsa	Verb
+implore	grátbiðja	Verb
+increase	auka	Verb
+increase	fjölga	Verb
+increase	waxa	Verb
+increase	ágerast	Verb
+inspire	hvetja	Verb
+inter	greftra	Verb
+inter	jarða	Verb
+inter	jarðsetja	Verb
+iron	rare	Verb
+iron	straua	Verb
+iron	strauja	Verb
+isn't	er ekki	Verb
+jerk off	runka sér	Verb
+joke	grínast	Verb
+joke	spauga	Verb
+jot	hripa	Verb
+jot	hripa hjá sér	Verb
+jot	hripa niður	Verb
+jot	punkta	Verb
+jot	punkta niður	Verb
+jot	skrifa hjá sér	Verb
+journey	ferðast	Verb
+juxtapose	hliðstæður	Verb
+juxtapose	juxtaposed	Verb
+juxtapose	place side by side	Verb
+juxtapose	samliggjandi	Verb
+juxtapose	setja hlið við hlið	Verb
+kill time	drepa tímann	Verb
+knock	banka	Verb
+knock out	rota	Verb
+lack	skorta	Verb
+lament	harma	Verb
+lament	syrgja	Verb
+lasso	snara	Verb
+let's	við skulum	Verb
+level	jafna	Verb
+level	jafna við jörðu	Verb
+lick	sleikja	Verb
+lie down	leggjast	Verb
+lie down	leggjast niður	Verb
+lipread	varalestur	Verb
+lisp	vera smámælt	Verb
+lisp	vera smámæltur	Verb
+listen	eftir	Verb
+listen	hlusta	Verb
+listen	á	Verb
+log in	skrá inn	Verb
+long	þrá	Verb
+look	horfa	Verb
+look	kíkja	Verb
+look	líta	Verb
+look	líta út	Verb
+look	sjá	Verb
+look	sýnast	Verb
+look	virðast	Verb
+look back	líta aftur	Verb
+look back	líta um öxl	Verb
+look back	líta við	Verb
+man	manna	Verb
+masturbate	runka	Verb
+melt	is	Verb
+modernize	nútímavæða	Verb
+moo	baula	Verb
+mop	moppa	Verb
+mop	skrúbba	Verb
+mop	skúra	Verb
+mop	þvo	Verb
+moult	fara úr hárum	Verb
+moult	fella fjaðrir	Verb
+moult	hleypa hömum	Verb
+moult	of birds	Verb
+moult	of cats and dogs	Verb
+moult	of insects and reptiles	Verb
+move	búferlum	Verb
+move	flytja	Verb
+move	flytjast	Verb
+move	færa	Verb
+move	keyra	Verb
+move	leggja	Verb
+move	snerta	Verb
+move	til	Verb
+near	nálgast	Verb
+nickname	uppnefna	Verb
+nod	að	Verb
+nod	að kinka kolli	Verb
+nod	að sofna	Verb
+nod	kinka	Verb
+nod	kolli	Verb
+nod	sofna	Verb
+occupy	hernema	Verb
+order	panta	Verb
+order	skipa	Verb
+organize	skipuleggja	Verb
+outlaw	útlægja	Verb
+overrate	ofmeta	Verb
+paint	mála	Verb
+park	leggja	Verb
+park	parkera	Verb
+parse	þátta	Verb
+part	fara	Verb
+pay back	endurgjalda	Verb
+pepper	pipra	Verb
+persevere	halda ótrauður áfram	Verb
+persevere	láta ekki deigan síga	Verb
+persevere	láta engan bilbug á sér finna	Verb
+persevere	seiglast við	Verb
+photograph	ljósmynda	Verb
+pick	lesa	Verb
+pick up	byrja	Verb
+pick up	hefja	Verb
+pick up	lyfta	Verb
+plan	ætla	Verb
+play	leika	Verb
+play	leika sér	Verb
+play	spila	Verb
+play	spila á	Verb
+plot	brugga launráð	Verb
+plot	kortleggja	Verb
+plough	plægja	Verb
+politics	stjórnmál	Verb
+preach	predika	Verb
+prepare	undirbúa	Verb
+presuppose	ganga út frá	Verb
+print	prenta	Verb
+produce	dated	Verb
+produce	framleiða	Verb
+produce	pródúsa	Verb
+produce	pródúsera	Verb
+produce	slang	Verb
+produce	útvega	Verb
+program	forrita	Verb
+proofread	prófarkalesa	Verb
+protest	mótmæla	Verb
+pull	draga	Verb
+pull	toga	Verb
+put off	draga á langinn	Verb
+put off	langur	Verb
+put on	fara í	Verb
+quote	vitna í	Verb
+re-lay	endurleggja	Verb
+realize	fatta	Verb
+realize	framkvæma	Verb
+realize	gera sér grein fyrir	Verb
+realize	gera sér ljóst	Verb
+realize	informal	Verb
+realize	koma í framkvæmd	Verb
+realize	komast að raun um	Verb
+realize	átta sig á	Verb
+recompense	borga bætur	Verb
+recompense	launa	Verb
+recycle	endurnota	Verb
+recycle	endurnýta	Verb
+recycle	endurvinna	Verb
+reign	halda	Verb
+reign	ríkja	Verb
+reign	titli(num)	Verb
+reside	búa	Verb
+ride	ríða	Verb
+run	hlaupa	Verb
+run	leiða	Verb
+run	reka	Verb
+run	stýra	Verb
+salt	salta	Verb
+save	bjarga	Verb
+save	frelsa	Verb
+save	geyma	Verb
+save	informal, colloquial	Verb
+save	leggja fyrir	Verb
+save	leggja til hliðar	Verb
+save	safna	Verb
+save	seiva	Verb
+save	spara	Verb
+save	varðveita	Verb
+save	verja	Verb
+save	vernda	Verb
+save	vista	Verb
+scythe	slá	Verb
+scythe	slá með orfi og ljá	Verb
+search	leita	Verb
+seek	leita	Verb
+seesaw	vega salt	Verb
+send	senda	Verb
+shake	dansa	Verb
+shake	hrista 	Verb
+shake	takast í hendur	Verb
+shoe	járna	Verb
+show	sýna	Verb
+sin	syndga	Verb
+sing	syngja	Verb
+singe	brenna	Verb
+singe	brenna lítillega	Verb
+singe	sviðna	Verb
+singe	svíða	Verb
+sink	sökkva	Verb
+sip	bergja	Verb
+skateboard	skeita	Verb
+skateboard	slang	Verb
+ski	skíða	Verb
+skinny-dip	is	Verb
+slaughter	is	Verb
+slave	púla	Verb
+slave	þræla	Verb
+slay	bana	Verb
+sleep over	gista	Verb
+sleep talk	að tala sofandi	Verb
+sleep talk	tala upp úr svefni 	Verb
+snap	colloquial	Verb
+snap	smella	Verb
+snap	snappa	Verb
+snore	hrjóta	Verb
+speak	tala	Verb
+split	klofna	Verb
+stammer	stama	Verb
+stamp	stimpla	Verb
+stand	standa	Verb
+stand up	standa upp	Verb
+stand up	svíkja	Verb
+stress	leggja	Verb
+stress	á	Verb
+stress	áherslu	Verb
+stroll	labba	Verb
+sue	is	Verb
+suffix	skeyta við	Verb
+swindle	svindla	Verb
+swindle	svindla á	Verb
+swing	hanga	Verb
+swing	róla	Verb
+swing	sveiflast	Verb
+swing	sér	Verb
+take	nema	Verb
+take	taka	Verb
+take off	fara úr	Verb
+take off	fjarlægja	Verb
+take off	hefja sig á flug	Verb
+take off	hefja sig á loft	Verb
+take off	referring to clothing that closes around the body or parts of it	Verb
+take off	taka af	Verb
+take off	takast á flug	Verb
+take off	takast á loft	Verb
+taste	bragða	Verb
+taste	bragðast	Verb
+taste	smakka	Verb
+taxi	taxa	Verb
+telephone	hringja	Verb
+telephone	hringja í	Verb
+thin	alt=þynnast	Verb
+thin	mjókka	Verb
+thin	þynna	Verb
+thread	þræða	Verb
+thunder	þrymja	Verb
+tickle	kitla	Verb
+time	human decision	Verb
+time	mæla tímann á	Verb
+time	of a device	Verb
+time	tímamæla	Verb
+time	tímasetja	Verb
+time	tímastilla	Verb
+tonsure	krúnuraka	Verb
+trade	skipta	Verb
+translate	þýða	Verb
+travel	ferðast	Verb
+trumpet	básúna	Verb
+trumpet	leika	Verb
+trumpet	leika á trompet	Verb
+trumpet	spila	Verb
+trumpet	spila á trompet	Verb
+trumpet	trompet	Verb
+trumpet	á	Verb
+try on	máta	Verb
+turn on	kveikja á	Verb
+turn on	referring to machines or appliances that produce some sort of motion or activity	Verb
+turn on	referring to radio or TV, dated	Verb
+turn on	setja í gang	Verb
+turn on	skrúfa frá	Verb
+tweet	tísta	Verb
+update	uppfæra	Verb
+upload	hlaða upp	Verb
+upload	upphala	Verb
+use	nota	Verb
+vacuum	ryksuga	Verb
+veto	beita neitunarvaldi	Verb
+visit	heimsækja	Verb
+vomit	gubba	Verb
+vomit	kasta upp	Verb
+vomit	spúa	Verb
+vomit	spýja	Verb
+vomit	æla	Verb
+vote	kjósa	Verb
+wait	bíða	Verb
+wake up	vakna	Verb
+wake up	vekja	Verb
+want	vilja	Verb
+wash	þvo	Verb
+weigh	vega	Verb
+welcome	bjóða velkominn	Verb
+welcome	þiggja með þökkum	Verb
+wish	óska	Verb
+wonder	undra	Verb
+yawn	gapa	Verb
+yawn	geispa	Verb
+you	þéra	Verb
+zero	núllstilla	Verb
