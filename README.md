@@ -4,7 +4,7 @@ But the page text follows an own format indicating it's sturcture. The article2x
 ## Article2xml Files
 python English_article2xml.py enwiktionary-20210420-pages-articles.xml
 
-This is an example how to run the article2xml files. They take an wiktionary dump file in the appropiate language (Catalan_article2xml.py needs a dump file of the Catalan wiktionary and Swedish_article2xml.py a dump file of the Swedish wiktionary etc.). The output is a xml-file called articles.xml
+This is an example how to run the article2xml files. They take a wiktionary dump file in the appropiate language (Catalan_article2xml.py needs a dump file of the Catalan wiktionary and Swedish_article2xml.py a dump file of the Swedish wiktionary etc.). The output is a xml-file called articles.xml
 ## Readin Files
 python English_readin_romance.py article.xml
 
